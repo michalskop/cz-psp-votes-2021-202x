@@ -2,7 +2,6 @@
 
 # data standard: https://www.popoloproject.com/specs/person.html
 
-from asyncio import ensure_future
 import datetime
 import numpy as np
 import pandas as pd
@@ -17,7 +16,7 @@ region_type = 'Volební kraj - 2002'
 
 # read osoby, transform to standard format
 osoby = pd.read_csv(path + source_path + "osoby.unl", sep="|", encoding="cp1250", header=None)
-header = ['id', 'title_pre', 'given_name', 'family_name', 'title_post', 'birth_date', 'gender', 'updated_on', 'death_date', 'dummy']
+header = ['id', 'title_pre', 'family_name', 'given_name', 'title_post', 'birth_date', 'gender', 'updated_on', 'death_date', 'dummy']
 osoby.columns = header
 osoby['birth_date'] = osoby['birth_date'].apply(lambda x: datetime.datetime.strptime(x, '%d.%m.%Y').strftime('%Y-%m-%d'))
 osoby['death_date'] = osoby['death_date'].apply(lambda x: datetime.datetime.strptime(x, '%d.%m.%Y').strftime('%Y-%m-%d') if x is not np.nan else np.nan)
