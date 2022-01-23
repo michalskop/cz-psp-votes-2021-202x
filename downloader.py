@@ -7,11 +7,7 @@ import requests
 import zipfile
 
 # path
-try:
-    path = os.path.dirname(os.path.realpath(__file__))
-except Exception:
-    path = os.getcwd()
-path = "/home/michal/dev/wpca/psp/cz-2021-202x/"
+path = "./"
 data_path = "source/"
 
 
