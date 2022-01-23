@@ -96,4 +96,4 @@ columns = ['id', 'mp_id', 'family_name', 'given_name', 'title_pre', 'title_post'
 
 # save
 data.loc[:, columns].to_csv(path + data_path + 'mps.csv', index=False)
-data.loc[:, columns].to_json(path + data_path + 'mps.json', orient='records', force_ascii=False, lines=True)
+data.loc[:, columns].to_json(path + data_path + 'mps.json', orient='records', force_ascii=False, indent=2)
