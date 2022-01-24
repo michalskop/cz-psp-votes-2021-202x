@@ -1,4 +1,4 @@
-id,name,attendance,possible,klub,region_name_cs,photo_url,účast
+id,name,attendance,possible,last_group_abbreviation,region_name_cs,photo_url,účast
 5700,Ivan Adamec,197,203,ODS,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5700.jpg,97
 6254,Věra Adámková,202,204,ANO,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6254.jpg,99
 6150,Andrej Babiš,28,204,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6150.jpg,14
