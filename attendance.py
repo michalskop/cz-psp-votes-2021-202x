@@ -42,7 +42,7 @@ try:
     check = pd.read_csv(path + source_path + "hl2021z.unl", sep="|", encoding="cp1250")
     header = ['vote_event_id', 'turn', 'mode', 'id_h2', 'id_h3', 'dummy']
     check.columns = header
-    invalid = check[check['mode'] == 1]]['vote_event_id'].unique()
+    invalid = check[check['mode'] == 1]['vote_event_id'].unique()
 except:
     pass
 
@@ -72,5 +72,7 @@ output = attendance.loc[:, ['id', 'name', 'attendance', 'possible', 'rate', 'las
 
 output['účast'] = (output['rate'] *100).round(0).astype(int)
 del output['rate']
+
+# output.rename(columns={'last_group_abbreviation': 'klub'}, inplace=True)
 
 output.to_csv(path + data_path + "attendance.v1.csv", index=False)

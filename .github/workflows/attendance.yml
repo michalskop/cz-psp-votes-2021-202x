@@ -1,5 +1,4 @@
-name: Update MP list
-
+name: Attendance
 on:
   push:
     branches:
