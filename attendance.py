@@ -63,6 +63,9 @@ attendance.columns = [c.strip('_') for c in attendance.columns]
 attendance = attendance.reset_index()
 attendance = attendance.merge(mps, on='mp_id')
 
+# only current mps
+attendance = attendance[attendance['in_parliament']]
+
 # photo + name
 attendance['photo_url'] = "https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i" + attendance["id"].astype(str) + ".jpg" 
 attendance['name'] = attendance['given_name'] + " " + attendance['family_name']
