@@ -75,4 +75,6 @@ del output['rate']
 
 # output.rename(columns={'last_group_abbreviation': 'klub'}, inplace=True)
 
+output.sort_values(by=['last_group_abbreviation'], inplace=True)
+
 output.to_csv(path + data_path + "attendance.v1.csv", index=False)
