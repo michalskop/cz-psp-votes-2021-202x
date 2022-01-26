@@ -5063,7 +5063,7 @@
     "phone":null,
     "fax":null,
     "psp_phone":null,
-    "facebook":null
+    "facebook":"https:\/\/www.facebook.com\/lacina.jan.STAN"
   },
   {
     "id":6477,
@@ -5165,7 +5165,7 @@
     "phone":null,
     "fax":null,
     "psp_phone":null,
-    "facebook":null
+    "facebook":"https:\/\/www.facebook.com\/MiladaVoborskaSTAN"
   },
   {
     "id":6433,
@@ -6076,14 +6076,14 @@
     "last_group_until":null,
     "in_parliament":true,
     "web":null,
-    "street":"Dolní náměstí  109",
+    "street":"Dolní náměstí 109",
     "municipality":"Olomouc",
     "postcode":"77900",
     "email":"mullert@psp.cz",
     "phone":null,
     "fax":null,
     "psp_phone":null,
-    "facebook":null
+    "facebook":"https:\/\/www.facebook.com\/tomasmullerstan"
   },
   {
     "id":6771,
