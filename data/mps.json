@@ -568,9 +568,9 @@
     "last_group_until":null,
     "in_parliament":true,
     "web":null,
-    "street":null,
-    "municipality":null,
-    "postcode":null,
+    "street":"Hradiště 97\/4",
+    "municipality":"Ústí nad Labem",
+    "postcode":"40001",
     "email":"kuceram@psp.cz",
     "phone":null,
     "fax":null,
@@ -1248,9 +1248,9 @@
     "last_group_until":null,
     "in_parliament":true,
     "web":null,
-    "street":null,
-    "municipality":null,
-    "postcode":null,
+    "street":"Vojanova 2471\/2b",
+    "municipality":"Brno",
+    "postcode":"61500",
     "email":"valekv@psp.cz",
     "phone":null,
     "fax":null,
@@ -2098,9 +2098,9 @@
     "last_group_until":null,
     "in_parliament":true,
     "web":null,
-    "street":null,
-    "municipality":null,
-    "postcode":null,
+    "street":"Husova 2117",
+    "municipality":"Benešov",
+    "postcode":"25601",
     "email":"slavikj@psp.cz",
     "phone":null,
     "fax":null,
@@ -4145,7 +4145,7 @@
     "phone":null,
     "fax":null,
     "psp_phone":null,
-    "facebook":null
+    "facebook":"https:\/\/www.facebook.com\/MartinKuklaPolitik"
   },
   {
     "id":6475,
@@ -5437,7 +5437,7 @@
     "phone":null,
     "fax":null,
     "psp_phone":null,
-    "facebook":null
+    "facebook":"https:\/\/www.facebook.com\/josefflekSTAN"
   },
   {
     "id":6752,
