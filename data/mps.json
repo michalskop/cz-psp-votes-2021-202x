@@ -3662,7 +3662,7 @@
     "last_group_until":null,
     "in_parliament":true,
     "web":null,
-    "street":"Mezírka 775\/504",
+    "street":"Mezírka 775\/1",
     "municipality":"Brno",
     "postcode":"60200",
     "email":"schillerovaa@psp.cz",
@@ -5055,7 +5055,7 @@
     "last_group_since":"2021-10-15",
     "last_group_until":null,
     "in_parliament":true,
-    "web":null,
+    "web":"https:\/\/www.jan-lacina.cz\/",
     "street":"Malostranské nám. 266\/5",
     "municipality":"Praha 1",
     "postcode":"11800",
@@ -5981,7 +5981,7 @@
     "phone":null,
     "fax":null,
     "psp_phone":"+420 773 955 279",
-    "facebook":"www.facebook.com\/starostove, www.stan.cz"
+    "facebook":"https:\/\/www.facebook.com\/UrbanovaBarboraSTAN"
   },
   {
     "id":5914,
