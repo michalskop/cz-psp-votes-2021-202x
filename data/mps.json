@@ -4342,7 +4342,7 @@
     "last_group_until":null,
     "in_parliament":true,
     "web":null,
-    "street":"Komenského nám. 412",
+    "street":"náměstí Komenského 412",
     "municipality":"Dobříš",
     "postcode":"26301",
     "email":"helebrantt@psp.cz",
@@ -5905,7 +5905,7 @@
     "last_group_since":"2021-10-15",
     "last_group_until":null,
     "in_parliament":true,
-    "web":null,
+    "web":"https:\/\/www.stan.cz",
     "street":null,
     "municipality":null,
     "postcode":null,
@@ -5913,7 +5913,7 @@
     "phone":null,
     "fax":null,
     "psp_phone":null,
-    "facebook":null
+    "facebook":"https:\/\/www.facebook.com\/ondrejlochmanstarosta"
   },
   {
     "id":6524,
@@ -6861,7 +6861,7 @@
     "street":null,
     "municipality":null,
     "postcode":null,
-    "email":"posta@psp.cz",
+    "email":"levkoj@psp.cz",
     "phone":null,
     "fax":null,
     "psp_phone":null,
