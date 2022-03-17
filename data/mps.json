@@ -2846,9 +2846,9 @@
     "last_group_until":null,
     "in_parliament":true,
     "web":null,
-    "street":null,
-    "municipality":null,
-    "postcode":null,
+    "street":"Radniční 23\/1",
+    "municipality":"Děčín 1",
+    "postcode":"40502",
     "email":"kohoutekt@psp.cz",
     "phone":null,
     "fax":null,
@@ -6082,7 +6082,7 @@
     "email":"mullert@psp.cz",
     "phone":null,
     "fax":null,
-    "psp_phone":null,
+    "psp_phone":"+420 724 324 165",
     "facebook":"https:\/\/www.facebook.com\/tomasmullerstan"
   },
   {
