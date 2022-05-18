@@ -5,8 +5,8 @@
 
 import datetime
 import io
-from itertools import count
-import numpy as np
+# from itertools import count
+# import numpy as np
 import pandas as pd
 
 import requests
@@ -73,7 +73,7 @@ attendance['name'] = attendance['given_name'] + " " + attendance['family_name']
 # output v.1
 output = attendance.loc[:, ['id', 'name', 'attendance', 'possible', 'rate', 'last_group_abbreviation', 'region_name_cs', 'photo_url']]
 
-output['účast'] = (output['rate'] *100).round(0).astype(int)
+output['účast'] = (output['rate'] * 100).round(0).astype(int)
 del output['rate']
 
 # output.rename(columns={'last_group_abbreviation': 'klub'}, inplace=True)
