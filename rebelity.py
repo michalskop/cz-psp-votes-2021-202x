@@ -169,8 +169,9 @@ govity['name'] = govity['given_name'] + " " + govity['family_name']
 govity['gover'] = round(1000 * govity['govity']) / 10
 
 govity.rename(columns={'possibly_against_gov': 'possible'}, inplace=True)
+govity['with_gov'] = govity['possible'] - govity['against_gov']
 
-output2 = govity.loc[:, ['id', 'name', 'against_gov', 'possible', 'gover', 'last_group_abbreviation', 'region_name_cs', 'photo_url']]
+output2 = govity.loc[:, ['id', 'name', 'with_gov', 'possible', 'gover', 'last_group_abbreviation', 'region_name_cs', 'photo_url']]
 
 output2.to_csv(path + data_path + "govity.v1.csv", index=False)
 
