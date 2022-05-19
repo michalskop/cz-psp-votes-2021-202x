@@ -27,8 +27,11 @@ if r.ok:
   z = zipfile.ZipFile(io.BytesIO(r.content))
   z.extractall(path + source_path)
 
-# read hlasovani
-
+url = "https://www.psp.cz/eknih/cdrom/opendata/poslanci.zip"
+r = requests.get(url)
+if r.ok:
+  z = zipfile.ZipFile(io.BytesIO(r.content))
+  z.extractall(path + source_path)
 
 # read organy
 organy = pd.read_csv(path + source_path + "organy.unl", sep='|', encoding='cp1250', header=None)
