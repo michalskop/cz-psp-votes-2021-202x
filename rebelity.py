@@ -117,7 +117,7 @@ pt = pd.pivot_table(valid_votes, index=['vote_event_id', 'org_id'], values=['vot
 pt['group_way'] = np.sign(pt['vote_value'])
 pt['group_way_abs'] = np.abs(np.sign(pt['vote_value']))
 
-valid_votes = valid_votes.merge(pt, on=['vote_event_id', 'org_id'])
+valid_votes = valid_votes.merge(pt.loc[:, ['vote_event_id', 'org_id', 'group_way', 'group_way_abs']], on=['vote_event_id', 'org_id'])
 
 # add gov vote and merge back
 ptg = pd.pivot_table(valid_votes, index=['vote_event_id', 'in_gov'], values=['vote_value'], dropna=False, fill_value=0, aggfunc=np.sum).reset_index()
