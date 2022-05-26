@@ -57,4 +57,4 @@ ptx['name'] = ptx['given_name'] + " " + ptx['family_name']
 out = ptx.loc[:, ['repeted', 'unrepeted', 'all', 'name', 'last_group_abbreviation']]
 out.columns = ['Hlasování se opakovalo', 'Jen oznámeno pro záznam', 'Celkem', 'Poslanec/kyně', 'Klub']
 
-out.to_csv(path + data_path + "confused.csv", index=False)
+out.to_csv(path + data_path + "confused.v1.csv", index=False)
