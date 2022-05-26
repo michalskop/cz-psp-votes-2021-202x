@@ -77,6 +77,7 @@ except:
 
 # check 2: zpochybnění
 # note: we can use ...x or ...z, currently ...z is not available
+# note: mode: "Typ zpochybnění: 0 - žádost o opakování hlasování - v tomto případě se o této žádosti neprodleně hlasuje a teprve je-li tato žádost přijata, je hlasování opakováno; 1 - pouze sdělení pro stenozáznam, není požadováno opakování hlasování.""
 invalid2 = []
 try: 
     # check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "z.unl", sep="|", encoding="cp1250")
@@ -84,7 +85,7 @@ try:
     check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "x.unl", sep="|", encoding="cp1250")
     header = ['vote_event_id', 'mp_id', 'mode', 'dummy']
     check.columns = header
-    invalid2 = check[check['mode'] == 1]['vote_event_id'].unique()
+    invalid2 = check[check['mode'] == 0]['vote_event_id'].unique()
 except:
     pass
 
