@@ -1,4 +1,4 @@
-"""Calculates rebelity."""
+"""Calculates rebelity and govity."""
 
 # Note: depends on mps.csv from create_mp_list.py
 # https://www.psp.cz/sqw/hp.sqw?k=1302
@@ -21,7 +21,7 @@ current_hlasovani = 2021
 gov_since = '2021-12-17'
 
 # download fresh data
-url = "http://www.psp.cz/eknih/cdrom/opendata/hl-2021ps.zip"
+url = "http://www.psp.cz/eknih/cdrom/opendata/hl-" + str(current_hlasovani) + "ps.zip"
 r = requests.get(url)
 if r.ok:
   z = zipfile.ZipFile(io.BytesIO(r.content))
@@ -60,20 +60,35 @@ votes.columns = header
 del votes["dummy"]
 
 # read vote events
-vote_events = pd.read_csv(path + source_path + "hl2021s.unl", sep="|", encoding="cp1250")
+vote_events = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "s.unl", sep="|", encoding="cp1250")
 header = ['vote_event_id', 'org_id', 'sitting', 'vote_event_number', 'bod', 'date', 'time', 'yes', 'no', 'abstain', 'not_voting', 'voted', 'quorum', 'vote_event_type', 'result', 'name', 'short_name', 'dummy']
 vote_events.columns = header
 vote_events['date'] = vote_events['date'].apply(lambda x: datetime.datetime.strptime(x, "%d.%m.%Y").strftime("%Y-%m-%d"))
 
-# check: zpochynění
-invalid = []
+# check 1: zmatečná hlasování
+invalid1 = []
 try: 
-    check = pd.read_csv(path + source_path + "hl2021z.unl", sep="|", encoding="cp1250")
-    header = ['vote_event_id', 'turn', 'mode', 'id_h2', 'id_h3', 'dummy']
+    check = pd.read_csv(path + source_path + "zmatecne.unl", sep="|", encoding="cp1250")
+    header = ['vote_event_id', 'dummy']
     check.columns = header
-    invalid = check[check['mode'] == 1]['vote_event_id'].unique()
+    invalid1 = check['vote_event_id'].unique().astype(list)
 except:
     pass
+
+# check 2: zpochybnění
+# note: we can use ...x or ...z, currently ...z is not available
+invalid2 = []
+try: 
+    # check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "z.unl", sep="|", encoding="cp1250")
+    # header = ['vote_event_id', 'turn', 'mode', 'id_h2', 'id_h3', 'dummy']
+    check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "x.unl", sep="|", encoding="cp1250")
+    header = ['vote_event_id', 'mp_id', 'mode', 'dummy']
+    check.columns = header
+    invalid2 = check[check['mode'] == 1]['vote_event_id'].unique()
+except:
+    pass
+
+invalid = invalid1 + invalid2
 
 # valid votes (not zpochynění)
 valid_votes = votes[~votes['vote_event_id'].isin(invalid)]
@@ -128,6 +143,7 @@ ptgf['gov_way_abs'] = np.abs(np.sign(ptgf['vote_value']))
 valid_votes = valid_votes.merge(ptgf.loc[:, ['vote_event_id', 'gov_way', 'gov_way_abs']], on='vote_event_id')
 
 # rebeling
+# actively voting against their group
 valid_votes['rebeling'] = 0
 valid_votes.loc[valid_votes['vote_value_active'] * valid_votes['group_way'] == -1, ['rebeling']] = 1
 
@@ -149,7 +165,7 @@ rebelity = mps[mps['in_parliament']].merge(rt, on=['mp_id'])
 rebelity.sort_values(by=['last_group_abbreviation', 'rebelity'], ascending=[True, False], inplace=True)
 
 # output v.1
-rebelity['photo_url'] = "https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i" + rebelity["id"].astype(str) + ".jpg" 
+rebelity['photo_url'] = "https://www.psp.cz/eknih/cdrom/" + str(current_hlasovani) + "ps/eknih/" + str(current_hlasovani) + "ps/poslanci/i" + rebelity["id"].astype(str) + ".jpg" 
 rebelity['name'] = rebelity['given_name'] + " " + rebelity['family_name']
 
 rebelity['rebel'] = round(10000 * rebelity['rebelity']) / 100
@@ -166,7 +182,7 @@ govity = mps[mps['in_parliament']].merge(gt, on=['mp_id'])
 govity.sort_values(by=['last_group_abbreviation', 'govity'], ascending=[True, False], inplace=True)
 
 # output v.1
-govity['photo_url'] = "https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i" + govity["id"].astype(str) + ".jpg" 
+govity['photo_url'] = "https://www.psp.cz/eknih/cdrom/" + str(current_hlasovani) + "ps/eknih/" + str(current_hlasovani) + "ps/poslanci/i" + govity["id"].astype(str) + ".jpg" 
 govity['name'] = govity['given_name'] + " " + govity['family_name']
 
 govity['gover'] = round(1000 * govity['govity']) / 10
