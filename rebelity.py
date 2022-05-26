@@ -71,7 +71,7 @@ try:
     check = pd.read_csv(path + source_path + "zmatecne.unl", sep="|", encoding="cp1250")
     header = ['vote_event_id', 'dummy']
     check.columns = header
-    invalid1 = check['vote_event_id'].unique().astype(list)
+    invalid1 = list(check['vote_event_id'].unique())
 except:
     pass
 
@@ -85,7 +85,7 @@ try:
     check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "x.unl", sep="|", encoding="cp1250")
     header = ['vote_event_id', 'mp_id', 'mode', 'dummy']
     check.columns = header
-    invalid2 = check[check['mode'] == 0]['vote_event_id'].unique()
+    invalid2 = list(check[check['mode'] == 0]['vote_event_id'].unique())
 except:
     pass
 

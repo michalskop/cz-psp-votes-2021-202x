@@ -45,7 +45,7 @@ try:
     check = pd.read_csv(path + source_path + "zmatecne.unl", sep="|", encoding="cp1250")
     header = ['vote_event_id', 'dummy']
     check.columns = header
-    invalid1 = check['vote_event_id'].unique().astype(list)
+    invalid1 = list(check['vote_event_id'].unique())
 except:
     pass
 
