@@ -16,7 +16,7 @@ data_path = "source/"
 #     z.extractall(path + data_path)
 
 url = "http://www.psp.cz/eknih/cdrom/opendata/poslanci.zip"
-r = requests.get(url)
+r = requests.get(url, verify=False)
 if r.ok:
     z = zipfile.ZipFile(io.BytesIO(r.content))
     z.extractall(path + data_path)
