@@ -1,7 +1,9 @@
 # Analyses of votes in Lower Chamber in Czech Parliament 2021-202x
 
 ## Articles
-https://www.seznamzpravy.cz/clanek/fakta-poslanecka-snemovna-hlasovani-dochazka-poslancu-219329
+2021-202x: https://www.seznamzpravy.cz/clanek/fakta-poslanecka-snemovna-hlasovani-dochazka-poslancu-219329
+
+2022: https://www.seznamzpravy.cz/clanek/fakta-prace-poslancu-za-rok-2022-nejhorsi-stale-predseda-ano-premier-se-polepsil-221492 
 
 ## Former articles
 ### Presence
