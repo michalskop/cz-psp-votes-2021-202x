@@ -23,4 +23,5 @@ python3 confused.py
 git add -A
 timestamp=$(date +%FT%T%Z)
 git commit -m "Manual update ${timestamp}"
+git push
 ```
