@@ -1,4 +1,3 @@
 pandas
 numpy
 requests
-cryptography==36.0.2
