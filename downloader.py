@@ -16,10 +16,10 @@ data_path = "source/"
 #     z.extractall(path + data_path)
 
 url = "https://www.psp.cz/eknih/cdrom/opendata/poslanci.zip"
-r = requests.get(url, verify=True)
+r = requests.get(url, verify='psp-cz-chain.pem')
 if r.ok:
-    z = zipfile.ZipFile(io.BytesIO(r.content))
-    z.extractall(path + data_path)
+  z = zipfile.ZipFile(io.BytesIO(r.content))
+  z.extractall(path + data_path)
 
 # url = "https://api.napistejim.cz/data_all.json"
 # r = requests.get(url)
