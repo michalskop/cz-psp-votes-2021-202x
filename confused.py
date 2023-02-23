@@ -50,7 +50,7 @@ mps = pd.read_csv(path + data_path + "mps.csv")
 
 ptx = pt.merge(mps, on=['id'])
 
-ptx.sort_values(by=['all', 'repeted', 'last_group_abbreviation'], ascending=[False, False, True], inplace=True)
+ptx.sort_values(by=['repeted', 'all', 'last_group_abbreviation'], ascending=[False, False, True], inplace=True)
 
 ptx['name'] = ptx['given_name'] + " " + ptx['family_name']
 
