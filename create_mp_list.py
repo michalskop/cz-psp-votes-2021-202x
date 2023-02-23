@@ -56,7 +56,7 @@ term_since = organy[organy['org_id'] == term_id]['org_since'].values[0]
 data = poslanec[poslanec['org_id'] == term_id].merge(osoby, on='id')
 current_parl = zarazeni[(zarazeni['of_id'] == term_id) & (zarazeni['of_status'] == 0)]
 data = data.merge(current_parl, on='id')
-# region
+# . region
 region_type = typ_organu[typ_organu['type_org_name_cs'] == region_type]['type_org_id'].values[0]
 organy_region = organy[organy['type_org_id'] == region_type].loc[:, ['org_id', 'org_name_cs', 'org_name_en']].rename(columns={'org_name_cs': 'region_name_cs', 'org_name_en': 'region_name_en', 'org_id': 'region_id'})
 data = data.merge(organy_region, on='region_id')
