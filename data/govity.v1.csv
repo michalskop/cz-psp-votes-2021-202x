@@ -1,201 +1,200 @@
 id,name,with_gov,possible,gover,last_group_abbreviation,region_name_cs,photo_url
-6731,Milan Wenzl,416,637,65.3,ANO,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6731.jpg
-6492,Ivo Vondrák,886,1370,64.7,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6492.jpg
-6441,Jaroslav Bžoch,1133,1879,60.3,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6441.jpg
-6451,Stanislav Fridrich,1116,1993,56.0,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6451.jpg
-6505,Julius Špičák,846,1542,54.9,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6505.jpg
-6723,Jana Berkovcová,1249,2305,54.2,ANO,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6723.jpg
-6211,Martin Kolovratník,1007,1863,54.1,ANO,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6211.jpg
-6201,Miloslav Janulík,1092,2023,54.0,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6201.jpg
-6428,Andrea Babišová,923,1713,53.9,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6428.jpg
-6506,Tomáš Kohoutek,1068,1985,53.8,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6506.jpg
-6770,Renata Oulehlová,1188,2229,53.3,ANO,Karlovarský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6770.jpg
+6731,Milan Wenzl,469,719,65.2,ANO,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6731.jpg
+6441,Jaroslav Bžoch,1209,2007,60.2,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6441.jpg
+6451,Stanislav Fridrich,1183,2110,56.1,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6451.jpg
+6505,Julius Špičák,845,1559,54.2,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6505.jpg
+6723,Jana Berkovcová,1311,2424,54.1,ANO,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6723.jpg
+6201,Miloslav Janulík,1152,2144,53.7,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6201.jpg
+6506,Tomáš Kohoutek,1126,2096,53.7,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6506.jpg
+6428,Andrea Babišová,978,1828,53.5,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6428.jpg
+6211,Martin Kolovratník,1054,1971,53.5,ANO,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6211.jpg
+6770,Renata Oulehlová,1254,2359,53.2,ANO,Karlovarský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6770.jpg
 6240,Karel Tureček,840,1619,51.9,ANO,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6240.jpg
-6158,Karel Rais,1149,2232,51.5,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6158.jpg
-6448,Milan Feranec,1003,1967,51.0,ANO,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6448.jpg
-6185,Milan Brázdil,1134,2228,50.9,ANO,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6185.jpg
-6190,Jaroslav Faltýnek,879,1727,50.9,ANO,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6190.jpg
-6623,Ondřej Babka,1421,2811,50.6,ANO,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6623.jpg
-6463,Aleš Juchelka,1230,2485,49.5,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6463.jpg
-6527,David Pražák,1317,2675,49.2,ANO,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6527.jpg
-6471,Jana Mračková Vildumetzová,1327,2707,49.0,ANO,Karlovarský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6471.jpg
-6215,Roman Kubíček,1472,3027,48.6,ANO,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6215.jpg
-6246,Josef Kott,1359,2824,48.1,ANO,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6246.jpg
-6743,Robert Stržínek,1291,2691,48.0,ANO,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6743.jpg
-6544,Lubomír Metnar,1181,2469,47.8,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6544.jpg
-6184,Richard Brabec,1296,2725,47.6,ANO,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6184.jpg
-6409,František Petrtýl,1394,2948,47.3,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6409.jpg
-6533,Marek Novák,1358,2875,47.2,ANO,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6533.jpg
-6515,Jiří Strýček,1018,2162,47.1,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6515.jpg
-6520,Pavel Růžička,1088,2312,47.1,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6520.jpg
-6202,Jaroslava Pokorná Jermanová,1069,2278,46.9,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6202.jpg
-6166,Jan Volný,1073,2288,46.9,ANO,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6166.jpg
-6447,Kamal Farhan,1411,3021,46.7,ANO,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6447.jpg
-6484,David Štolpa,1267,2729,46.4,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6484.jpg
-6756,Tomáš Helebrant,1305,2812,46.4,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6756.jpg
-6730,Lubomír Wenzl,1363,2946,46.3,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6730.jpg
-6758,Igor Hendrych,1187,2584,45.9,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6758.jpg
-6782,Drahoslav Ryba,1371,2990,45.9,ANO,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6782.jpg
-6468,Taťána Malá,1249,2725,45.8,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6468.jpg
-6437,Josef Bělica,799,1746,45.8,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6437.jpg
-6475,Monika Oborná,1248,2730,45.7,ANO,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6475.jpg
-6732,Ivana Mádlová,1196,2617,45.7,ANO,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6732.jpg
-6736,Martin Kukla,1396,3055,45.7,ANO,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6736.jpg
-6725,Lubomír Brož,1296,2837,45.7,ANO,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6725.jpg
-6545,Alena Schillerová,1324,2905,45.6,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6545.jpg
-6518,Petr Sadovský,1245,2739,45.5,ANO,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6518.jpg
-6143,Stanislav Berkovec,1371,3018,45.4,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6143.jpg
-6753,Jana Hanzlíková,1261,2779,45.4,ANO,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6753.jpg
-6430,Klára Dostálová,1149,2537,45.3,ANO,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6430.jpg
-6509,Robert Králíček,1143,2527,45.2,ANO,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6509.jpg
-6474,Zuzana Ožanová,1271,2812,45.2,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6474.jpg
-6523,Michal Ratiborský,1152,2551,45.2,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6523.jpg
-6165,Radek Vondráček,998,2218,45.0,ANO,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6165.jpg
-6254,Věra Adámková,1000,2223,45.0,ANO,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6254.jpg
-6168,Helena Válková,914,2036,44.9,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6168.jpg
-6431,Lenka Dražilová,1027,2300,44.7,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6431.jpg
-6225,Jana Pastuchová,1071,2403,44.6,ANO,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6225.jpg
-6172,Ladislav Okleštěk,1224,2752,44.5,ANO,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6172.jpg
-6457,Eva Fialová,1129,2539,44.5,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6457.jpg
-6749,Romana Fischerová,1172,2642,44.4,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6749.jpg
-6490,Petr Vrána,836,1890,44.2,ANO,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6490.jpg
-6511,Jan Kubík,1058,2393,44.2,ANO,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6511.jpg
-6738,Hubert Lang,1261,2854,44.2,ANO,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6738.jpg
-6621,Karel Havlíček,1119,2548,43.9,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6621.jpg
-6500,Jan Richter,956,2202,43.4,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6500.jpg
-6780,Berenika Peštová,1216,2802,43.4,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6780.jpg
-6534,Jiří Mašek,975,2258,43.2,ANO,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6534.jpg
-6177,Margita Balaštíková,1066,2518,42.3,ANO,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6177.jpg
-6775,Lenka Knechtová,1040,2501,41.6,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6775.jpg
-6458,Ivan Jáč,792,1934,41.0,ANO,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6458.jpg
-6487,Patrik Nacher,878,2188,40.1,ANO,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6487.jpg
-6209,David Kasal,576,1530,37.6,ANO,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6209.jpg
-6150,Andrej Babiš,464,1284,36.1,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6150.jpg
-6205,Marian Jurečka,1337,1357,98.5,KDU-ČSL,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6205.jpg
-6178,Jan Bartošek,1504,1551,97.0,KDU-ČSL,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6178.jpg
-6729,Aleš Dufek,1642,1694,96.9,KDU-ČSL,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6729.jpg
-6179,Ondřej Benešík,1447,1493,96.9,KDU-ČSL,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6179.jpg
-6555,Tom Philipp,1924,1987,96.8,KDU-ČSL,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6555.jpg
-6794,Miroslav Zborovský,1775,1834,96.8,KDU-ČSL,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6794.jpg
-6803,Jiří Horák,1825,1886,96.8,KDU-ČSL,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6803.jpg
-6786,Róbert Teleky,1724,1782,96.7,KDU-ČSL,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6786.jpg
-5332,Antonín Tesařík,1746,1806,96.7,KDU-ČSL,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5332.jpg
-6513,Marek Výborný,1715,1775,96.6,KDU-ČSL,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6513.jpg
-6207,Vít Kaňkovský,1972,2045,96.4,KDU-ČSL,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6207.jpg
-6764,Marie Jílková,1580,1639,96.4,KDU-ČSL,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6764.jpg
-6176,Nina Nováková,1589,1653,96.1,KDU-ČSL,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6176.jpg
-6769,Hayato Okamura,1615,1683,96.0,KDU-ČSL,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6769.jpg
-5449,Jiří Carbol,1750,1828,95.7,KDU-ČSL,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5449.jpg
-6777,Michael Kohajda,1581,1655,95.5,KDU-ČSL,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6777.jpg
-6138,Pavel Bělobrádek,1548,1621,95.5,KDU-ČSL,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6138.jpg
-6742,Karel Smetana,1421,1489,95.4,KDU-ČSL,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6742.jpg
-6784,David Šimek,1301,1364,95.4,KDU-ČSL,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6784.jpg
-6292,Pavla Golasowská,1353,1419,95.3,KDU-ČSL,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6292.jpg
-6801,Jiří Navrátil,1690,1773,95.3,KDU-ČSL,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6801.jpg
-6757,Šimon Heller,1167,1225,95.3,KDU-ČSL,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6757.jpg
-6720,Romana Bělohlávková,1720,1815,94.8,KDU-ČSL,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6720.jpg
-6079,Pavel Blažek,1232,1239,99.4,ODS,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6079.jpg
-5969,Zbyněk Stanjura,944,955,98.8,ODS,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5969.jpg
-6538,Martin Kupka,1180,1195,98.7,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6538.jpg
-6074,Petr Fiala,912,924,98.7,ODS,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6074.jpg
-6435,Martin Baxa,1330,1353,98.3,ODS,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6435.jpg
-346,Petr Bendl,1548,1575,98.3,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i346.jpg
-4,Marek Benda,1737,1773,98.0,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i4.jpg
-6510,Karel Krejza,1475,1509,97.7,ODS,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6510.jpg
-5379,Jan Bauer,1212,1240,97.7,ODS,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5379.jpg
-6007,Bohuslav Svoboda,1271,1301,97.7,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6007.jpg
-6438,Stanislav Blaha,1666,1707,97.6,ODS,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6438.jpg
-5700,Ivan Adamec,1598,1641,97.4,ODS,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5700.jpg
-6733,Martin Major,1733,1783,97.2,ODS,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6733.jpg
-5903,Jana Černochová,999,1028,97.2,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5903.jpg
-6418,Jan Skopeček,1663,1713,97.1,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6418.jpg
-6793,Renáta Zajíčková,1664,1717,96.9,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6793.jpg
-6727,Eva Decroix,1448,1500,96.5,ODS,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6727.jpg
-6759,Jan Hofmann,1715,1777,96.5,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6759.jpg
-6804,Zdenka Němečková Crkvenjaš,1283,1331,96.4,ODS,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6804.jpg
-6436,Petr Beitl,1635,1697,96.3,ODS,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6436.jpg
-5226,Pavel Žáček,1563,1623,96.3,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5226.jpg
-6748,Petr Fifka,1620,1683,96.3,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6748.jpg
-6755,Jiří Havránek,1841,1913,96.2,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6755.jpg
-6800,Václav Král,1188,1236,96.1,ODS,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6800.jpg
-6787,Libor Turek,1901,1978,96.1,ODS,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6787.jpg
-6486,Vojtěch Munzar,1605,1674,95.9,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6486.jpg
-6459,Jakub Janda,1644,1715,95.9,ODS,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6459.jpg
-5968,Pavel Staněk,1321,1379,95.8,ODS,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5968.jpg
-6744,Rudolf Salvetr,1883,1968,95.7,ODS,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6744.jpg
-6719,Jana Bačíková,1578,1651,95.6,ODS,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6719.jpg
-6751,Karel Haas,1768,1852,95.5,ODS,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6751.jpg
-6765,Pavel Kašník,1283,1350,95.0,ODS,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6765.jpg
-6792,Vít Vomáčka,1447,1529,94.6,ODS,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6792.jpg
-5899,Jan Bureš,1040,1129,92.1,ODS,Karlovarský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5899.jpg
-6477,Jakub Michálek,1499,1525,98.3,Piráti,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6477.jpg
-6473,Olga Richterová,1960,2021,97.0,Piráti,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6473.jpg
-6433,Ivan Bartoš,1151,1187,97.0,Piráti,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6433.jpg
-6776,Klára Kocmanová,1797,1880,95.6,Piráti,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6776.jpg
+6448,Milan Feranec,1057,2043,51.7,ANO,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6448.jpg
+6158,Karel Rais,1212,2358,51.4,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6158.jpg
+6190,Jaroslav Faltýnek,913,1791,51.0,ANO,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6190.jpg
+6185,Milan Brázdil,1193,2350,50.8,ANO,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6185.jpg
+6623,Ondřej Babka,1482,2938,50.4,ANO,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6623.jpg
+6471,Jana Mračková Vildumetzová,1391,2800,49.7,ANO,Karlovarský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6471.jpg
+6527,David Pražák,1388,2795,49.7,ANO,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6527.jpg
+6463,Aleš Juchelka,1296,2611,49.6,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6463.jpg
+6215,Roman Kubíček,1547,3164,48.9,ANO,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6215.jpg
+6246,Josef Kott,1431,2961,48.3,ANO,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6246.jpg
+6743,Robert Stržínek,1363,2821,48.3,ANO,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6743.jpg
+6544,Lubomír Metnar,1232,2555,48.2,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6544.jpg
+6533,Marek Novák,1451,3013,48.2,ANO,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6533.jpg
+6184,Richard Brabec,1355,2832,47.8,ANO,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6184.jpg
+6520,Pavel Růžička,1132,2369,47.8,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6520.jpg
+6409,František Petrtýl,1460,3075,47.5,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6409.jpg
+6166,Jan Volný,1113,2356,47.2,ANO,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6166.jpg
+6515,Jiří Strýček,1081,2290,47.2,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6515.jpg
+6202,Jaroslava Pokorná Jermanová,1130,2399,47.1,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6202.jpg
+6447,Kamal Farhan,1483,3155,47.0,ANO,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6447.jpg
+6484,David Štolpa,1332,2858,46.6,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6484.jpg
+6730,Lubomír Wenzl,1428,3075,46.4,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6730.jpg
+6756,Tomáš Helebrant,1365,2945,46.3,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6756.jpg
+6468,Taťána Malá,1311,2844,46.1,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6468.jpg
+6758,Igor Hendrych,1246,2703,46.1,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6758.jpg
+6437,Josef Bělica,861,1872,46.0,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6437.jpg
+6732,Ivana Mádlová,1254,2730,45.9,ANO,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6732.jpg
+6475,Monika Oborná,1303,2840,45.9,ANO,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6475.jpg
+6753,Jana Hanzlíková,1324,2888,45.8,ANO,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6753.jpg
+6736,Martin Kukla,1460,3186,45.8,ANO,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6736.jpg
+6782,Drahoslav Ryba,1423,3106,45.8,ANO,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6782.jpg
+6545,Alena Schillerová,1388,3033,45.8,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6545.jpg
+6143,Stanislav Berkovec,1440,3150,45.7,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6143.jpg
+6165,Radek Vondráček,1050,2297,45.7,ANO,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6165.jpg
+6725,Lubomír Brož,1350,2954,45.7,ANO,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6725.jpg
+6509,Robert Králíček,1210,2650,45.7,ANO,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6509.jpg
+6430,Klára Dostálová,1209,2656,45.5,ANO,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6430.jpg
+6523,Michal Ratiborský,1215,2675,45.4,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6523.jpg
+6518,Petr Sadovský,1303,2870,45.4,ANO,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6518.jpg
+6168,Helena Válková,958,2125,45.1,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6168.jpg
+6474,Zuzana Ožanová,1323,2938,45.0,ANO,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6474.jpg
+6431,Lenka Dražilová,1042,2331,44.7,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6431.jpg
+6457,Eva Fialová,1186,2654,44.7,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6457.jpg
+6254,Věra Adámková,1024,2294,44.6,ANO,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6254.jpg
+6749,Romana Fischerová,1227,2753,44.6,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6749.jpg
+6511,Jan Kubík,1113,2498,44.6,ANO,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6511.jpg
+6172,Ladislav Okleštěk,1279,2873,44.5,ANO,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6172.jpg
+6738,Hubert Lang,1329,2986,44.5,ANO,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6738.jpg
+6490,Petr Vrána,883,1989,44.4,ANO,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6490.jpg
+6225,Jana Pastuchová,1071,2418,44.3,ANO,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6225.jpg
+6621,Karel Havlíček,1175,2667,44.1,ANO,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6621.jpg
+6780,Berenika Peštová,1274,2938,43.4,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6780.jpg
+6500,Jan Richter,955,2214,43.1,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6500.jpg
+6534,Jiří Mašek,1004,2342,42.9,ANO,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6534.jpg
+6177,Margita Balaštíková,1130,2648,42.7,ANO,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6177.jpg
+6775,Lenka Knechtová,1094,2591,42.2,ANO,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6775.jpg
+6458,Ivan Jáč,834,2006,41.6,ANO,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6458.jpg
+6487,Patrik Nacher,930,2274,40.9,ANO,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6487.jpg
+6209,David Kasal,573,1539,37.2,ANO,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6209.jpg
+6150,Andrej Babiš,502,1369,36.7,ANO,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6150.jpg
+6205,Marian Jurečka,1402,1423,98.5,KDU-ČSL,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6205.jpg
+6178,Jan Bartošek,1566,1614,97.0,KDU-ČSL,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6178.jpg
+6179,Ondřej Benešík,1511,1559,96.9,KDU-ČSL,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6179.jpg
+6555,Tom Philipp,2007,2073,96.8,KDU-ČSL,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6555.jpg
+6729,Aleš Dufek,1726,1786,96.6,KDU-ČSL,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6729.jpg
+6803,Jiří Horák,1899,1966,96.6,KDU-ČSL,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6803.jpg
+6794,Miroslav Zborovský,1859,1925,96.6,KDU-ČSL,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6794.jpg
+6513,Marek Výborný,1787,1852,96.5,KDU-ČSL,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6513.jpg
+6786,Róbert Teleky,1790,1857,96.4,KDU-ČSL,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6786.jpg
+5332,Antonín Tesařík,1828,1897,96.4,KDU-ČSL,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5332.jpg
+6207,Vít Kaňkovský,2047,2126,96.3,KDU-ČSL,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6207.jpg
+6764,Marie Jílková,1652,1716,96.3,KDU-ČSL,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6764.jpg
+6176,Nina Nováková,1666,1739,95.8,KDU-ČSL,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6176.jpg
+6769,Hayato Okamura,1700,1776,95.7,KDU-ČSL,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6769.jpg
+5449,Jiří Carbol,1767,1850,95.5,KDU-ČSL,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5449.jpg
+6138,Pavel Bělobrádek,1633,1711,95.4,KDU-ČSL,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6138.jpg
+6777,Michael Kohajda,1631,1709,95.4,KDU-ČSL,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6777.jpg
+6757,Šimon Heller,1213,1273,95.3,KDU-ČSL,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6757.jpg
+6801,Jiří Navrátil,1766,1857,95.1,KDU-ČSL,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6801.jpg
+6292,Pavla Golasowská,1419,1496,94.9,KDU-ČSL,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6292.jpg
+6742,Karel Smetana,1482,1563,94.8,KDU-ČSL,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6742.jpg
+6784,David Šimek,1367,1442,94.8,KDU-ČSL,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6784.jpg
+6720,Romana Bělohlávková,1799,1906,94.4,KDU-ČSL,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6720.jpg
+6079,Pavel Blažek,1314,1323,99.3,ODS,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6079.jpg
+5969,Zbyněk Stanjura,1003,1015,98.8,ODS,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5969.jpg
+6074,Petr Fiala,977,991,98.6,ODS,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6074.jpg
+6538,Martin Kupka,1233,1252,98.5,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6538.jpg
+6435,Martin Baxa,1396,1421,98.2,ODS,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6435.jpg
+346,Petr Bendl,1623,1658,97.9,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i346.jpg
+4,Marek Benda,1810,1855,97.6,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i4.jpg
+6510,Karel Krejza,1549,1590,97.4,ODS,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6510.jpg
+6438,Stanislav Blaha,1729,1775,97.4,ODS,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6438.jpg
+5379,Jan Bauer,1275,1310,97.3,ODS,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5379.jpg
+6007,Bohuslav Svoboda,1296,1334,97.2,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6007.jpg
+6733,Martin Major,1785,1841,97.0,ODS,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6733.jpg
+5700,Ivan Adamec,1675,1728,96.9,ODS,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5700.jpg
+5903,Jana Černochová,1031,1064,96.9,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5903.jpg
+6418,Jan Skopeček,1712,1770,96.7,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6418.jpg
+6793,Renáta Zajíčková,1737,1796,96.7,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6793.jpg
+6727,Eva Decroix,1464,1520,96.3,ODS,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6727.jpg
+6755,Jiří Havránek,1910,1985,96.2,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6755.jpg
+6804,Zdenka Němečková Crkvenjaš,1298,1349,96.2,ODS,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6804.jpg
+6759,Jan Hofmann,1790,1861,96.2,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6759.jpg
+5226,Pavel Žáček,1631,1699,96.0,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5226.jpg
+6748,Petr Fifka,1693,1764,96.0,ODS,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6748.jpg
+6436,Petr Beitl,1695,1768,95.9,ODS,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6436.jpg
+5968,Pavel Staněk,1376,1436,95.8,ODS,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5968.jpg
+6787,Libor Turek,1983,2070,95.8,ODS,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6787.jpg
+6744,Rudolf Salvetr,1965,2055,95.6,ODS,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6744.jpg
+6459,Jakub Janda,1721,1803,95.5,ODS,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6459.jpg
+6800,Václav Král,1262,1323,95.4,ODS,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6800.jpg
+6486,Vojtěch Munzar,1687,1769,95.4,ODS,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6486.jpg
+6719,Jana Bačíková,1655,1736,95.3,ODS,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6719.jpg
+6751,Karel Haas,1846,1941,95.1,ODS,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6751.jpg
+6765,Pavel Kašník,1359,1432,94.9,ODS,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6765.jpg
+6792,Vít Vomáčka,1514,1612,93.9,ODS,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6792.jpg
+5899,Jan Bureš,1094,1188,92.1,ODS,Karlovarský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5899.jpg
+6477,Jakub Michálek,1591,1617,98.4,Piráti,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6477.jpg
+6473,Olga Richterová,2043,2108,96.9,Piráti,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6473.jpg
+6433,Ivan Bartoš,1216,1257,96.7,Piráti,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6433.jpg
+6776,Klára Kocmanová,1876,1966,95.4,Piráti,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6776.jpg
 207,Jaroslav Bašta,630,1503,41.9,SPD,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i207.jpg
-6445,Jaroslav Dvořák,547,1337,40.9,SPD,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6445.jpg
-6521,Radek Rozvoral,1187,2997,39.6,SPD,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6521.jpg
-6726,Oldřich Černý,1126,2851,39.5,SPD,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6726.jpg
-6795,Vladimír Zlínský,1036,2634,39.3,SPD,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6795.jpg
-6745,Marie Pošarová,993,2533,39.2,SPD,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6745.jpg
-6740,Karel Sládeček,1009,2603,38.8,SPD,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6740.jpg
-6479,Lucie Šafránková,1049,2735,38.4,SPD,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6479.jpg
-6773,Zdeněk Kettner,962,2523,38.1,SPD,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6773.jpg
-6785,Iveta Štefanová,994,2607,38.1,SPD,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6785.jpg
-6783,Jan Síla,1029,2711,38.0,SPD,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6783.jpg
-5477,Vladimíra Lesenská,982,2640,37.2,SPD,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5477.jpg
-6503,Jiří Kobza,828,2286,36.2,SPD,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6503.jpg
-6508,Radek Koten,790,2272,34.8,SPD,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6508.jpg
-5459,Radim Fiala,645,1878,34.3,SPD,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5459.jpg
-6469,Karla Maříková,885,2581,34.3,SPD,Karlovarský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6469.jpg
-6105,Tomio Okamura,796,2348,33.9,SPD,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6105.jpg
-6495,Radovan Vích,745,2215,33.6,SPD,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6495.jpg
-6455,Jan Hrnčíř,651,1995,32.6,SPD,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6455.jpg
-5911,Jaroslav Foldyna,446,1686,26.5,SPD,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5911.jpg
-6524,Vít Rakušan,991,1001,99.0,STAN,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6524.jpg
-6767,Michaela Opltová,1490,1531,97.3,STAN,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6767.jpg
-6734,Petr Liška,1755,1805,97.2,STAN,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6734.jpg
-6728,Tomáš Dubský,1735,1793,96.8,STAN,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6728.jpg
-6746,Lucie Potůčková,1449,1498,96.7,STAN,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6746.jpg
-6798,Jiří Hájek,1290,1334,96.7,STAN,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6798.jpg
-6762,Pavla Pivoňka Vaňková,1632,1689,96.6,STAN,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6762.jpg
-6214,Věra Kovářová,1735,1797,96.5,STAN,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6214.jpg
-6781,Michael Rataj,1976,2048,96.5,STAN,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6781.jpg
-6739,Petr Letocha,1755,1820,96.4,STAN,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6739.jpg
-5914,Petr Gazdík,1262,1309,96.4,STAN,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5914.jpg
-6466,Jana Krutáková,1444,1498,96.4,STAN,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6466.jpg
-6724,Josef Bernard,1309,1358,96.4,STAN,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6724.jpg
-6772,Tomáš Müller,1921,1993,96.4,STAN,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6772.jpg
-6791,Viktor Vojtko,1683,1748,96.3,STAN,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6791.jpg
-6771,Hana Naiclerová,1645,1710,96.2,STAN,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6771.jpg
-6766,Eliška Olšáková,1451,1509,96.2,STAN,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6766.jpg
-6797,Vladimír Balaš,1190,1238,96.1,STAN,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6797.jpg
-6722,Jan Berki,1953,2032,96.1,STAN,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6722.jpg
-6789,Lukáš Vlček,1282,1334,96.1,STAN,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6789.jpg
-6737,Jan Lacina,1324,1378,96.1,STAN,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6737.jpg
-6763,Michaela Šebelová,1640,1707,96.1,STAN,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6763.jpg
-6752,Martin Hájek,1713,1784,96.0,STAN,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6752.jpg
-6721,Roman Bělor,1409,1468,96.0,STAN,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6721.jpg
-6779,Ondřej Lochman,1614,1683,95.9,STAN,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6779.jpg
-6761,Petra Quittová,1331,1389,95.8,STAN,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6761.jpg
-6790,Milada Voborská,1853,1938,95.6,STAN,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6790.jpg
-5901,Josef Cogan,1799,1883,95.5,STAN,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5901.jpg
-6788,Barbora Urbanová,1358,1422,95.5,STAN,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6788.jpg
-6747,Martin Exner,1486,1557,95.4,STAN,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6747.jpg
-6735,Jan Kuchař,1510,1585,95.3,STAN,Karlovarský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6735.jpg
-6809,Jarmila Levko,1457,1539,94.7,STAN,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6809.jpg
-6750,Josef Flek,1455,1558,93.4,STAN,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6750.jpg
-5943,Helena Langšádlová,1297,1318,98.4,TOP09,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5943.jpg
-6147,Markéta Pekarová Adamová,1250,1278,97.8,TOP09,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6147.jpg
-6216,Michal Kučera,1815,1859,97.6,TOP09,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6216.jpg
-6482,Vlastimil Válek,813,834,97.5,TOP09,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6482.jpg
-6774,Pavel Klíma,1620,1669,97.1,TOP09,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6774.jpg
-6754,Matěj Ondřej Havel,1708,1760,97.0,TOP09,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6754.jpg
-6768,Miloš Nový,1874,1935,96.8,TOP09,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6768.jpg
-6799,Ondřej Kolář,1597,1652,96.7,TOP09,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6799.jpg
-6687,Jan Jakob,1788,1850,96.6,TOP09,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6687.jpg
-6802,Pavel Svoboda,1750,1812,96.6,TOP09,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6802.jpg
-6778,Martina Ochodnická,1767,1833,96.4,TOP09,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6778.jpg
-6741,Jiří Slavík,1798,1867,96.3,TOP09,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6741.jpg
-6154,Marek Ženíšek,1267,1318,96.1,TOP09,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6154.jpg
-6796,Michal Zuna,1844,1927,95.7,TOP09,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6796.jpg
+6445,Jaroslav Dvořák,544,1370,39.7,SPD,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6445.jpg
+6521,Radek Rozvoral,1237,3131,39.5,SPD,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6521.jpg
+6726,Oldřich Černý,1176,2984,39.4,SPD,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6726.jpg
+6795,Vladimír Zlínský,1076,2738,39.3,SPD,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6795.jpg
+6740,Karel Sládeček,1060,2734,38.8,SPD,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6740.jpg
+6745,Marie Pošarová,1003,2601,38.6,SPD,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6745.jpg
+6479,Lucie Šafránková,1097,2860,38.4,SPD,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6479.jpg
+6785,Iveta Štefanová,1044,2733,38.2,SPD,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6785.jpg
+5477,Vladimíra Lesenská,1036,2732,37.9,SPD,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5477.jpg
+6783,Jan Síla,1043,2751,37.9,SPD,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6783.jpg
+6773,Zdeněk Kettner,968,2581,37.5,SPD,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6773.jpg
+6503,Jiří Kobza,870,2367,36.8,SPD,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6503.jpg
+6508,Radek Koten,836,2340,35.7,SPD,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6508.jpg
+5459,Radim Fiala,682,1938,35.2,SPD,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5459.jpg
+6469,Karla Maříková,931,2711,34.3,SPD,Karlovarský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6469.jpg
+6105,Tomio Okamura,830,2447,33.9,SPD,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6105.jpg
+6495,Radovan Vích,790,2336,33.8,SPD,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6495.jpg
+6455,Jan Hrnčíř,661,2056,32.1,SPD,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6455.jpg
+5911,Jaroslav Foldyna,472,1760,26.8,SPD,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5911.jpg
+6524,Vít Rakušan,1056,1070,98.7,STAN,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6524.jpg
+6767,Michaela Opltová,1548,1592,97.2,STAN,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6767.jpg
+6734,Petr Liška,1782,1833,97.2,STAN,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6734.jpg
+6214,Věra Kovářová,1804,1868,96.6,STAN,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6214.jpg
+6728,Tomáš Dubský,1814,1879,96.5,STAN,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6728.jpg
+6746,Lucie Potůčková,1468,1521,96.5,STAN,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6746.jpg
+6762,Pavla Pivoňka Vaňková,1707,1770,96.4,STAN,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6762.jpg
+6798,Jiří Hájek,1360,1411,96.4,STAN,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6798.jpg
+6466,Jana Krutáková,1495,1552,96.3,STAN,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6466.jpg
+6766,Eliška Olšáková,1493,1551,96.3,STAN,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6766.jpg
+6772,Tomáš Müller,2001,2079,96.2,STAN,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6772.jpg
+6781,Michael Rataj,2059,2140,96.2,STAN,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6781.jpg
+5914,Petr Gazdík,1311,1363,96.2,STAN,Zlínský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5914.jpg
+6724,Josef Bernard,1381,1436,96.2,STAN,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6724.jpg
+6791,Viktor Vojtko,1757,1827,96.2,STAN,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6791.jpg
+6789,Lukáš Vlček,1351,1405,96.2,STAN,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6789.jpg
+6739,Petr Letocha,1829,1903,96.1,STAN,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6739.jpg
+6737,Jan Lacina,1348,1403,96.1,STAN,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6737.jpg
+6752,Martin Hájek,1778,1851,96.1,STAN,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6752.jpg
+6722,Jan Berki,2024,2108,96.0,STAN,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6722.jpg
+6771,Hana Naiclerová,1727,1799,96.0,STAN,Olomoucký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6771.jpg
+6761,Petra Quittová,1393,1453,95.9,STAN,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6761.jpg
+6763,Michaela Šebelová,1711,1785,95.9,STAN,Moravskoslezský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6763.jpg
+6721,Roman Bělor,1480,1545,95.8,STAN,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6721.jpg
+6779,Ondřej Lochman,1678,1753,95.7,STAN,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6779.jpg
+6797,Vladimír Balaš,1264,1321,95.7,STAN,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6797.jpg
+5901,Josef Cogan,1882,1972,95.4,STAN,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5901.jpg
+6788,Barbora Urbanová,1412,1480,95.4,STAN,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6788.jpg
+6790,Milada Voborská,1924,2017,95.4,STAN,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6790.jpg
+6735,Jan Kuchař,1530,1609,95.1,STAN,Karlovarský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6735.jpg
+6747,Martin Exner,1562,1645,95.0,STAN,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6747.jpg
+6809,Jarmila Levko,1536,1624,94.6,STAN,Liberecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6809.jpg
+6750,Josef Flek,1525,1637,93.2,STAN,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6750.jpg
+5943,Helena Langšádlová,1344,1367,98.3,TOP09,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i5943.jpg
+6147,Markéta Pekarová Adamová,1315,1345,97.8,TOP09,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6147.jpg
+6482,Vlastimil Válek,869,890,97.6,TOP09,Jihomoravský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6482.jpg
+6216,Michal Kučera,1917,1966,97.5,TOP09,Ústecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6216.jpg
+6774,Pavel Klíma,1677,1727,97.1,TOP09,Jihočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6774.jpg
+6754,Matěj Ondřej Havel,1794,1852,96.9,TOP09,Královéhradecký,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6754.jpg
+6768,Miloš Nový,1957,2026,96.6,TOP09,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6768.jpg
+6799,Ondřej Kolář,1679,1740,96.5,TOP09,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6799.jpg
+6687,Jan Jakob,1860,1929,96.4,TOP09,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6687.jpg
+6802,Pavel Svoboda,1824,1893,96.4,TOP09,Pardubický,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6802.jpg
+6154,Marek Ženíšek,1345,1397,96.3,TOP09,Plzeňský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6154.jpg
+6778,Martina Ochodnická,1850,1922,96.3,TOP09,Vysočina,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6778.jpg
+6741,Jiří Slavík,1864,1940,96.1,TOP09,Středočeský,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6741.jpg
+6796,Michal Zuna,1926,2018,95.4,TOP09,Hlavní město Praha,https://www.psp.cz/eknih/cdrom/2021ps/eknih/2021ps/poslanci/i6796.jpg
