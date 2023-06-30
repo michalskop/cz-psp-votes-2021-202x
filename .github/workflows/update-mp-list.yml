@@ -1,9 +1,9 @@
 name: Update MP list
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #  branches:
+  #    - main
   workflow_dispatch:
   schedule:
     - cron: '1 4,8 * * *'
