@@ -25,6 +25,12 @@ if r.ok:
   z = zipfile.ZipFile(io.BytesIO(r.content))
   z.extractall(path + source_path)
 
+url = "https://www.psp.cz/eknih/cdrom/opendata/poslanci.zip"
+r = requests.get(url, verify=True)
+if r.ok:
+  z = zipfile.ZipFile(io.BytesIO(r.content))
+  z.extractall(path + source_path)
+
 # read data
 mps = pd.read_csv(path + data_path + "mps.csv")
 
