@@ -68,26 +68,26 @@ vote_events['date'] = vote_events['date'].apply(lambda x: datetime.datetime.strp
 # check 1: zmatečná hlasování
 invalid1 = []
 try: 
-    check = pd.read_csv(path + source_path + "zmatecne.unl", sep="|", encoding="cp1250")
-    header = ['vote_event_id', 'dummy']
-    check.columns = header
-    invalid1 = list(check['vote_event_id'].unique())
+  check = pd.read_csv(path + source_path + "zmatecne.unl", sep="|", encoding="cp1250")
+  header = ['vote_event_id', 'dummy']
+  check.columns = header
+  invalid1 = list(check['vote_event_id'].unique())
 except:
-    pass
+  pass
 
 # check 2: zpochybnění
 # note: we can use ...x or ...z, currently ...z is not available
 # note: mode: "Typ zpochybnění: 0 - žádost o opakování hlasování - v tomto případě se o této žádosti neprodleně hlasuje a teprve je-li tato žádost přijata, je hlasování opakováno; 1 - pouze sdělení pro stenozáznam, není požadováno opakování hlasování.""
 invalid2 = []
 try: 
-    # check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "z.unl", sep="|", encoding="cp1250")
-    # header = ['vote_event_id', 'turn', 'mode', 'id_h2', 'id_h3', 'dummy']
-    check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "x.unl", sep="|", encoding="cp1250")
-    header = ['vote_event_id', 'mp_id', 'mode', 'dummy']
-    check.columns = header
-    invalid2 = list(check[check['mode'] == 0]['vote_event_id'].unique())
+  # check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "z.unl", sep="|", encoding="cp1250")
+  # header = ['vote_event_id', 'turn', 'mode', 'id_h2', 'id_h3', 'dummy']
+  check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "x.unl", sep="|", encoding="cp1250")
+  header = ['vote_event_id', 'mp_id', 'mode', 'dummy']
+  check.columns = header
+  invalid2 = list(check[check['mode'] == 0]['vote_event_id'].unique())
 except:
-    pass
+  pass
 
 invalid = invalid1 + invalid2
 
@@ -169,6 +169,7 @@ rebelity.sort_values(by=['last_group_abbreviation', 'rebelity'], ascending=[True
 rebelity['photo_url'] = "https://www.psp.cz/eknih/cdrom/" + str(current_hlasovani) + "ps/eknih/" + str(current_hlasovani) + "ps/poslanci/i" + rebelity["id"].astype(str) + ".jpg" 
 rebelity['name'] = rebelity['given_name'] + " " + rebelity['family_name']
 
+rebelity['rebelity'] = rebelity['rebelity'].astype(float)
 rebelity['rebel'] = round(10000 * rebelity['rebelity']) / 100
 
 rebelity.rename(columns={'group_way_abs': 'possible'}, inplace=True)
