@@ -12,6 +12,13 @@ import numpy as np
 
 localpath = "./"
 
+# quick fix setting rotation
+rotate = {
+  'column': 'voter_id',
+  'value': 6074,  # Petr Fiala
+  'dims': [1, 1]
+}
+
 Xsource = pd.read_csv(localpath + "data/votes.csv")
 
 # recode options
@@ -112,6 +119,11 @@ out = Xprojudf.iloc[:, range(0, 3)]
 out.index = Xproj2.index
 out.reset_index(inplace=True)
 out.columns = ['voter_id', 'dim1', 'dim2', 'dim3']
+
+# rotate
+row = out.loc[out[rotate['column']] == rotate['value']]
+
+
 out.to_csv(localpath + "data/wpca.csv", index=False)
 
 
