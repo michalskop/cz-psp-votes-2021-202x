@@ -5,6 +5,7 @@
 
 import datetime
 import io
+import numpy as np
 import pandas as pd
 
 import requests
