@@ -19,6 +19,9 @@ rotate = {
   'dims': [1, 1]
 }
 
+# quick settings for correct dates in charts
+first_half_year = {"half": 2, "year": 2021}
+
 Xsource = pd.read_csv(localpath + "data/votes.csv")
 
 # recode options
@@ -122,7 +125,10 @@ out.columns = ['voter_id', 'dim1', 'dim2', 'dim3']
 
 # rotate
 row = out.loc[out[rotate['column']] == rotate['value']]
-
+# dims
+for i in range(0, 2):
+  if (rotate['dims'][i]) * row['dim' + str(i + 1)].values[0] < 0:
+    out.loc[:, 'dim' + str(i + 1)] = out['dim' + str(i + 1)] * -1
 
 out.to_csv(localpath + "data/wpca.csv", index=False)
 
@@ -237,6 +243,23 @@ for i, projection in enumerate(projections):
 
   out = pd.concat([out, p], axis=0)
 
+# add no club
 out['klub'] = out['klub'].fillna('Nezařazení')
+
+# correct datum
+def get_text(input_value):
+  period_tf = {True: first_half_year['half'], False: 2 - ((first_half_year['half'] + 1) % 2)}
+  year = first_half_year["year"] + (input_value + first_half_year["half"] - 1) // 2
+  period = period_tf[(input_value % 2) == 0]
+  return f"{period}. pol. {year}"
+
+out['datum'] = out['datum'].apply(get_text)
+
+# rotate
+row = out.loc[out[rotate['column']] == rotate['value']]
+# dims
+for i in range(0, 2):
+  if (rotate['dims'][i]) * row['dim' + str(i + 1)].values[0] < 0:
+    out.loc[:, 'dim' + str(i + 1)] = out['dim' + str(i + 1)] * -1
 
 out.to_csv(localpath + "data/wpca.halfyear.v1.csv", index=False)
