@@ -68,7 +68,7 @@ X0 = X.fillna(0)
 w = (w1 * w2).sum()
 pw = Xraw.notna().mul(w1, axis=0).mul(w2, axis=0).sum(axis=0) / w
 selected_voters = pw[pw > lo_limit].index.tolist()
-X0c = X0.loc[:, selected_voters]    # for direct use
+# X0c = X0.loc[:, selected_voters]    # for direct use
 X0c = X0    # for use with time intervals
 
 # I matrix
@@ -103,7 +103,8 @@ Xproj = eigvecs.dot(lmbda)
 # scaled projection of persons into dimensions
 Xproju = eigvecs.dot(lambdau) * np.sqrt(len(eigvecs))
 Xprojudf = pd.DataFrame(Xproju)
-Xprojudf.index = selected_voters
+# Xprojudf.index = selected_voters  # for direct use
+Xprojudf.index = pw.index # for use with time intervals
 
 # lambda^-1 matrix
 lambda_1 = np.diag(np.sqrt(1 / eigvals))
