@@ -3830,3 +3830,14 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81133,173,70,126,74,2023-06-29,19:23,124,1,7,0,132,67,N,A,N. ústav. z. - Listina základních práv a svobod,,False,False
 81134,173,70,127,74,2023-06-29,19:24,116,1,6,6,129,65,N,A,N. ústav. z. - Listina základních práv a svobod,,False,False
 81135,173,70,128,74,2023-06-29,19:25,123,2,4,0,129,65,N,A,N. ústav. z. - Listina základních práv a svobod,,False,False
+81136,173,70,129,0,2023-06-30,09:59,70,68,3,0,141,71,N,R,Pořad schůze,,False,False
+81137,173,70,130,0,2023-06-30,10:00,142,1,0,0,143,72,N,A,Pořad schůze,,False,False
+81138,173,70,131,0,2023-06-30,10:01,73,70,0,0,143,72,N,A,Pořad schůze,,False,False
+81139,173,70,132,0,2023-06-30,10:02,69,69,3,2,143,72,N,R,Pořad schůze,,False,False
+81140,173,70,133,0,2023-06-30,10:03,141,0,1,1,143,72,N,A,Pořad schůze,,False,False
+81141,173,70,134,0,2023-06-30,10:04,2,4,137,0,143,72,N,R,Pořad schůze,,False,False
+81142,173,70,135,0,2023-06-30,10:04,71,71,1,0,143,72,N,R,Pořad schůze,,False,False
+81143,173,70,136,0,2023-06-30,10:05,68,71,3,0,142,72,N,R,Pořad schůze,,False,False
+81144,173,70,137,0,2023-06-30,10:07,139,1,2,0,142,72,N,A,Pořad schůze,,False,False
+81145,173,70,138,0,2023-06-30,10:08,69,72,1,0,142,72,N,R,Pořad schůze,,False,False
+81146,173,70,139,0,2023-06-30,11:32,110,9,19,5,143,72,N,A, ,,False,False
