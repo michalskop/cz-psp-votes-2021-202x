@@ -3841,3 +3841,58 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81144,173,70,137,0,2023-06-30,10:07,139,1,2,0,142,72,N,A,Pořad schůze,,False,False
 81145,173,70,138,0,2023-06-30,10:08,69,72,1,0,142,72,N,R,Pořad schůze,,False,False
 81146,173,70,139,0,2023-06-30,11:32,110,9,19,5,143,72,N,A, ,,False,False
+81147,173,71,1,0,2023-07-11,10:01,150,0,2,0,152,77,N,A, ,,False,False
+81148,173,71,2,0,2023-07-11,10:04,86,76,1,0,163,82,N,A, ,,False,False
+81149,173,71,3,0,2023-07-11,13:44,97,79,0,0,176,89,N,A,Pořad schůze,,False,False
+81150,173,71,4,1,2023-07-11,16:53,4,5,168,0,177,89,N,R,Novela z. o důchodovém pojištění,,False,False
+81151,173,71,5,1,2023-07-11,16:53,11,76,17,43,147,74,N,R,Novela z. o důchodovém pojištění,,False,False
+81152,173,71,6,1,2023-07-11,16:54,4,88,18,42,152,77,N,R,Novela z. o důchodovém pojištění,,False,False
+81153,173,71,7,1,2023-07-11,16:54,14,86,15,40,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81154,173,71,8,1,2023-07-11,16:55,65,90,2,0,157,79,N,R,Novela z. o důchodovém pojištění,,False,False
+81155,173,71,9,1,2023-07-11,19:23,2,103,16,36,157,79,N,R,Novela z. o důchodovém pojištění,,False,False
+81156,173,71,10,1,2023-07-11,19:23,0,116,13,31,160,81,N,R,Novela z. o důchodovém pojištění,,False,False
+81157,173,71,11,1,2023-07-11,19:24,3,114,11,34,162,82,N,R,Novela z. o důchodovém pojištění,,False,False
+81158,173,71,12,1,2023-07-11,19:24,5,113,12,33,163,82,N,R,Novela z. o důchodovém pojištění,,False,False
+81159,173,71,13,1,2023-07-11,19:25,73,85,4,2,164,83,N,R,Novela z. o důchodovém pojištění,,False,False
+81160,173,71,14,1,2023-07-11,21:51,75,90,0,2,167,84,N,R,Novela z. o důchodovém pojištění,,False,False
+81161,173,71,15,1,2023-07-11,21:57,74,93,1,1,169,85,N,R,Novela z. o důchodovém pojištění,,False,False
+81162,173,71,16,1,2023-07-11,21:57,93,73,3,0,169,85,N,A,Novela z. o důchodovém pojištění,,False,False
+81163,173,70,140,110,2023-07-12,09:07,155,0,1,0,156,79,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+81164,173,70,141,99,2023-07-12,09:17,164,0,6,0,170,86,N,A,Novela z. o oběhu osiva a sadby - EU,,False,False
+81165,173,70,142,99,2023-07-12,09:18,169,0,3,0,172,87,N,A,Novela z. o oběhu osiva a sadby - EU,,False,False
+81166,173,70,143,99,2023-07-12,09:19,170,0,3,0,173,87,N,A,Novela z. o oběhu osiva a sadby - EU,,False,False
+81167,173,70,144,99,2023-07-12,09:20,171,0,3,0,174,88,N,A,Novela z. o oběhu osiva a sadby - EU,,False,False
+81168,173,70,145,105,2023-07-12,09:32,168,0,8,0,176,89,N,A,Novela z. o spotřebních daních - EU,,False,False
+81169,173,70,146,105,2023-07-12,09:33,79,95,4,0,178,90,N,R,Novela z. o spotřebních daních - EU,,False,False
+81170,173,70,147,105,2023-07-12,09:34,79,94,1,0,174,88,N,R,Novela z. o spotřebních daních - EU,,False,False
+81171,173,70,148,105,2023-07-12,09:35,79,97,0,0,176,89,N,R,Novela z. o spotřebních daních - EU,,False,False
+81172,173,70,149,105,2023-07-12,09:36,97,78,1,0,176,89,N,A,Novela z. o spotřebních daních - EU,,False,False
+81173,173,70,150,104,2023-07-12,10:25,175,0,8,0,183,92,N,A,Novela z. o státním podniku,,False,False
+81174,173,70,151,104,2023-07-12,10:26,4,0,179,0,183,92,N,R,Novela z. o státním podniku,,False,False
+81175,173,70,152,104,2023-07-12,10:26,97,69,12,1,179,90,N,A,Novela z. o státním podniku,,False,False
+81176,173,70,153,104,2023-07-12,10:27,96,80,2,1,179,90,N,A,Novela z. o státním podniku,,False,False
+81177,173,70,154,104,2023-07-12,10:28,82,96,1,0,179,90,N,R,Novela z. o státním podniku,,False,False
+81178,173,70,155,104,2023-07-12,10:29,97,45,32,5,179,90,N,A,Novela z. o státním podniku,,False,False
+81179,173,70,156,101,2023-07-12,10:37,163,0,2,0,165,83,N,A,Vládní návrh zákona o preventivní restrukturalizaci - EU,,False,False
+81180,173,70,157,101,2023-07-12,10:38,163,0,2,0,165,83,N,A,Vládní návrh zákona o preventivní restrukturalizaci - EU,,False,False
+81181,173,70,158,101,2023-07-12,10:39,164,0,1,0,165,83,N,A,Vládní návrh zákona o preventivní restrukturalizaci - EU,,False,False
+81182,173,70,159,102,2023-07-12,10:48,153,0,15,0,168,85,N,A,Novela z. - insolvenční zákon - EU,,False,False
+81183,173,70,160,102,2023-07-12,10:49,160,0,9,0,169,85,N,A,Novela z. - insolvenční zákon - EU,,False,False
+81184,173,70,161,102,2023-07-12,10:50,76,77,13,3,169,85,N,R,Novela z. - insolvenční zákon - EU,,False,False
+81185,173,70,162,102,2023-07-12,10:51,159,0,11,0,170,86,N,A,Novela z. - insolvenční zákon - EU,,False,False
+81186,173,70,163,106,2023-07-12,11:21,82,88,1,4,175,88,N,R,Novela z. o pobytu cizinců na území ČR,,False,False
+81187,173,70,164,106,2023-07-12,11:24,176,0,2,1,179,90,N,A,Novela z. o pobytu cizinců na území ČR,,False,False
+81188,173,70,165,106,2023-07-12,11:25,178,0,0,1,179,90,N,A,Novela z. o pobytu cizinců na území ČR,,False,False
+81189,173,70,166,106,2023-07-12,11:26,81,87,6,5,179,90,N,R,Novela z. o pobytu cizinců na území ČR,,False,False
+81190,173,70,167,106,2023-07-12,11:27,82,90,3,4,179,90,N,R,Novela z. o pobytu cizinců na území ČR,,False,False
+81191,173,70,168,106,2023-07-12,11:28,66,107,3,3,179,90,N,R,Novela z. o pobytu cizinců na území ČR,,False,False
+81192,173,70,169,106,2023-07-12,11:29,80,95,4,0,179,90,N,R,Novela z. o pobytu cizinců na území ČR,,False,False
+81193,173,70,170,106,2023-07-12,11:29,81,92,3,3,179,90,N,R,Novela z. o pobytu cizinců na území ČR,,False,False
+81194,173,70,171,106,2023-07-12,11:30,85,57,14,21,177,89,N,R,Novela z. o pobytu cizinců na území ČR,,False,False
+81195,173,70,172,106,2023-07-12,11:31,78,80,10,9,177,89,N,R,Novela z. o pobytu cizinců na území ČR,,False,False
+81196,173,70,173,106,2023-07-12,11:32,177,0,1,1,179,90,N,A,Novela z. o pobytu cizinců na území ČR,,False,False
+81197,173,70,174,106,2023-07-12,11:33,80,93,4,2,179,90,N,R,Novela z. o pobytu cizinců na území ČR,,False,False
+81198,173,70,175,106,2023-07-12,11:34,96,26,50,6,178,90,N,A,Novela z. o pobytu cizinců na území ČR,,False,False
+81199,173,70,176,0,2023-07-12,11:36,158,5,13,1,177,89,N,A, , ,False,False
+81200,173,71,17,2,2023-07-12,14:03,146,11,5,1,163,82,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81201,173,71,18,2,2023-07-13,14:32,100,0,4,1,105,53,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
