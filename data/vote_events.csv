@@ -3921,3 +3921,24 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81224,173,71,32,3,2023-07-21,10:34,63,75,1,1,140,71,N,R,Novela z. o důchodovém pojištění,,False,False
 81225,173,71,33,3,2023-07-21,10:47,4,29,76,31,140,71,N,R,Novela z. o důchodovém pojištění,,False,False
 81226,173,71,34,3,2023-07-21,10:47,76,65,1,0,142,72,N,A,Novela z. o důchodovém pojištění,,False,False
+81227,173,71,35,0,2023-07-26,09:20,62,82,2,1,147,74,N,R, ,,False,False
+81228,173,71,36,0,2023-07-26,09:21,86,63,0,0,149,75,N,A, ,,False,False
+81229,173,71,37,0,2023-07-26,09:22,63,86,0,0,149,75,N,R, ,,False,False
+81230,173,71,38,3,2023-07-26,12:31,69,85,1,0,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81231,173,71,39,3,2023-07-26,12:31,68,86,1,0,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81232,173,71,40,3,2023-07-26,12:46,128,20,4,3,155,78,N,A,Novela z. o důchodovém pojištění,,False,False
+81233,173,71,41,3,2023-07-26,12:48,68,19,21,47,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81234,173,71,42,3,2023-07-26,12:51,86,68,0,1,155,78,N,A,Novela z. o důchodovém pojištění,,False,False
+81235,173,71,43,3,2023-07-26,12:52,69,85,0,1,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81236,173,71,44,3,2023-07-26,12:54,69,84,1,1,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81237,173,71,45,3,2023-07-26,12:56,69,84,1,1,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81238,173,71,46,3,2023-07-26,12:57,69,84,1,1,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81239,173,71,47,3,2023-07-26,12:58,69,84,1,1,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81240,173,71,48,3,2023-07-26,12:59,69,86,0,0,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81241,173,71,49,3,2023-07-26,13:00,69,86,0,0,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81242,173,71,50,3,2023-07-26,13:01,69,86,0,0,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81243,173,71,51,3,2023-07-26,13:02,69,86,0,0,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81244,173,71,52,3,2023-07-26,13:03,68,85,2,0,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81245,173,71,53,3,2023-07-26,13:04,69,85,1,0,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81246,173,71,54,3,2023-07-26,13:05,69,85,0,1,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
+81247,173,71,55,3,2023-07-26,13:06,86,69,0,0,155,78,N,A,Novela z. o důchodovém pojištění,,False,False
