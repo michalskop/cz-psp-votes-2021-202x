@@ -3788,8 +3788,8 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81091,173,70,84,100,2023-06-28,12:38,163,0,6,0,169,85,N,A,Novela z. o provozu na pozemních komunikacích - EU,,False,False
 81092,173,70,85,103,2023-06-28,13:53,151,0,3,1,155,78,N,A,Novela z. - zákoník práce - EU,,False,False
 81093,173,70,86,103,2023-06-28,13:58,159,0,7,0,166,84,N,A,Novela z. - zákoník práce - EU,,False,False
-81094,173,70,87,103,2023-06-28,13:59,7,1,158,0,166,84,N,R,Novela z. - zákoník práce - EU,,False,False
-81095,173,70,88,103,2023-06-28,13:59,71,89,6,0,166,84,N,R,Novela z. - zákoník práce - EU,,False,False
+81094,173,70,87,103,2023-06-28,13:59,7,1,158,0,166,84,N,R,Novela z. - zákoník práce - EU,,True,True
+81095,173,70,88,103,2023-06-28,13:59,71,89,6,0,166,84,N,R,Novela z. - zákoník práce - EU,,True,True
 81096,173,70,89,103,2023-06-28,14:00,2,117,21,26,166,84,N,R,Novela z. - zákoník práce - EU,,False,False
 81097,173,70,90,103,2023-06-28,14:01,5,122,28,11,166,84,N,R,Novela z. - zákoník práce - EU,,False,False
 81098,173,70,91,103,2023-06-28,14:02,21,92,50,3,166,84,N,R,Novela z. - zákoník práce - EU,,False,False
@@ -3835,7 +3835,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81138,173,70,131,0,2023-06-30,10:01,73,70,0,0,143,72,N,A,Pořad schůze,,False,False
 81139,173,70,132,0,2023-06-30,10:02,69,69,3,2,143,72,N,R,Pořad schůze,,False,False
 81140,173,70,133,0,2023-06-30,10:03,141,0,1,1,143,72,N,A,Pořad schůze,,False,False
-81141,173,70,134,0,2023-06-30,10:04,2,4,137,0,143,72,N,R,Pořad schůze,,False,False
+81141,173,70,134,0,2023-06-30,10:04,2,4,137,0,143,72,N,R,Pořad schůze,,True,True
 81142,173,70,135,0,2023-06-30,10:04,71,71,1,0,143,72,N,R,Pořad schůze,,False,False
 81143,173,70,136,0,2023-06-30,10:05,68,71,3,0,142,72,N,R,Pořad schůze,,False,False
 81144,173,70,137,0,2023-06-30,10:07,139,1,2,0,142,72,N,A,Pořad schůze,,False,False
@@ -3844,7 +3844,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81147,173,71,1,0,2023-07-11,10:01,150,0,2,0,152,77,N,A, ,,False,False
 81148,173,71,2,0,2023-07-11,10:04,86,76,1,0,163,82,N,A, ,,False,False
 81149,173,71,3,0,2023-07-11,13:44,97,79,0,0,176,89,N,A,Pořad schůze,,False,False
-81150,173,71,4,1,2023-07-11,16:53,4,5,168,0,177,89,N,R,Novela z. o důchodovém pojištění,,False,False
+81150,173,71,4,1,2023-07-11,16:53,4,5,168,0,177,89,N,R,Novela z. o důchodovém pojištění,,True,True
 81151,173,71,5,1,2023-07-11,16:53,11,76,17,43,147,74,N,R,Novela z. o důchodovém pojištění,,False,False
 81152,173,71,6,1,2023-07-11,16:54,4,88,18,42,152,77,N,R,Novela z. o důchodovém pojištění,,False,False
 81153,173,71,7,1,2023-07-11,16:54,14,86,15,40,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
@@ -3868,7 +3868,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81171,173,70,148,105,2023-07-12,09:35,79,97,0,0,176,89,N,R,Novela z. o spotřebních daních - EU,,False,False
 81172,173,70,149,105,2023-07-12,09:36,97,78,1,0,176,89,N,A,Novela z. o spotřebních daních - EU,,False,False
 81173,173,70,150,104,2023-07-12,10:25,175,0,8,0,183,92,N,A,Novela z. o státním podniku,,False,False
-81174,173,70,151,104,2023-07-12,10:26,4,0,179,0,183,92,N,R,Novela z. o státním podniku,,False,False
+81174,173,70,151,104,2023-07-12,10:26,4,0,179,0,183,92,N,R,Novela z. o státním podniku,,True,True
 81175,173,70,152,104,2023-07-12,10:26,97,69,12,1,179,90,N,A,Novela z. o státním podniku,,False,False
 81176,173,70,153,104,2023-07-12,10:27,96,80,2,1,179,90,N,A,Novela z. o státním podniku,,False,False
 81177,173,70,154,104,2023-07-12,10:28,82,96,1,0,179,90,N,R,Novela z. o státním podniku,,False,False
