@@ -154,7 +154,7 @@ current_date = first_date
 while current_date <= last_date:
   # Calculate the start and end dates of the current half year period
   period_start = pd.Timestamp(current_date.year, 1 if current_date.month <= 6 else 7, 1)
-  period_end = pd.Timestamp(current_date.year, 7 if current_date.month <= 6 else 12, 31)
+  period_end = pd.Timestamp(current_date.year, 6 if current_date.month <= 6 else 12, 30 if current_date.month <= 6 else 31, 23, 59, 59)
 
   # Filter the DataFrame for rows within the current half year period
   filtered_df = vote_events.loc[:, ['vote_event_id', 'date']].copy()
@@ -168,7 +168,7 @@ while current_date <= last_date:
   new_dfs.append(filtered_df)
 
   # Move to the next half year period
-  current_date = period_end + pd.DateOffset(days=1)
+  current_date = period_end + pd.DateOffset(seconds=1)
 
 # Access each new DataFrame in the list
 
