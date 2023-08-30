@@ -2566,6 +2566,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 79868,173,55,83,1,2023-03-04,00:03,160,0,0,3,163,82,N,A,Novela z. o důchodovém pojištění,,False,False
 79869,173,56,1,0,2023-03-04,00:19,159,0,1,0,160,81,N,A, ,,False,False
 79870,173,57,1,0,2023-03-04,00:26,161,0,0,0,161,81,N,A, ,,False,False
+81248,173,73,1,0,2023-08-29,10:01,135,0,2,0,137,69,N,A, ,,False,False
 79872,173,55,84,1,2023-03-04,08:03,67,86,1,0,154,78,N,R,Novela z. o důchodovém pojištění,,False,False
 79873,173,55,85,1,2023-03-04,08:08,154,0,10,0,164,83,N,A,Novela z. o důchodovém pojištění,,False,False
 79874,173,55,86,1,2023-03-04,08:11,70,92,4,0,166,84,N,R,Novela z. o důchodovém pojištění,,False,False
@@ -3942,3 +3943,31 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81245,173,71,53,3,2023-07-26,13:04,69,85,1,0,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
 81246,173,71,54,3,2023-07-26,13:05,69,85,0,1,155,78,N,R,Novela z. o důchodovém pojištění,,False,False
 81247,173,71,55,3,2023-07-26,13:06,86,69,0,0,155,78,N,A,Novela z. o důchodovém pojištění,,False,False
+81249,173,73,2,0,2023-08-29,10:07,155,0,4,2,161,81,N,A, ,,False,False
+81250,173,73,3,0,2023-08-29,11:29,159,0,18,0,177,89,N,A,Pořad schůze,,False,False
+81251,173,73,4,1,2023-08-29,12:54,160,0,23,0,183,92,N,A,Novela z. - energetický zákon - EU,,False,False
+81252,173,73,5,1,2023-08-29,12:56,144,2,28,9,183,92,N,A,Novela z. - energetický zákon - EU,,False,False
+81253,173,73,6,2,2023-08-29,14:11,147,0,33,0,180,91,N,A,Novela z. - insolvenční zákon - EU,,False,False
+81254,173,73,7,3,2023-08-29,14:29,125,0,54,0,179,90,N,A,Novela z. o organizaci a provádění sociálního zabezpečení - EU,,False,False
+81255,173,73,8,4,2023-08-29,15:00,132,0,44,0,176,89,N,A,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
+81256,173,73,9,4,2023-08-29,15:01,80,61,37,1,179,90,N,R,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
+81257,173,73,10,4,2023-08-29,15:03,145,2,4,0,151,76,N,A,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
+81258,173,73,11,4,2023-08-29,15:04,87,63,1,0,151,76,N,A,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
+81259,173,73,12,5,2023-08-29,16:07,154,0,20,0,174,88,N,A,Novela z. o státní sociální podpoře,,False,False
+81260,173,73,13,5,2023-08-29,16:09,155,0,3,0,158,80,N,A,Novela z. o státní sociální podpoře,,False,False
+81261,173,73,14,6,2023-08-29,16:24,138,0,1,0,139,70,N,A,Novela z. o náhradním výživném,,False,False
+81262,173,73,15,6,2023-08-29,16:26,139,5,4,4,152,77,N,A,Novela z. o náhradním výživném,,False,False
+81263,173,73,16,7,2023-08-29,17:26,139,1,27,0,167,84,N,A,Novela z. o obcích,,False,False
+81264,173,73,17,7,2023-08-29,17:28,155,1,2,0,158,80,N,A,Novela z. o obcích,,False,False
+81265,173,73,18,8,2023-08-29,18:26,21,93,51,2,167,84,N,R,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81266,173,73,19,8,2023-08-29,18:27,169,1,1,2,173,87,N,A,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81267,173,73,20,8,2023-08-29,18:28,97,74,3,0,174,88,N,A,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81268,173,73,21,9,2023-08-29,20:10,159,0,16,0,175,88,N,A,Novela z. o léčivech - EU,,False,False
+81269,173,73,22,9,2023-08-29,20:11,92,4,76,3,175,88,N,A,Novela z. o léčivech - EU,,False,False
+81270,173,73,23,10,2023-08-29,20:48,146,0,26,0,172,87,N,A,"N.z., kterým se mění a ruší někt. zákony se zrušením ÚPDI",,False,False
+81271,173,73,24,10,2023-08-29,20:49,148,0,24,0,172,87,N,A,"N.z., kterým se mění a ruší někt. zákony se zrušením ÚPDI",,False,False
+81272,173,73,25,11,2023-08-29,21:30,139,0,31,0,170,86,N,A,Vl.n.z. o dorovnávacích daních - EU,,False,False
+81273,173,73,26,11,2023-08-29,21:31,143,0,28,0,171,86,N,A,Vl.n.z. o dorovnávacích daních - EU,,False,False
+81274,173,73,27,12,2023-08-29,22:24,61,83,2,3,149,75,N,R,Novela z. o přeměnách obchodních společností a družstev - EU,,False,False
+81275,173,73,28,12,2023-08-29,22:25,149,0,1,0,150,76,N,A,Novela z. o přeměnách obchodních společností a družstev - EU,,False,False
+81276,173,73,29,12,2023-08-29,22:26,67,3,38,42,150,76,N,R,Novela z. o přeměnách obchodních společností a družstev - EU,,False,False
