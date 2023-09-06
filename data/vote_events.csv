@@ -3971,3 +3971,6 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81274,173,73,27,12,2023-08-29,22:24,61,83,2,3,149,75,N,R,Novela z. o přeměnách obchodních společností a družstev - EU,,False,False
 81275,173,73,28,12,2023-08-29,22:25,149,0,1,0,150,76,N,A,Novela z. o přeměnách obchodních společností a družstev - EU,,False,False
 81276,173,73,29,12,2023-08-29,22:26,67,3,38,42,150,76,N,R,Novela z. o přeměnách obchodních společností a družstev - EU,,False,False
+81277,173,74,1,0,2023-09-05,14:00,0,0,38,0,38,20,N,R, ,,False,False
+81278,173,74,2,0,2023-09-05,14:01,144,0,3,0,147,74,N,A, ,,False,False
+81279,173,74,3,0,2023-09-05,14:10,88,75,3,1,167,84,N,A,Pořad schůze,,False,False
