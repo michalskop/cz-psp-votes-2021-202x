@@ -4154,3 +4154,18 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81457,173,74,168,1,2023-09-12,21:11,180,0,2,1,183,101,N,A,Novela z. o dráhách - EU,,False,False
 81458,173,74,169,2,2023-09-12,22:54,10,131,31,7,179,90,N,R,Novela z. - zákoník práce - EU,,False,False
 81459,173,74,170,2,2023-09-12,22:56,104,56,19,1,180,101,N,A,Novela z. - zákoník práce - EU,,False,False
+81460,173,74,171,0,2023-09-13,09:09,66,38,15,33,152,77,N,R,Pořad schůze,,False,False
+81461,173,74,172,0,2023-09-13,09:10,66,35,19,35,155,78,N,R,Pořad schůze,,False,False
+81462,173,74,173,0,2023-09-13,09:10,66,30,18,41,155,78,N,R,Pořad schůze,,False,False
+81463,173,74,174,127,2023-09-13,09:20,164,0,2,0,166,84,N,A,Novela z. o organizaci a provádění sociálního zabezpečení - EU,,False,False
+81464,173,74,175,127,2023-09-13,09:22,167,0,2,0,169,85,N,A,Novela z. o organizaci a provádění sociálního zabezpečení - EU,,False,False
+81465,173,74,176,6,2023-09-13,10:36,138,1,9,1,149,75,N,A,Vl.n.z. o řízeních souv. s hlub. úložištěm radioaktiv.odpadu,,False,False
+81466,173,74,177,11,2023-09-13,11:18,111,0,1,0,112,57,N,A,Novela z. o výkonu zajištění majetku a věcí v trest. řízení,,False,False
+81467,173,74,178,9,2023-09-13,11:46,115,0,3,0,118,60,N,A,Novela z. o podnikání na kapitálovém trhu - EU,,False,False
+81468,173,74,179,22,2023-09-13,13:36,130,0,4,0,134,68,N,A,Vl.n.z. o o trhu s nevýkonnými úvěry - EU,,False,False
+81469,173,74,180,22,2023-09-13,13:37,77,1,55,5,138,70,N,A,Vl.n.z. o o trhu s nevýkonnými úvěry - EU,,False,False
+81470,173,74,181,23,2023-09-13,13:40,129,0,12,0,141,71,N,A,Vl.n.z. o trhu s nevýkonnými úvěry - souv. - EU,,False,False
+81471,173,74,182,23,2023-09-13,13:41,77,0,57,9,143,72,N,A,Vl.n.z. o trhu s nevýkonnými úvěry - souv. - EU,,False,False
+81472,173,74,183,141,2023-09-13,13:47,139,1,9,1,150,76,N,A,Návrh na volbu člena Nejvyššího kontrolního úřadu,,False,False
+81473,173,74,184,142,2023-09-13,13:50,140,1,12,1,154,78,N,A,Návrh na jmenování člena kontrolní rady Technologické agentury České r,,False,False
+81474,173,74,185,143,2023-09-13,13:52,144,2,9,1,156,79,N,A,Návrh na jmenování člena kontrolní rady Grantové agentury ČR,,False,False
