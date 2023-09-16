@@ -4087,8 +4087,8 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81390,173,75,12,1,2023-09-07,18:44,61,83,0,0,144,73,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
 81391,173,75,13,1,2023-09-07,18:44,82,61,1,0,144,73,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
 81392,173,74,103,0,2023-09-08,09:53,141,0,2,2,145,73,N,A,Pořad schůze,,False,False
-81393,173,74,104,0,2023-09-08,09:54,101,0,47,0,148,75,N,A,Pořad schůze,,False,False
-81394,173,74,105,0,2023-09-08,09:54,96,0,51,1,148,75,N,A,Pořad schůze,,False,False
+81393,173,74,104,0,2023-09-08,09:54,101,0,47,0,148,75,N,A,Pořad schůze,,True,True
+81394,173,74,105,0,2023-09-08,09:54,96,0,51,1,148,75,N,A,Pořad schůze,,True,True
 81395,173,74,106,0,2023-09-08,09:55,147,0,1,0,148,75,N,A,Pořad schůze,,False,False
 81396,173,74,107,0,2023-09-08,09:56,146,0,1,1,148,75,N,A,Pořad schůze,,False,False
 81397,173,74,108,0,2023-09-08,09:57,143,1,4,0,148,75,N,A,Pořad schůze,,False,False
@@ -4101,7 +4101,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81404,173,74,115,0,2023-09-08,10:03,68,75,2,4,149,75,N,R,Pořad schůze,,False,False
 81405,173,74,116,0,2023-09-08,10:03,67,79,1,2,149,75,N,R,Pořad schůze,,False,False
 81406,173,74,117,0,2023-09-08,10:04,66,78,2,3,149,75,N,R,Pořad schůze,,False,False
-81407,173,74,118,0,2023-09-08,10:05,126,19,2,2,149,75,N,A,Pořad schůze,,False,False
+81407,173,74,118,0,2023-09-08,10:05,126,19,2,2,149,75,N,A,Pořad schůze,,True,True
 81408,173,74,119,0,2023-09-08,10:10,68,28,16,35,147,74,N,R,Pořad schůze,,False,False
 81409,173,74,120,0,2023-09-08,10:10,69,19,22,38,148,75,N,R,Pořad schůze,,False,False
 81410,173,74,121,0,2023-09-12,14:11,92,61,17,1,171,86,N,A,Pořad schůze,,False,False
@@ -4170,7 +4170,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81473,173,74,184,142,2023-09-13,13:50,140,1,12,1,154,78,N,A,Návrh na jmenování člena kontrolní rady Technologické agentury České r,,False,False
 81474,173,74,185,143,2023-09-13,13:52,144,2,9,1,156,79,N,A,Návrh na jmenování člena kontrolní rady Grantové agentury ČR,,False,False
 81475,173,74,186,155,2023-09-14,10:52,60,54,3,0,117,59,N,A,Písemná interpelace A. Schillerové na P. Fialu ve věci nedostatku anti,,False,False
-81476,173,74,187,155,2023-09-14,10:53,122,0,1,0,123,62,N,A,Písemná interpelace A. Schillerové na P. Fialu ve věci nedostatku anti,,False,False
+81476,173,74,187,155,2023-09-14,10:53,122,0,1,0,123,62,N,A,Písemná interpelace A. Schillerové na P. Fialu ve věci nedostatku anti,,True,True
 81477,173,74,188,155,2023-09-14,10:55,127,2,2,0,131,66,N,A,Písemná interpelace A. Schillerové na P. Fialu ve věci nedostatku anti,,False,False
 81478,173,74,189,155,2023-09-14,10:56,64,65,2,0,131,66,N,R,Písemná interpelace A. Schillerové na P. Fialu ve věci nedostatku anti,,False,False
 81479,173,74,190,109,2023-09-14,11:11,14,84,18,2,118,60,N,R,Návrh nařízení Rady o elektron. vydávání Úředního věstníku,,False,False
@@ -4191,3 +4191,35 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81494,173,74,205,123,2023-09-14,12:44,109,0,13,0,122,62,N,A,Sml. mezi ČR a Vietnamem o právní pomoci ve věcech trestních,,False,False
 81495,173,74,206,125,2023-09-14,12:57,114,0,11,0,125,63,N,A,Změna příl. A Stockholm.úml.o perzis.organických polutantech,,False,False
 81496,173,74,207,125,2023-09-14,12:58,115,0,11,0,126,64,N,A,Změna příl. A Stockholm.úml.o perzis.organických polutantech,,False,False
+81497,173,74,208,0,2023-09-15,09:15,105,1,31,5,142,72,N,A,Pořad schůze,,False,False
+81498,173,74,209,0,2023-09-15,09:16,114,0,26,2,142,72,N,A,Pořad schůze,,False,False
+81499,173,74,210,0,2023-09-15,09:16,118,0,23,1,142,72,N,A,Pořad schůze,,False,False
+81500,173,74,211,0,2023-09-15,09:17,124,0,18,0,142,72,N,A,Pořad schůze,,False,False
+81501,173,74,212,0,2023-09-15,09:18,127,0,15,0,142,72,N,A,Pořad schůze,,False,False
+81502,173,74,213,0,2023-09-15,09:19,127,0,14,1,142,72,N,A,Pořad schůze,,False,False
+81503,173,74,214,0,2023-09-15,09:20,128,0,14,0,142,72,N,A,Pořad schůze,,False,False
+81504,173,74,215,0,2023-09-15,09:20,64,35,11,32,142,72,N,R,Pořad schůze,,False,False
+81505,173,74,216,0,2023-09-15,09:21,70,40,8,24,142,72,N,R,Pořad schůze,,False,False
+81506,173,74,217,130,2023-09-15,10:41,130,0,16,0,146,74,N,A,"Vl.n.z., kterým se mění zák.v oblasti kriz.stavů",,False,False
+81507,173,74,218,134,2023-09-15,10:45,134,0,1,0,135,68,N,A,Novela z. o podnikání na kapitálovém trhu - EU,,False,False
+81508,173,74,219,136,2023-09-15,10:47,130,1,6,0,137,69,N,A,Novela z. o výkonu zajištění majetku a věcí v trest. řízení,,False,False
+81509,173,74,220,19,2023-09-15,11:32,123,0,17,0,140,71,N,A,Novela z. o státním zastupitelství,,False,False
+81510,173,74,221,25,2023-09-15,12:01,1,95,42,2,140,71,N,R,Novela z. o výkonu trestu odnětí svobody,,False,False
+81511,173,74,222,25,2023-09-15,12:02,117,0,23,1,141,71,N,A,Novela z. o výkonu trestu odnětí svobody,,False,False
+81512,173,74,223,25,2023-09-15,12:03,55,4,47,35,141,71,N,R,Novela z. o výkonu trestu odnětí svobody,,False,False
+81513,173,74,224,25,2023-09-15,12:04,114,0,26,1,141,71,N,A,Novela z. o výkonu trestu odnětí svobody,,False,False
+81514,173,74,225,100,2023-09-15,12:14,108,0,28,0,136,69,N,A,Novela z. o elektronických úkonech a autorizované konverzi,,False,False
+81515,173,74,226,100,2023-09-15,12:16,117,0,0,0,117,59,N,A,Novela z. o elektronických úkonech a autorizované konverzi,,False,False
+81516,173,74,227,96,2023-09-15,12:22,110,0,0,0,110,56,N,A,Novela z. o Státním pozemkovém úřadu,,False,False
+81517,173,74,228,96,2023-09-15,12:31,112,0,6,0,118,60,N,A,Novela z. o Státním pozemkovém úřadu,,False,False
+81518,173,74,229,96,2023-09-15,12:33,112,0,6,0,118,60,N,A,Novela z. o Státním pozemkovém úřadu,,False,False
+81519,173,74,230,96,2023-09-15,12:34,112,0,7,0,119,60,N,A,Novela z. o Státním pozemkovém úřadu,,False,False
+81520,173,74,231,157,2023-09-15,12:47,87,0,0,0,87,44,N,A,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+81521,173,74,232,157,2023-09-15,13:21,92,0,19,0,111,56,N,A,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+81522,173,74,233,157,2023-09-15,13:22,40,22,36,14,112,57,N,R,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+81523,173,74,234,157,2023-09-15,13:23,96,0,16,0,112,57,N,A,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+81524,173,74,235,158,2023-09-15,13:24,99,0,13,0,112,57,N,A,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+81525,173,74,236,158,2023-09-15,13:25,7,4,94,6,111,56,N,R,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+81526,173,74,237,158,2023-09-15,13:25,43,19,23,16,101,51,N,R,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+81527,173,74,238,158,2023-09-15,13:26,101,0,1,0,102,52,N,A,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+81528,173,74,239,0,2023-09-15,13:27,89,4,10,1,104,53,N,A, ,,False,False
