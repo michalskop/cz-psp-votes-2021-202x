@@ -4219,7 +4219,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81522,173,74,233,157,2023-09-15,13:22,40,22,36,14,112,57,N,R,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
 81523,173,74,234,157,2023-09-15,13:23,96,0,16,0,112,57,N,A,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
 81524,173,74,235,158,2023-09-15,13:24,99,0,13,0,112,57,N,A,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
-81525,173,74,236,158,2023-09-15,13:25,7,4,94,6,111,56,N,R,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+81525,173,74,236,158,2023-09-15,13:25,7,4,94,6,111,56,N,R,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,True,True
 81526,173,74,237,158,2023-09-15,13:25,43,19,23,16,101,51,N,R,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
 81527,173,74,238,158,2023-09-15,13:26,101,0,1,0,102,52,N,A,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
 81528,173,74,239,0,2023-09-15,13:27,89,4,10,1,104,53,N,A, ,,False,False
