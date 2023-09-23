@@ -4223,3 +4223,5 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81526,173,74,237,158,2023-09-15,13:25,43,19,23,16,101,51,N,R,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
 81527,173,74,238,158,2023-09-15,13:26,101,0,1,0,102,52,N,A,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
 81528,173,74,239,0,2023-09-15,13:27,89,4,10,1,104,53,N,A, ,,False,False
+81529,173,77,1,0,2023-09-22,09:02,123,1,1,0,125,63,N,A, ,,False,False
+81530,173,77,2,0,2023-09-22,09:09,78,58,3,0,139,70,N,A,Pořad schůze,,False,False
