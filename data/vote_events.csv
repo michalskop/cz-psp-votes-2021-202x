@@ -4225,3 +4225,50 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81528,173,74,239,0,2023-09-15,13:27,89,4,10,1,104,53,N,A, ,,False,False
 81529,173,77,1,0,2023-09-22,09:02,123,1,1,0,125,63,N,A, ,,False,False
 81530,173,77,2,0,2023-09-22,09:09,78,58,3,0,139,70,N,A,Pořad schůze,,False,False
+81531,173,76,1,0,2023-09-26,14:02,131,1,0,0,132,67,N,A, ,,False,False
+81532,173,76,2,0,2023-09-26,14:12,74,63,4,2,143,72,N,A,Pořad schůze,,False,False
+81533,173,76,3,0,2023-09-26,14:14,134,0,8,1,143,72,N,A,Pořad schůze,,False,False
+81534,173,76,4,0,2023-09-26,14:15,76,66,0,0,142,72,N,A,Pořad schůze,,False,False
+81535,173,76,5,0,2023-09-26,18:58,154,0,0,0,154,78,N,A,Pořad schůze,,False,False
+81536,173,76,6,0,2023-09-26,18:59,73,80,1,2,156,79,N,R,Pořad schůze,,False,False
+81537,173,76,7,0,2023-09-26,18:59,73,80,0,3,156,79,N,R,Pořad schůze,,False,False
+81538,173,76,8,0,2023-09-26,19:00,73,81,0,2,156,79,N,R,Pořad schůze,,False,False
+81539,173,76,9,0,2023-09-26,19:01,73,81,0,2,156,79,N,R,Pořad schůze,,False,False
+81540,173,76,10,0,2023-09-26,19:01,73,80,0,4,157,79,N,R,Pořad schůze,,False,False
+81541,173,76,11,0,2023-09-26,19:02,73,80,4,0,157,79,N,R,Pořad schůze,,False,False
+81542,173,76,12,0,2023-09-26,19:03,73,75,4,5,157,79,N,R,Pořad schůze,,False,False
+81543,173,76,13,0,2023-09-26,19:03,73,83,1,0,157,79,N,R,Pořad schůze,,False,False
+81544,173,76,14,0,2023-09-26,19:04,69,67,16,5,157,79,N,R,Pořad schůze,,False,False
+81545,173,76,15,0,2023-09-26,19:05,73,79,3,2,157,79,N,R,Pořad schůze,,False,False
+81546,173,76,16,0,2023-09-26,19:06,64,72,11,10,157,79,N,R,Pořad schůze,,False,False
+81547,173,76,17,0,2023-09-26,19:06,73,81,1,2,157,79,N,R,Pořad schůze,,False,False
+81548,173,76,18,0,2023-09-26,19:07,73,82,2,0,157,79,N,R,Pořad schůze,,False,False
+81549,173,76,19,0,2023-09-26,19:08,73,83,1,0,157,79,N,R,Pořad schůze,,False,False
+81550,173,76,20,0,2023-09-26,19:08,72,79,3,3,157,79,N,R,Pořad schůze,,False,False
+81551,173,76,21,0,2023-09-26,19:09,73,82,2,0,157,79,N,R,Pořad schůze,,False,False
+81552,173,76,22,0,2023-09-26,19:10,73,68,2,14,157,79,N,R,Pořad schůze,,False,False
+81553,173,76,23,0,2023-09-26,19:10,72,82,2,1,157,79,N,R,Pořad schůze,,False,False
+81554,173,76,24,0,2023-09-26,19:11,71,69,8,9,157,79,N,R,Pořad schůze,,False,False
+81555,173,76,25,0,2023-09-26,19:11,71,69,5,12,157,79,N,R,Pořad schůze,,False,False
+81556,173,76,26,0,2023-09-26,19:12,70,81,6,0,157,79,N,R,Pořad schůze,,False,False
+81557,173,76,27,0,2023-09-26,19:13,71,84,2,0,157,79,N,R,Pořad schůze,,False,False
+81558,173,76,28,0,2023-09-26,19:13,73,82,1,1,157,79,N,R,Pořad schůze,,False,False
+81559,173,76,29,0,2023-09-26,19:14,83,28,41,5,157,79,N,A,Pořad schůze,,False,False
+81560,173,76,30,120,2023-09-26,19:20,136,1,17,0,154,78,N,A,Návrh časového harmonogramu projednávání vládního návrhu zákona o stát,,False,False
+81561,173,76,31,4,2023-09-26,20:35,1,88,15,31,135,68,N,R,Novela z. o obcích,,False,False
+81562,173,76,32,4,2023-09-26,20:35,2,84,19,30,135,68,N,R,Novela z. o obcích,,False,False
+81563,173,76,33,4,2023-09-26,20:36,4,84,16,31,135,68,N,R,Novela z. o obcích,,False,False
+81564,173,76,34,4,2023-09-26,20:37,54,72,3,6,135,68,N,R,Novela z. o obcích,,False,False
+81565,173,76,35,18,2023-09-26,20:54,121,0,1,0,122,62,N,A,"Vl.n.z., kt. se mění někt.zák.v souv. s elektr. vybr. agend",,False,False
+81566,173,76,36,18,2023-09-26,20:56,126,0,1,0,127,64,N,A,"Vl.n.z., kt. se mění někt.zák.v souv. s elektr. vybr. agend",,False,False
+81567,173,76,37,14,2023-09-26,21:23,125,1,2,0,128,65,N,A,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
+81568,173,76,38,14,2023-09-26,21:24,119,1,10,1,131,66,N,A,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
+81569,173,76,39,15,2023-09-26,21:31,125,0,5,0,130,66,N,A,Vl.n.z. o pojištění odpověd. z provozu vozidla - související - EU,,False,False
+81570,173,76,40,15,2023-09-26,21:32,116,1,12,1,130,66,N,A,Vl.n.z. o pojištění odpověd. z provozu vozidla - související - EU,,False,False
+81571,173,76,41,9,2023-09-26,21:40,127,1,5,0,133,67,N,A,"N.z., kterým se mění zk. o zdr. prostředcích a zk.o léčivech - EU",,False,False
+81572,173,76,42,13,2023-09-26,21:48,131,0,6,0,137,69,N,A,Novela z. o zdravotních službách - EU,,False,False
+81573,173,76,43,94,2023-09-26,22:37,41,69,18,8,136,69,N,R,Novela z. o návykových látkách,,False,False
+81574,173,76,44,94,2023-09-26,22:38,130,0,5,1,136,69,N,A,Novela z. o návykových látkách,,False,False
+81575,173,76,45,94,2023-09-26,22:39,58,32,31,15,136,69,N,R,Novela z. o návykových látkách,,False,False
+81576,173,76,46,94,2023-09-26,22:40,125,0,7,1,133,67,N,A,Novela z. o návykových látkách,,False,False
+81577,173,76,47,94,2023-09-26,22:40,113,1,13,0,127,64,N,A,Novela z. o návykových látkách,,False,False
