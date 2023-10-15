@@ -4272,3 +4272,130 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81575,173,76,45,94,2023-09-26,22:39,58,32,31,15,136,69,N,R,Novela z. o návykových látkách,,False,False
 81576,173,76,46,94,2023-09-26,22:40,125,0,7,1,133,67,N,A,Novela z. o návykových látkách,,False,False
 81577,173,76,47,94,2023-09-26,22:40,113,1,13,0,127,64,N,A,Novela z. o návykových látkách,,False,False
+81578,173,78,1,0,2023-10-10,14:01,152,0,4,0,156,79,N,A, ,,False,False
+81579,173,78,2,0,2023-10-10,14:10,82,48,29,3,162,82,N,A,Pořad schůze,,False,False
+81580,173,78,3,0,2023-10-10,17:13,160,0,0,0,160,81,N,A,Pořad schůze,,False,False
+81581,173,78,4,0,2023-10-10,17:13,78,80,0,2,160,81,N,R,Pořad schůze,,False,False
+81582,173,78,5,0,2023-10-10,17:14,77,23,15,46,161,81,N,R,Pořad schůze,,False,False
+81583,173,78,6,0,2023-10-10,17:14,77,53,6,28,164,83,N,R,Pořad schůze,,False,False
+81584,173,78,7,0,2023-10-10,17:15,78,72,8,6,164,83,N,R,Pořad schůze,,False,False
+81585,173,78,8,0,2023-10-10,17:15,78,83,3,1,165,83,N,R,Pořad schůze,,False,False
+81586,173,78,9,0,2023-10-10,17:16,62,79,17,7,165,83,N,R,Pořad schůze,,False,False
+81587,173,78,10,0,2023-10-10,17:17,64,75,20,3,162,82,N,R,Pořad schůze,,False,False
+81588,173,78,11,0,2023-10-10,17:17,77,79,5,4,165,83,N,R,Pořad schůze,,False,False
+81589,173,78,12,0,2023-10-10,17:18,78,82,1,4,165,83,N,R,Pořad schůze,,False,False
+81590,173,78,13,0,2023-10-10,17:18,79,83,2,2,166,84,N,R,Pořad schůze,,False,False
+81591,173,78,14,0,2023-10-10,17:19,77,79,7,3,166,84,N,R,Pořad schůze,,False,False
+81592,173,78,15,0,2023-10-10,17:20,75,59,21,11,166,84,N,R,Pořad schůze,,False,False
+81593,173,78,16,0,2023-10-10,17:20,77,84,3,2,166,84,N,R,Pořad schůze,,False,False
+81594,173,78,17,0,2023-10-10,17:21,73,77,13,3,166,84,N,R,Pořad schůze,,False,False
+81595,173,78,18,0,2023-10-10,17:21,77,63,5,21,166,84,N,R,Pořad schůze,,False,False
+81596,173,78,19,0,2023-10-10,17:22,76,85,4,1,166,84,N,R,Pořad schůze,,False,False
+81597,173,78,20,0,2023-10-10,17:23,74,73,12,7,166,84,N,R,Pořad schůze,,False,False
+81598,173,78,21,0,2023-10-10,17:23,72,77,11,6,166,84,N,R,Pořad schůze,,False,False
+81599,173,78,22,0,2023-10-10,17:24,88,17,55,6,166,84,N,A,Pořad schůze,,False,False
+81600,173,78,23,140,2023-10-10,17:37,162,0,0,0,162,82,N,A,Usn.PS - Izrael,,False,False
+81601,173,78,24,6,2023-10-10,19:13,62,70,4,1,137,69,N,R,Novela z. o léčivech - EU,,False,False
+81602,173,78,25,5,2023-10-10,20:48,63,73,1,1,138,70,N,R,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
+81603,173,78,26,23,2023-10-10,22:33,123,0,17,0,140,71,N,A,Novela z. o právu na digitální služby,,False,False
+81604,173,78,27,23,2023-10-10,22:35,72,4,42,4,122,62,N,A,Novela z. o právu na digitální služby,,False,False
+81605,173,78,28,23,2023-10-10,22:36,72,7,39,4,122,62,N,A,Novela z. o právu na digitální služby,,False,False
+81606,173,77,3,1,2023-10-11,13:21,95,76,0,0,171,86,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81607,173,78,29,141,2023-10-12,09:41,52,48,0,0,100,51,N,A,Písemná interpelace M. Kolovratníka na J. Černochovou ve věci ukvapený,,False,False
+81608,173,78,30,141,2023-10-12,10:18,95,1,19,0,115,58,N,A,Písemná interpelace K. Farhana na V. Válka ve věci reformy péče o duše,,False,False
+81609,173,78,31,141,2023-10-12,10:20,92,0,24,0,116,59,N,A,Písemná interpelace A. Schillerové na P. Fialu ve věci institutu paušá,,False,False
+81610,173,78,32,141,2023-10-12,10:22,91,0,26,0,117,59,N,A,Písemná interpelace M. Kolovratníka na M. Kupku ve věci Snaha o úspory,,False,False
+81611,173,78,33,141,2023-10-12,10:24,88,0,29,1,118,60,N,A,Písemná interpelace J. Pokorné Jermanové na M. Baxu ve věci přípravy l,,False,False
+81612,173,78,34,141,2023-10-12,10:25,91,0,28,1,120,61,N,A,Písemná interpelace M. Nováka na V. Válka ve věci zákazu kratomu,,False,False
+81613,173,78,35,0,2023-10-12,11:09,64,68,4,2,138,70,N,R,Pořad schůze,,False,False
+81614,173,78,36,2,2023-10-12,12:55,103,0,39,0,142,72,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81615,173,78,37,21,2023-10-12,13:07,66,43,10,1,120,61,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+81616,173,77,4,1,2023-10-13,11:02,87,103,1,0,191,96,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81617,173,77,5,1,2023-10-13,11:19,26,105,60,3,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81618,173,77,6,1,2023-10-13,11:20,172,0,21,1,194,98,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81619,173,77,7,1,2023-10-13,11:21,194,0,0,0,194,98,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81620,173,77,8,1,2023-10-13,11:22,86,108,0,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81621,173,77,9,1,2023-10-13,11:23,86,108,0,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81622,173,77,10,1,2023-10-13,11:23,85,106,2,0,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81623,173,77,11,1,2023-10-13,11:24,86,106,1,0,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81624,173,77,12,1,2023-10-13,11:25,86,103,1,4,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81625,173,77,13,1,2023-10-13,11:25,86,103,2,3,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81626,173,77,14,1,2023-10-13,11:26,86,102,1,5,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81627,173,77,15,1,2023-10-13,11:27,86,107,1,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81628,173,77,16,1,2023-10-13,11:28,84,107,3,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81629,173,77,17,1,2023-10-13,11:28,86,103,1,4,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81630,173,77,18,1,2023-10-13,11:29,87,103,1,3,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81631,173,77,19,1,2023-10-13,11:30,86,103,4,1,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81632,173,77,20,1,2023-10-13,11:30,86,106,0,2,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81633,173,77,21,1,2023-10-13,11:31,85,105,2,2,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81634,173,77,22,1,2023-10-13,11:32,86,106,2,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81635,173,77,23,1,2023-10-13,11:32,86,92,7,9,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81636,173,77,24,1,2023-10-13,11:33,87,88,8,10,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81637,173,77,25,1,2023-10-13,11:34,22,108,53,9,192,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81638,173,77,26,1,2023-10-13,11:35,87,103,4,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81639,173,77,27,1,2023-10-13,11:35,85,103,5,1,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81640,173,77,28,1,2023-10-13,11:36,86,97,6,3,192,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81641,173,77,29,1,2023-10-13,11:37,86,104,4,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81642,173,77,30,1,2023-10-13,11:38,85,106,2,1,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81643,173,77,31,1,2023-10-13,11:38,86,106,2,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81644,173,77,32,1,2023-10-13,11:39,85,97,5,5,192,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81645,173,77,33,1,2023-10-13,11:40,20,169,4,0,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81646,173,77,34,1,2023-10-13,11:40,83,104,6,0,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81647,173,77,35,1,2023-10-13,11:41,19,103,61,11,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81648,173,77,36,1,2023-10-13,11:42,18,106,63,7,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81649,173,77,37,1,2023-10-13,11:43,191,1,2,0,194,98,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81650,173,77,38,1,2023-10-13,11:44,21,104,61,8,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81651,173,77,39,1,2023-10-13,11:45,86,104,3,1,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81652,173,77,40,1,2023-10-13,11:46,86,101,4,3,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81653,173,77,41,1,2023-10-13,11:47,19,107,61,7,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81654,173,77,42,1,2023-10-13,11:47,84,101,5,3,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81655,173,77,43,1,2023-10-13,11:48,84,99,4,7,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81656,173,77,44,1,2023-10-13,11:49,85,98,8,3,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81657,173,77,45,1,2023-10-13,11:49,86,97,4,7,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81658,173,77,46,1,2023-10-13,11:50,85,100,3,6,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81659,173,77,47,1,2023-10-13,11:51,84,100,5,5,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81660,173,77,48,1,2023-10-13,11:51,85,99,5,5,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81661,173,77,49,1,2023-10-13,11:52,86,102,3,3,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81662,173,77,50,1,2023-10-13,11:53,86,105,3,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81663,173,77,51,1,2023-10-13,11:54,84,107,3,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81664,173,77,52,1,2023-10-13,11:55,85,99,7,2,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81665,173,77,53,1,2023-10-13,11:55,86,102,5,1,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81666,173,77,54,1,2023-10-13,11:56,86,106,2,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81667,173,77,55,1,2023-10-13,11:57,85,105,3,1,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81668,173,77,56,1,2023-10-13,11:58,66,125,2,1,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81669,173,77,57,1,2023-10-13,11:59,85,104,4,1,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81670,173,77,58,1,2023-10-13,12:00,86,103,3,2,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81671,173,77,59,1,2023-10-13,12:01,85,99,8,2,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81672,173,77,60,1,2023-10-13,12:01,86,103,3,2,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81673,173,77,61,1,2023-10-13,12:02,86,97,7,4,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81674,173,77,62,1,2023-10-13,12:03,86,95,9,4,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81675,173,77,63,1,2023-10-13,12:04,6,8,179,0,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81676,173,77,64,1,2023-10-13,12:05,85,94,11,3,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81677,173,77,65,1,2023-10-13,12:06,85,99,7,3,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81678,173,77,66,1,2023-10-13,12:07,86,93,9,6,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81679,173,77,67,1,2023-10-13,12:08,86,104,4,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81680,173,77,68,1,2023-10-13,12:08,86,103,5,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81681,173,77,69,1,2023-10-13,12:09,84,104,3,3,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81682,173,77,70,1,2023-10-13,12:10,88,90,10,3,191,96,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81683,173,77,71,1,2023-10-13,12:11,86,106,2,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81684,173,77,72,1,2023-10-13,12:11,85,97,5,7,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81685,173,77,73,1,2023-10-13,12:12,25,106,54,8,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81686,173,77,74,1,2023-10-13,12:13,86,104,4,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81687,173,77,75,1,2023-10-13,12:13,86,107,1,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81688,173,77,76,1,2023-10-13,12:14,86,98,2,7,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81689,173,77,77,1,2023-10-13,12:15,87,76,13,17,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81690,173,77,78,1,2023-10-13,12:16,84,95,11,4,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81691,173,77,79,1,2023-10-13,12:17,86,105,2,1,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81692,173,77,80,1,2023-10-13,12:17,86,104,4,0,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81693,173,77,81,1,2023-10-13,12:18,190,3,0,1,194,98,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81694,173,77,82,1,2023-10-13,12:19,87,99,4,4,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81695,173,77,83,1,2023-10-13,12:21,105,88,0,1,194,98,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81696,173,77,84,1,2023-10-13,12:22,107,86,0,0,193,97,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81697,173,77,85,1,2023-10-13,12:24,188,0,3,3,194,98,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81698,173,77,86,1,2023-10-13,12:25,86,99,6,3,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81699,173,77,87,1,2023-10-13,12:28,86,102,5,1,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81700,173,77,88,1,2023-10-13,12:31,108,86,0,0,194,98,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81701,173,78,38,21,2023-10-13,13:59,16,87,32,5,140,71,N,R,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+81702,173,78,39,21,2023-10-13,14:00,52,87,1,0,140,71,N,R,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+81703,173,78,40,21,2023-10-13,14:01,136,0,3,0,139,70,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+81704,173,78,41,21,2023-10-13,14:01,91,46,1,2,140,71,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
