@@ -4399,3 +4399,6 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81702,173,78,39,21,2023-10-13,14:00,52,87,1,0,140,71,N,R,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
 81703,173,78,40,21,2023-10-13,14:01,136,0,3,0,139,70,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
 81704,173,78,41,21,2023-10-13,14:01,91,46,1,2,140,71,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+81705,173,79,1,0,2023-10-17,10:01,103,0,2,0,105,53,N,A, ,,False,False
+81706,173,79,2,1,2023-10-17,20:04,50,0,60,0,110,56,N,R,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,False,False
+81707,173,79,3,1,2023-10-17,20:04,116,0,2,0,118,60,N,A,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,False,False
