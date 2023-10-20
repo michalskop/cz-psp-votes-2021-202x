@@ -4403,4 +4403,4 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81706,173,79,2,1,2023-10-17,20:04,50,0,60,0,110,56,N,R,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,False,False
 81707,173,79,3,1,2023-10-17,20:04,116,0,2,0,118,60,N,A,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,False,False
 81708,173,79,4,1,2023-10-18,17:48,97,0,0,0,97,49,N,A,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,False,False
-81709,173,79,5,1,2023-10-19,00:35,0,0,152,0,152,101,N,R,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,False,False
+81709,173,79,5,1,2023-10-19,00:35,85,96,0,19,181,101,N,R,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,False,False
