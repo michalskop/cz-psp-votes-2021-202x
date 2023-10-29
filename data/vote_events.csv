@@ -4298,7 +4298,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81601,173,78,24,6,2023-10-10,19:13,62,70,4,1,137,69,N,R,Novela z. o léčivech - EU,,False,False
 81602,173,78,25,5,2023-10-10,20:48,63,73,1,1,138,70,N,R,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
 81603,173,78,26,23,2023-10-10,22:33,123,0,17,0,140,71,N,A,Novela z. o právu na digitální služby,,False,False
-81604,173,78,27,23,2023-10-10,22:35,72,4,42,4,122,62,N,A,Novela z. o právu na digitální služby,,False,False
+81604,173,78,27,23,2023-10-10,22:35,72,4,42,4,122,62,N,A,Novela z. o právu na digitální služby,,True,True
 81605,173,78,28,23,2023-10-10,22:36,72,7,39,4,122,62,N,A,Novela z. o právu na digitální služby,,False,False
 81606,173,77,3,1,2023-10-11,13:21,95,76,0,0,171,86,N,A,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
 81607,173,78,29,141,2023-10-12,09:41,52,48,0,0,100,51,N,A,Písemná interpelace M. Kolovratníka na J. Černochovou ve věci ukvapený,,False,False
@@ -4369,7 +4369,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81672,173,77,60,1,2023-10-13,12:01,86,103,3,2,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
 81673,173,77,61,1,2023-10-13,12:02,86,97,7,4,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
 81674,173,77,62,1,2023-10-13,12:03,86,95,9,4,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
-81675,173,77,63,1,2023-10-13,12:04,6,8,179,0,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
+81675,173,77,63,1,2023-10-13,12:04,6,8,179,0,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,True,True
 81676,173,77,64,1,2023-10-13,12:05,85,94,11,3,193,97,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
 81677,173,77,65,1,2023-10-13,12:06,85,99,7,3,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
 81678,173,77,66,1,2023-10-13,12:07,86,93,9,6,194,98,N,R,"Vl.n.z., kt. se mění někt.zák. s konsolidací veřej. rozpočtů - EU",,False,False
@@ -4400,7 +4400,101 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81703,173,78,40,21,2023-10-13,14:01,136,0,3,0,139,70,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
 81704,173,78,41,21,2023-10-13,14:01,91,46,1,2,140,71,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
 81705,173,79,1,0,2023-10-17,10:01,103,0,2,0,105,53,N,A, ,,False,False
-81706,173,79,2,1,2023-10-17,20:04,50,0,60,0,110,56,N,R,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,False,False
+81706,173,79,2,1,2023-10-17,20:04,50,0,60,0,110,56,N,R,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,True,True
 81707,173,79,3,1,2023-10-17,20:04,116,0,2,0,118,60,N,A,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,False,False
 81708,173,79,4,1,2023-10-18,17:48,97,0,0,0,97,49,N,A,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,False,False
 81709,173,79,5,1,2023-10-19,00:35,85,96,0,19,181,101,N,R,Projednání návrhu na vyslovení nedůvěry vládě České republiky,,False,False
+81710,173,78,42,0,2023-10-24,14:46,77,15,57,7,156,79,N,R, ,,False,False
+81711,173,78,43,0,2023-10-24,15:59,83,24,40,10,157,79,N,A,Pořad schůze,,False,False
+81712,173,78,44,0,2023-10-24,16:46,154,0,0,0,154,78,N,A,Pořad schůze,,False,False
+81713,173,78,45,0,2023-10-24,16:47,71,83,1,1,156,79,N,R,Pořad schůze,,False,False
+81714,173,78,46,0,2023-10-24,16:47,69,85,2,0,156,79,N,R,Pořad schůze,,False,False
+81715,173,78,47,0,2023-10-24,16:48,69,80,5,4,158,80,N,R,Pořad schůze,,False,False
+81716,173,78,48,0,2023-10-24,16:49,72,85,1,1,159,80,N,R,Pořad schůze,,False,False
+81717,173,78,49,0,2023-10-24,16:49,73,86,1,0,160,81,N,R,Pořad schůze,,False,False
+81718,173,78,50,0,2023-10-24,16:50,72,87,1,0,160,81,N,R,Pořad schůze,,False,False
+81719,173,78,51,0,2023-10-24,16:51,73,87,0,0,160,81,N,R,Pořad schůze,,False,False
+81720,173,78,52,0,2023-10-24,16:51,74,81,3,2,160,81,N,R,Pořad schůze,,False,False
+81721,173,78,53,0,2023-10-24,16:52,74,85,0,1,160,81,N,R,Pořad schůze,,False,False
+81722,173,78,54,0,2023-10-24,16:53,76,70,5,9,160,81,N,R,Pořad schůze,,False,False
+81723,173,78,55,0,2023-10-24,16:53,79,43,8,31,161,81,N,R,Pořad schůze,,False,False
+81724,173,78,56,0,2023-10-24,16:54,73,72,10,6,161,81,N,R,Pořad schůze,,False,False
+81725,173,78,57,0,2023-10-24,16:55,73,36,23,29,161,81,N,R,Pořad schůze,,False,False
+81726,173,78,58,0,2023-10-24,16:55,71,72,6,12,161,81,N,R,Pořad schůze,,False,False
+81727,173,78,59,0,2023-10-24,16:56,70,77,10,4,161,81,N,R,Pořad schůze,,False,False
+81728,173,78,60,0,2023-10-24,16:57,72,85,3,1,161,81,N,R,Pořad schůze,,False,False
+81729,173,78,61,0,2023-10-24,16:57,72,77,8,4,161,81,N,R,Pořad schůze,,False,False
+81730,173,78,62,0,2023-10-24,16:58,73,77,4,7,161,81,N,R,Pořad schůze,,False,False
+81731,173,78,63,0,2023-10-24,16:59,71,80,4,6,161,81,N,R,Pořad schůze,,False,False
+81732,173,78,64,4,2023-10-24,18:40,48,88,0,0,136,69,N,R,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81733,173,78,65,99,2023-10-24,18:58,119,0,23,0,142,72,N,A,N. z. o správě voleb,,False,False
+81734,173,78,66,99,2023-10-24,19:00,120,0,22,0,142,72,N,A,N. z. o správě voleb,,False,False
+81735,173,78,67,100,2023-10-24,19:08,116,0,27,0,143,72,N,A,N. z. - v souvislosti s přijetím zákona o správě voleb,,False,False
+81736,173,78,68,100,2023-10-24,19:09,118,0,26,0,144,73,N,A,N. z. - v souvislosti s přijetím zákona o správě voleb,,False,False
+81737,173,78,69,8,2023-10-24,19:19,94,0,0,0,94,48,N,A,Vl.n.z. o dorovnávacích daních - EU,,False,False
+81738,173,78,70,136,2023-10-24,19:29,104,0,9,0,113,57,N,A,Náv.usn. PS o podrobnostech postupu při výběru kandidátů. RČT a RČRo,,False,False
+81739,173,78,71,13,2023-10-24,19:32,93,0,19,1,113,57,N,A,Novela z. o někt. opatřeních proti leg.výnosů z tr.činnosti - EU,,False,False
+81740,173,78,72,13,2023-10-24,19:35,99,0,18,0,117,59,N,A,Novela z. o někt. opatřeních proti leg.výnosů z tr.činnosti - EU,,False,False
+81741,173,78,73,13,2023-10-24,19:36,96,0,21,0,117,59,N,A,Novela z. o někt. opatřeních proti leg.výnosů z tr.činnosti - EU,,False,False
+81742,173,78,74,14,2023-10-24,19:44,96,0,21,0,117,59,N,A,Vl.n.z. o munici,,False,False
+81743,173,78,75,14,2023-10-24,19:45,98,0,19,0,117,59,N,A,Vl.n.z. o munici,,False,False
+81744,173,78,76,15,2023-10-24,19:53,108,0,14,0,122,62,N,A,Vl.n.z. o zbraních a střelivu - EU,,False,False
+81745,173,78,77,15,2023-10-24,19:54,106,0,16,0,122,62,N,A,Vl.n.z. o zbraních a střelivu - EU,,False,False
+81746,173,78,78,19,2023-10-24,20:04,106,1,18,0,125,63,N,A,Vl.n.z. o požadavcích na přístupnost někt. výrobků a služeb - EU,,False,False
+81747,173,78,79,19,2023-10-24,20:05,105,0,17,0,122,62,N,A,Vl.n.z. o požadavcích na přístupnost někt. výrobků a služeb - EU,,False,False
+81748,173,78,80,1,2023-10-25,13:45,98,22,18,11,149,75,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+81749,173,78,81,124,2023-10-25,13:48,147,0,9,0,156,79,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+81750,173,78,82,124,2023-10-25,13:49,146,0,11,0,157,79,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+81751,173,78,83,124,2023-10-25,13:50,158,0,5,0,163,82,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+81752,173,78,84,125,2023-10-25,14:06,130,2,26,1,159,80,N,A,Návrh na volbu člena DR SFDI,,False,False
+81753,173,78,85,1,2023-10-25,21:50,66,86,4,0,156,79,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+81754,173,78,86,1,2023-10-25,21:51,69,87,0,0,156,79,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+81755,173,78,87,1,2023-10-25,21:52,87,69,0,0,156,79,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+81756,173,78,88,141,2023-10-26,09:52,76,0,4,0,80,41,N,A,Písemná interpelace R. Fischerové na P. Fialu ve věci nedostatečné pod,,False,False
+81757,173,78,89,141,2023-10-26,10:32,46,42,5,3,96,49,N,R,Písemná interpelace K. Dostálové na I. Bartoše ve věci digitalizace st,,False,False
+81758,173,78,90,141,2023-10-26,10:34,97,0,1,0,98,50,N,A,Písemná interpelace K. Dostálové na I. Bartoše ve věci digitalizace st,,False,False
+81759,173,78,91,141,2023-10-26,10:34,51,48,2,3,104,53,N,R,Písemná interpelace K. Dostálové na I. Bartoše ve věci digitalizace st,,False,False
+81760,173,80,1,0,2023-10-26,11:01,92,0,3,0,95,48,N,A, ,,False,False
+81761,173,80,2,0,2023-10-26,11:03,110,0,2,0,112,57,N,A,Pořad schůze,,False,False
+81762,173,80,3,1,2023-10-26,11:57,131,1,10,0,142,72,N,A,Novela z. - školský zákon,,False,False
+81763,173,80,4,1,2023-10-26,11:58,126,0,15,2,143,72,N,A,Novela z. - školský zákon,,False,False
+81764,173,78,92,0,2023-10-27,10:15,153,0,3,1,157,79,N,A,Pořad schůze,,False,False
+81765,173,78,93,0,2023-10-27,10:16,137,0,19,1,157,79,N,A,Pořad schůze,,False,False
+81766,173,78,94,0,2023-10-27,10:17,74,81,2,0,157,79,N,R,Pořad schůze,,False,False
+81767,173,78,95,0,2023-10-27,10:18,68,74,13,2,157,79,N,R,Pořad schůze,,False,False
+81768,173,78,96,0,2023-10-27,10:20,73,52,16,15,156,79,N,R,Pořad schůze,,False,False
+81769,173,78,97,107,2023-10-27,10:31,149,0,1,0,150,120,N,A,Novela ústav. z. - Ústava ČR,,False,False
+81770,173,78,98,121,2023-10-27,11:28,156,0,0,0,156,79,N,A,Novela z. o státní sociální podpoře,,False,False
+81771,173,78,99,121,2023-10-27,11:30,75,22,24,33,154,78,N,R,Novela z. o státní sociální podpoře,,False,False
+81772,173,78,100,121,2023-10-27,11:31,73,71,7,6,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81773,173,78,101,121,2023-10-27,11:31,73,73,6,5,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81774,173,78,102,121,2023-10-27,11:32,73,75,5,4,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81775,173,78,103,121,2023-10-27,11:33,73,72,6,6,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81776,173,78,104,121,2023-10-27,11:34,73,72,8,4,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81777,173,78,105,121,2023-10-27,11:35,72,71,11,3,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81778,173,78,106,121,2023-10-27,11:36,72,71,9,5,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81779,173,78,107,121,2023-10-27,11:37,69,61,15,12,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81780,173,78,108,121,2023-10-27,11:38,71,58,17,11,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81781,173,78,109,121,2023-10-27,11:39,73,73,7,4,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81782,173,78,110,121,2023-10-27,11:40,73,78,4,2,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81783,173,78,111,121,2023-10-27,11:41,72,80,3,2,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81784,173,78,112,121,2023-10-27,11:41,73,71,9,4,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81785,173,78,113,121,2023-10-27,11:42,157,0,0,0,157,79,N,A,Novela z. o státní sociální podpoře,,False,False
+81786,173,78,114,121,2023-10-27,11:43,71,70,9,6,156,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81787,173,78,115,121,2023-10-27,11:45,156,0,1,0,157,79,N,A,Novela z. o státní sociální podpoře,,False,False
+81788,173,78,116,121,2023-10-27,11:46,73,70,5,8,156,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81789,173,78,117,121,2023-10-27,11:47,73,78,6,0,157,79,N,R,Novela z. o státní sociální podpoře,,False,False
+81790,173,78,118,121,2023-10-27,11:47,135,0,19,2,156,79,N,A,Novela z. o státní sociální podpoře,,False,False
+81791,173,78,119,121,2023-10-27,11:48,151,1,5,0,157,79,N,A,Novela z. o státní sociální podpoře,,False,False
+81792,173,78,120,121,2023-10-27,11:49,84,1,67,5,157,79,N,A,Novela z. o státní sociální podpoře,,False,False
+81793,173,78,121,121,2023-10-27,11:50,156,0,0,1,157,79,N,A,Novela z. o státní sociální podpoře,,False,False
+81794,173,78,122,108,2023-10-27,11:55,141,0,0,0,141,71,N,A,Novela z. o Rejstříku trestů,,False,False
+81795,173,78,123,109,2023-10-27,11:59,136,0,8,0,144,73,N,A,Novela z. o dani z přidané hodnoty - EU,,False,False
+81796,173,78,124,109,2023-10-27,12:00,132,0,16,0,148,75,N,A,Novela z. o dani z přidané hodnoty - EU,,False,False
+81797,173,78,125,110,2023-10-27,12:13,94,1,45,13,153,77,N,A,Novela z. o investičních pobídkách,,False,False
+81798,173,78,126,110,2023-10-27,12:14,94,0,54,5,153,77,N,A,Novela z. o investičních pobídkách,,False,False
+81799,173,78,127,112,2023-10-27,12:35,140,0,16,0,156,79,N,A,Novela z. o ozdravných postupech - EU,,False,False
+81800,173,78,128,112,2023-10-27,12:36,143,0,13,0,156,79,N,A,Novela z. o ozdravných postupech - EU,,False,False
+81801,173,78,129,122,2023-10-27,12:41,145,0,3,0,148,75,N,A,Vl.n.z. o dorovnávacích daních - EU,,False,False
+81802,173,78,130,122,2023-10-27,12:42,149,0,1,0,150,76,N,A,Vl.n.z. o dorovnávacích daních - EU,,False,False
+81803,173,78,131,115,2023-10-27,14:00,118,4,26,2,150,76,N,A,Novela z. o obcích,,False,False
