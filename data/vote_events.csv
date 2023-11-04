@@ -4498,3 +4498,105 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81801,173,78,129,122,2023-10-27,12:41,145,0,3,0,148,75,N,A,Vl.n.z. o dorovnávacích daních - EU,,False,False
 81802,173,78,130,122,2023-10-27,12:42,149,0,1,0,150,76,N,A,Vl.n.z. o dorovnávacích daních - EU,,False,False
 81803,173,78,131,115,2023-10-27,14:00,118,4,26,2,150,76,N,A,Novela z. o obcích,,False,False
+81804,173,81,1,0,2023-11-03,09:01,117,1,2,0,120,61,N,A, ,,False,False
+81805,173,81,2,0,2023-11-03,10:28,163,0,2,1,166,84,N,A,Pořad schůze,,False,False
+81806,173,81,3,1,2023-11-03,10:34,164,0,5,0,169,85,N,A,Novela z. o obcích,,False,False
+81807,173,81,4,1,2023-11-03,10:36,80,86,3,0,169,85,N,R,Novela z. o obcích,,False,False
+81808,173,81,5,1,2023-11-03,10:37,165,0,5,0,170,86,N,A,Novela z. o obcích,,False,False
+81809,173,81,6,1,2023-11-03,10:37,76,48,13,34,171,86,N,R,Novela z. o obcích,,False,False
+81810,173,81,7,1,2023-11-03,10:38,89,0,64,18,171,86,N,A,Novela z. o obcích,,False,False
+81811,173,81,8,1,2023-11-03,10:39,77,0,72,22,171,86,N,R,Novela z. o obcích,,False,False
+81812,173,81,9,1,2023-11-03,10:40,79,89,3,0,171,86,N,R,Novela z. o obcích,,False,False
+81813,173,81,10,1,2023-11-03,10:42,92,57,20,2,171,86,N,A,Novela z. o obcích,,False,False
+81814,173,81,11,2,2023-11-03,10:56,161,0,2,0,163,82,N,A,"Novela z. o matrikách, jménu a příjmení",,False,False
+81815,173,81,12,2,2023-11-03,10:57,163,0,2,0,165,83,N,A,"Novela z. o matrikách, jménu a příjmení",,False,False
+81816,173,81,13,2,2023-11-03,10:58,165,0,0,0,165,83,N,A,"Novela z. o matrikách, jménu a příjmení",,False,False
+81817,173,81,14,2,2023-11-03,10:58,165,0,2,1,168,85,N,A,"Novela z. o matrikách, jménu a příjmení",,False,False
+81818,173,81,15,2,2023-11-03,10:59,164,0,4,0,168,85,N,A,"Novela z. o matrikách, jménu a příjmení",,False,False
+81819,173,81,16,2,2023-11-03,11:00,56,104,5,2,167,84,N,R,"Novela z. o matrikách, jménu a příjmení",,False,False
+81820,173,81,17,2,2023-11-03,11:01,152,2,2,12,168,85,N,A,"Novela z. o matrikách, jménu a příjmení",,False,False
+81821,173,81,18,2,2023-11-03,11:02,146,15,2,5,168,85,N,A,"Novela z. o matrikách, jménu a příjmení",,False,False
+81822,173,81,19,2,2023-11-03,11:03,94,17,48,9,168,85,N,A,"Novela z. o matrikách, jménu a příjmení",,False,False
+81823,173,81,20,2,2023-11-03,11:04,26,82,49,8,165,83,N,R,"Novela z. o matrikách, jménu a příjmení",,False,False
+81824,173,81,21,2,2023-11-03,11:05,151,0,14,3,168,85,N,A,"Novela z. o matrikách, jménu a příjmení",,False,False
+81825,173,81,22,3,2023-11-03,11:13,151,0,17,0,168,85,N,A,Novela z. o zdravotnické záchranné službě,,False,False
+81826,173,81,23,3,2023-11-03,11:14,156,0,12,0,168,85,N,A,Novela z. o zdravotnické záchranné službě,,False,False
+81827,173,81,24,4,2023-11-03,11:36,160,0,1,0,161,81,N,A,"N.z., kterým se mění a ruší někt. zákony se zrušením ÚPDI",,False,False
+81828,173,81,25,4,2023-11-03,11:37,102,55,2,3,162,82,N,A,"N.z., kterým se mění a ruší někt. zákony se zrušením ÚPDI",,False,False
+81829,173,81,26,5,2023-11-03,12:19,155,0,4,0,159,80,N,A,Novela z. o zaměstnanosti - EU,,False,False
+81830,173,81,27,5,2023-11-03,12:19,155,0,5,0,160,81,N,A,Novela z. o zaměstnanosti - EU,,False,False
+81831,173,81,28,5,2023-11-03,12:20,157,0,4,0,161,81,N,A,Novela z. o zaměstnanosti - EU,,False,False
+81832,173,81,29,5,2023-11-03,12:21,90,1,64,7,162,82,N,A,Novela z. o zaměstnanosti - EU,,False,False
+81833,173,81,30,5,2023-11-03,12:22,90,71,0,1,162,82,N,A,Novela z. o zaměstnanosti - EU,,False,False
+81834,173,81,31,5,2023-11-03,12:23,74,84,4,0,162,82,N,R,Novela z. o zaměstnanosti - EU,,False,False
+81835,173,81,32,5,2023-11-03,12:24,160,0,2,0,162,82,N,A,Novela z. o zaměstnanosti - EU,,False,False
+81836,173,81,33,5,2023-11-03,12:25,160,0,2,0,162,82,N,A,Novela z. o zaměstnanosti - EU,,False,False
+81837,173,81,34,5,2023-11-03,12:26,159,0,2,0,161,81,N,A,Novela z. o zaměstnanosti - EU,,False,False
+81838,173,81,35,6,2023-11-03,13:27,131,0,23,0,154,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81839,173,81,36,6,2023-11-03,13:35,157,0,3,0,160,81,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81840,173,81,37,6,2023-11-03,13:38,159,0,2,0,161,81,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81841,173,81,38,6,2023-11-03,13:39,0,0,148,0,148,75,N,R,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81842,173,81,39,6,2023-11-03,13:40,158,0,1,0,159,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81843,173,81,40,6,2023-11-03,13:41,156,0,1,2,159,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81844,173,81,41,6,2023-11-03,13:41,159,0,0,0,159,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81845,173,81,42,6,2023-11-03,13:42,158,0,1,0,159,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81846,173,81,43,6,2023-11-03,13:43,86,70,1,2,159,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81847,173,81,44,6,2023-11-03,13:44,154,1,4,0,159,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81848,173,81,45,6,2023-11-03,13:44,157,0,1,0,158,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81849,173,81,46,6,2023-11-03,13:45,154,0,4,0,158,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81850,173,81,47,6,2023-11-03,13:46,154,0,5,0,159,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81851,173,81,48,6,2023-11-03,13:47,153,1,5,0,159,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81852,173,81,49,6,2023-11-03,13:48,85,66,8,0,159,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81853,173,81,50,6,2023-11-03,13:49,156,0,3,0,159,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81854,173,81,51,6,2023-11-03,13:51,146,0,8,3,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81855,173,81,52,6,2023-11-03,13:52,157,0,0,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81856,173,81,53,6,2023-11-03,13:52,137,0,16,4,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81857,173,81,54,6,2023-11-03,13:53,149,0,4,4,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81858,173,81,55,6,2023-11-03,13:54,156,0,1,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81859,173,81,56,6,2023-11-03,13:55,140,1,14,2,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81860,173,81,57,6,2023-11-03,13:56,157,0,0,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81861,173,81,58,6,2023-11-03,13:57,157,0,0,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81862,173,81,59,6,2023-11-03,13:58,157,0,0,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81863,173,81,60,6,2023-11-03,13:58,156,0,1,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81864,173,81,61,6,2023-11-03,13:59,156,0,1,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81865,173,81,62,6,2023-11-03,14:00,155,0,2,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81866,173,81,63,6,2023-11-03,14:00,150,0,7,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81867,173,81,64,6,2023-11-03,14:01,154,0,3,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81868,173,81,65,6,2023-11-03,14:02,148,0,7,2,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81869,173,81,66,6,2023-11-03,14:03,139,0,15,2,156,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81870,173,81,67,6,2023-11-03,14:04,114,0,37,5,156,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81871,173,81,68,6,2023-11-03,14:05,154,0,3,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81872,173,81,69,6,2023-11-03,14:06,154,0,3,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81873,173,81,70,6,2023-11-03,14:07,52,83,20,2,157,79,N,R,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81874,173,81,71,6,2023-11-03,14:07,56,79,14,8,157,79,N,R,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81875,173,81,72,6,2023-11-03,14:09,57,85,13,2,157,79,N,R,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81876,173,81,73,6,2023-11-03,14:11,111,23,16,7,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81877,173,81,74,6,2023-11-03,14:16,141,0,15,0,156,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81878,173,81,75,6,2023-11-03,14:17,57,33,35,32,157,79,N,R,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81879,173,81,76,6,2023-11-03,14:18,120,6,24,7,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81880,173,81,77,6,2023-11-03,14:19,147,0,7,3,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81881,173,81,78,6,2023-11-03,14:20,152,0,5,0,157,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81882,173,81,79,6,2023-11-03,14:20,0,123,20,14,157,79,N,R,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81883,173,81,80,6,2023-11-03,14:21,82,66,8,2,158,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81884,173,81,81,6,2023-11-03,14:22,156,0,2,0,158,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81885,173,81,82,6,2023-11-03,14:23,155,0,3,0,158,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81886,173,81,83,6,2023-11-03,14:23,155,0,3,0,158,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81887,173,81,84,6,2023-11-03,14:24,150,1,4,3,158,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81888,173,81,85,6,2023-11-03,14:25,155,0,3,0,158,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81889,173,81,86,6,2023-11-03,14:26,82,51,20,5,158,80,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81890,173,81,87,6,2023-11-03,14:28,150,0,4,1,155,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81891,173,81,88,6,2023-11-03,14:29,82,54,17,3,156,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81892,173,81,89,6,2023-11-03,14:30,155,0,1,0,156,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81893,173,81,90,6,2023-11-03,14:30,151,0,5,0,156,79,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81894,173,81,91,6,2023-11-03,14:31,154,0,1,0,155,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81895,173,81,92,6,2023-11-03,14:32,152,0,3,0,155,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81896,173,81,93,6,2023-11-03,14:32,151,0,4,0,155,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81897,173,81,94,6,2023-11-03,14:33,149,0,6,0,155,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81898,173,81,95,6,2023-11-03,14:34,150,0,5,0,155,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81899,173,81,96,6,2023-11-03,14:35,150,0,5,0,155,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81900,173,81,97,6,2023-11-03,14:36,70,80,4,1,155,78,N,R,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81901,173,81,98,6,2023-11-03,14:37,70,79,4,2,155,78,N,R,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81902,173,81,99,6,2023-11-03,14:38,117,0,32,5,154,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81903,173,81,100,6,2023-11-03,14:38,151,0,2,2,155,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81904,173,81,101,6,2023-11-03,14:40,153,0,2,0,155,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81905,173,81,102,6,2023-11-03,14:42,80,0,62,9,151,76,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
