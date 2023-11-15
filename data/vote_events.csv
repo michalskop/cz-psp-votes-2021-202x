@@ -4600,3 +4600,26 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81903,173,81,100,6,2023-11-03,14:38,151,0,2,2,155,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
 81904,173,81,101,6,2023-11-03,14:40,153,0,2,0,155,78,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
 81905,173,81,102,6,2023-11-03,14:42,80,0,62,9,151,76,N,A,Novela z. o urychlení výstavby dopravní infrastruktury - EU,,False,False
+81906,173,82,1,0,2023-11-14,14:02,154,0,9,0,163,82,N,A, ,,False,False
+81907,173,82,2,0,2023-11-14,14:11,86,14,49,6,155,78,N,A,Pořad schůze,,False,False
+81908,173,82,3,0,2023-11-14,15:14,143,0,21,0,164,83,N,A,Pořad schůze,,False,False
+81909,173,82,4,0,2023-11-14,15:15,64,35,53,2,154,78,N,R,Pořad schůze,,False,False
+81910,173,82,5,0,2023-11-14,15:18,72,85,0,1,158,80,N,R,Pořad schůze,,False,False
+81911,173,82,6,0,2023-11-14,15:18,72,86,0,0,158,80,N,R,Pořad schůze,,False,False
+81912,173,82,7,0,2023-11-14,15:19,72,85,2,0,159,80,N,R,Pořad schůze,,False,False
+81913,173,82,8,0,2023-11-14,15:19,73,81,2,3,159,80,N,R,Pořad schůze,,False,False
+81914,173,82,9,0,2023-11-14,15:20,73,80,1,5,159,80,N,R,Pořad schůze,,False,False
+81915,173,82,10,0,2023-11-14,15:21,70,77,7,5,159,80,N,R,Pořad schůze,,False,False
+81916,173,82,11,0,2023-11-14,15:21,74,79,5,1,159,80,N,R,Pořad schůze,,False,False
+81917,173,82,12,0,2023-11-14,15:22,75,17,26,43,161,81,N,R,Pořad schůze,,False,False
+81918,173,82,13,0,2023-11-14,15:22,74,39,23,25,161,81,N,R,Pořad schůze,,False,False
+81919,173,82,14,0,2023-11-14,15:23,85,26,49,2,162,82,N,A,Pořad schůze,,False,False
+81920,173,82,15,18,2023-11-14,15:37,139,0,21,0,160,81,N,A,Novela z. o občanských průkazech,,False,False
+81921,173,82,16,18,2023-11-14,15:39,144,0,16,0,160,81,N,A,Novela z. o občanských průkazech,,False,False
+81922,173,82,17,99,2023-11-14,15:53,139,0,1,0,140,71,N,A,Novela z. o audioviz. dílech a podpoře kinematografie,,False,False
+81923,173,82,18,99,2023-11-14,15:55,141,0,1,0,142,72,N,A,Novela z. o audioviz. dílech a podpoře kinematografie,,False,False
+81924,173,82,19,98,2023-11-14,16:14,141,1,10,1,153,77,N,A,Novela z. o poskyt. náhrad škod způsob.chráněnými živočichy,,False,False
+81925,173,82,20,98,2023-11-14,16:15,141,1,9,1,152,77,N,A,Novela z. o poskyt. náhrad škod způsob.chráněnými živočichy,,False,False
+81926,173,82,21,9,2023-11-14,17:50,114,9,0,0,123,62,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+81927,173,82,22,10,2023-11-14,18:06,60,1,43,3,107,54,N,A,Novela z. o právu na digitální služby,,False,False
+81928,173,82,23,5,2023-11-14,19:40,119,0,28,1,148,75,N,A,Novela z. - energetický zákon - EU,,False,False
