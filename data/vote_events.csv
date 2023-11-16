@@ -4623,3 +4623,47 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81926,173,82,21,9,2023-11-14,17:50,114,9,0,0,123,62,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
 81927,173,82,22,10,2023-11-14,18:06,60,1,43,3,107,54,N,A,Novela z. o právu na digitální služby,,False,False
 81928,173,82,23,5,2023-11-14,19:40,119,0,28,1,148,75,N,A,Novela z. - energetický zákon - EU,,False,False
+81929,173,82,24,0,2023-11-15,09:05,80,6,43,5,134,68,N,A, ,,False,False
+81930,173,82,25,125,2023-11-15,09:34,138,0,22,0,160,81,N,A,Novela z. o léčivech - EU,,False,False
+81931,173,82,26,125,2023-11-15,09:37,160,0,7,0,167,84,N,A,Novela z. o léčivech - EU,,False,False
+81932,173,82,27,125,2023-11-15,09:38,162,1,4,0,167,84,N,A,Novela z. o léčivech - EU,,False,False
+81933,173,82,28,125,2023-11-15,09:39,162,0,5,0,167,84,N,A,Novela z. o léčivech - EU,,False,False
+81934,173,82,29,125,2023-11-15,09:40,161,0,6,0,167,84,N,A,Novela z. o léčivech - EU,,False,False
+81935,173,82,30,125,2023-11-15,09:41,164,0,4,0,168,85,N,A,Novela z. o léčivech - EU,,False,False
+81936,173,82,31,125,2023-11-15,09:42,77,81,7,3,168,85,N,R,Novela z. o léčivech - EU,,False,False
+81937,173,82,32,125,2023-11-15,09:42,79,67,4,18,168,85,N,R,Novela z. o léčivech - EU,,False,False
+81938,173,82,33,125,2023-11-15,09:43,3,157,5,5,170,86,N,R,Novela z. o léčivech - EU,,False,False
+81939,173,82,34,125,2023-11-15,09:44,3,130,19,18,170,86,N,R,Novela z. o léčivech - EU,,False,False
+81940,173,82,35,125,2023-11-15,09:45,167,0,3,0,170,86,N,A,Novela z. o léčivech - EU,,False,False
+81941,173,82,36,125,2023-11-15,09:46,1,142,13,14,170,86,N,R,Novela z. o léčivech - EU,,False,False
+81942,173,82,37,125,2023-11-15,09:58,155,1,16,1,173,87,N,A,Novela z. o léčivech - EU,,False,False
+81943,173,82,38,122,2023-11-15,11:00,27,9,81,58,175,88,N,R,Vl.n.z. o řízeních souv. s hlub. úložištěm radioaktiv.odpadu,,False,False
+81944,173,82,39,122,2023-11-15,11:00,168,1,6,1,176,89,N,A,Vl.n.z. o řízeních souv. s hlub. úložištěm radioaktiv.odpadu,,False,False
+81945,173,82,40,122,2023-11-15,11:02,172,1,4,0,177,89,N,A,Vl.n.z. o řízeních souv. s hlub. úložištěm radioaktiv.odpadu,,False,False
+81946,173,82,41,122,2023-11-15,11:03,163,0,11,2,176,89,N,A,Vl.n.z. o řízeních souv. s hlub. úložištěm radioaktiv.odpadu,,False,False
+81947,173,82,42,122,2023-11-15,11:04,21,141,12,2,176,89,N,R,Vl.n.z. o řízeních souv. s hlub. úložištěm radioaktiv.odpadu,,False,False
+81948,173,82,43,122,2023-11-15,11:06,25,112,22,16,175,88,N,R,Vl.n.z. o řízeních souv. s hlub. úložištěm radioaktiv.odpadu,,False,False
+81949,173,82,44,122,2023-11-15,11:07,167,0,9,1,177,89,N,A,Vl.n.z. o řízeních souv. s hlub. úložištěm radioaktiv.odpadu,,False,False
+81950,173,82,45,123,2023-11-15,12:56,14,125,23,5,167,84,N,R,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81951,173,82,46,123,2023-11-15,13:04,174,0,1,0,175,88,N,A,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81952,173,82,47,123,2023-11-15,13:06,82,69,11,14,176,89,N,R,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81953,173,82,48,123,2023-11-15,13:07,81,93,2,0,176,89,N,R,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81954,173,82,49,123,2023-11-15,13:08,155,0,16,4,175,88,N,A,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81955,173,82,50,123,2023-11-15,13:09,86,4,35,51,176,89,N,R,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81956,173,82,51,123,2023-11-15,13:10,172,0,3,0,175,88,N,A,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81957,173,82,52,123,2023-11-15,13:11,105,1,63,7,176,89,N,A,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81958,173,82,53,123,2023-11-15,13:11,81,73,11,11,176,89,N,R,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81959,173,82,54,123,2023-11-15,13:12,81,82,7,6,176,89,N,R,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81960,173,82,55,123,2023-11-15,13:13,100,0,73,3,176,89,N,A,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81961,173,82,56,123,2023-11-15,13:14,169,0,7,0,176,89,N,A,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81962,173,82,57,123,2023-11-15,13:15,176,0,0,0,176,89,N,A,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81963,173,82,58,123,2023-11-15,13:16,79,83,9,5,176,89,N,R,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81964,173,82,59,123,2023-11-15,13:17,81,74,6,14,175,88,N,R,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81965,173,82,60,123,2023-11-15,13:17,80,91,1,4,176,89,N,R,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81966,173,82,61,123,2023-11-15,13:24,90,80,2,0,172,87,N,A,"Vl.n.z., kt.se mění někt.zák.v souv.s rozvojem fin.trhu",,False,False
+81967,173,82,62,124,2023-11-15,13:51,156,0,15,0,171,86,N,A,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
+81968,173,82,63,124,2023-11-15,13:52,145,0,24,1,170,86,N,A,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
+81969,173,82,64,124,2023-11-15,13:53,100,0,65,6,171,86,N,A,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
+81970,173,82,65,124,2023-11-15,13:54,103,0,63,5,171,86,N,A,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
+81971,173,82,66,124,2023-11-15,13:55,157,0,1,0,158,80,N,A,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
+81972,173,82,67,143,2023-11-15,15:09,69,5,40,7,121,61,N,A,Návrh státního závěrečného účtu České republiky za rok 2022,,False,False
