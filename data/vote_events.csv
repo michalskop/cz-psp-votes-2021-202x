@@ -4667,3 +4667,5 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 81970,173,82,65,124,2023-11-15,13:54,103,0,63,5,171,86,N,A,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
 81971,173,82,66,124,2023-11-15,13:55,157,0,1,0,158,80,N,A,Novela z. o organizaci a provádění sociálního zabezpečení,,False,False
 81972,173,82,67,143,2023-11-15,15:09,69,5,40,7,121,61,N,A,Návrh státního závěrečného účtu České republiky za rok 2022,,False,False
+81973,173,83,1,0,2023-11-16,09:01,104,0,1,0,105,53,N,A, ,,False,False
+81974,173,83,2,0,2023-11-16,16:11,62,65,2,11,140,71,N,R,Pořad schůze,,False,False
