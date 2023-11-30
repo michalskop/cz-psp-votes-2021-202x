@@ -4722,3 +4722,131 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82025,173,82,118,23,2023-11-28,20:22,104,0,46,0,150,76,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
 82026,173,82,119,23,2023-11-28,20:24,104,0,47,0,151,76,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
 82027,173,82,120,23,2023-11-28,20:25,74,4,60,11,149,75,N,R,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82028,173,82,121,134,2023-11-29,09:59,73,70,10,6,159,80,N,R,Novela z. o právu na digitální služby,,False,False
+82029,173,82,122,134,2023-11-29,10:01,167,0,0,0,167,84,N,A,Novela z. o právu na digitální služby,,False,False
+82030,173,82,123,134,2023-11-29,10:02,87,58,21,2,168,85,N,A,Novela z. o právu na digitální služby,,False,False
+82031,173,82,124,134,2023-11-29,10:03,167,0,1,0,168,85,N,A,Novela z. o právu na digitální služby,,False,False
+82032,173,82,125,134,2023-11-29,10:04,167,0,2,0,169,85,N,A,Novela z. o právu na digitální služby,,False,False
+82033,173,82,126,134,2023-11-29,10:05,168,0,1,0,169,85,N,A,Novela z. o právu na digitální služby,,False,False
+82034,173,82,127,134,2023-11-29,10:06,87,2,74,5,168,85,N,A,Novela z. o právu na digitální služby,,False,False
+82035,173,82,128,152,2023-11-29,10:10,135,0,30,0,165,83,N,A,Návrh ročních odměn za činnost členů kontrolní rady Grantové agentury,,False,False
+82036,173,82,129,136,2023-11-29,13:51,134,2,35,2,173,87,N,A,Návrh na jmenování člena kontrolní rady Grantové agentury ČR,,False,False
+82037,173,82,130,137,2023-11-29,13:53,138,1,32,1,172,87,N,A,Návrh na jmenování člena kontrolní rady Technologické agentury České r,,False,False
+82038,173,82,131,138,2023-11-29,13:56,134,1,38,1,174,88,N,A,Návrh na volbu člena Rady Státního fondu kinematografie,,False,False
+82039,173,82,132,0,2023-11-29,13:58,129,1,3,1,134,68,N,A, ,,False,False
+82040,173,82,133,117,2023-11-29,20:00,173,0,3,0,176,89,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82041,173,82,134,117,2023-11-29,20:01,81,99,0,0,180,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82042,173,82,135,117,2023-11-29,20:03,177,0,3,0,180,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82043,173,82,136,117,2023-11-29,20:04,164,0,16,0,180,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82044,173,82,137,117,2023-11-29,20:05,82,97,1,0,180,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82045,173,82,138,117,2023-11-29,20:06,0,3,16,0,19,10,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82046,173,82,139,117,2023-11-29,20:08,81,93,3,0,177,89,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82047,173,82,140,117,2023-11-29,20:08,82,95,3,0,180,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82048,173,82,141,117,2023-11-29,20:09,81,98,1,0,180,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82049,173,82,142,117,2023-11-29,20:09,160,0,20,0,180,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82050,173,82,143,117,2023-11-29,20:10,93,79,8,0,180,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82051,173,82,144,117,2023-11-29,20:11,176,1,4,0,181,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82052,173,82,145,117,2023-11-29,20:11,179,0,2,0,181,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82053,173,82,146,117,2023-11-29,20:12,81,98,2,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82054,173,82,147,117,2023-11-29,20:12,84,96,1,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82055,173,82,148,117,2023-11-29,20:12,82,94,5,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82056,173,82,149,117,2023-11-29,20:13,83,94,3,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82057,173,82,150,117,2023-11-29,20:13,65,97,18,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82058,173,82,151,117,2023-11-29,20:14,80,90,10,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82059,173,82,152,117,2023-11-29,20:15,81,95,4,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82060,173,82,153,117,2023-11-29,20:15,67,96,16,2,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82061,173,82,154,117,2023-11-29,20:15,82,85,10,4,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82062,173,82,155,117,2023-11-29,20:16,67,97,16,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82063,173,82,156,117,2023-11-29,20:16,82,93,5,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82064,173,82,157,117,2023-11-29,20:17,65,96,19,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82065,173,82,158,117,2023-11-29,20:17,62,96,22,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82066,173,82,159,117,2023-11-29,20:18,66,93,18,4,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82067,173,82,160,117,2023-11-29,20:18,67,89,21,4,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82068,173,82,161,117,2023-11-29,20:19,80,82,12,7,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82069,173,82,162,117,2023-11-29,20:19,79,87,10,5,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82070,173,82,163,117,2023-11-29,20:20,80,81,15,5,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82071,173,82,164,117,2023-11-29,20:21,18,95,58,10,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82072,173,82,165,117,2023-11-29,20:21,16,87,73,5,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82073,173,82,166,117,2023-11-29,20:22,15,95,64,7,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82074,173,82,167,117,2023-11-29,20:22,16,95,64,6,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82075,173,82,168,117,2023-11-29,20:23,16,97,63,5,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82076,173,82,169,117,2023-11-29,20:23,18,98,60,5,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82077,173,82,170,117,2023-11-29,20:24,83,93,3,2,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82078,173,82,171,117,2023-11-29,20:24,82,85,12,2,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82079,173,82,172,117,2023-11-29,20:25,80,91,7,3,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82080,173,82,173,117,2023-11-29,20:25,82,93,6,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82081,173,82,174,117,2023-11-29,20:25,83,93,4,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82082,173,82,175,117,2023-11-29,20:26,83,93,5,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82083,173,82,176,117,2023-11-29,20:27,83,91,6,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82084,173,82,177,117,2023-11-29,20:27,80,94,5,2,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82085,173,82,178,117,2023-11-29,20:28,76,94,11,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82086,173,82,179,117,2023-11-29,20:28,83,85,11,2,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82087,173,82,180,117,2023-11-29,20:29,80,94,6,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82088,173,82,181,117,2023-11-29,20:29,82,95,4,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82089,173,82,182,117,2023-11-29,20:30,155,4,22,0,181,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82090,173,82,183,117,2023-11-29,20:32,164,7,8,2,181,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82091,173,82,184,117,2023-11-29,20:32,171,4,5,1,181,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82092,173,82,185,117,2023-11-29,20:33,19,91,66,5,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82093,173,82,186,117,2023-11-29,20:33,19,92,64,6,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82094,173,82,187,117,2023-11-29,20:34,18,91,66,6,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82095,173,82,188,117,2023-11-29,20:34,16,97,64,4,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82096,173,82,189,117,2023-11-29,20:35,79,93,6,3,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82097,173,82,190,117,2023-11-29,20:35,17,97,63,4,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82098,173,82,191,117,2023-11-29,20:36,19,124,31,7,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82099,173,82,192,117,2023-11-29,20:36,83,96,2,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82100,173,82,193,117,2023-11-29,20:36,82,86,10,3,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82101,173,82,194,117,2023-11-29,20:37,83,89,8,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82102,173,82,195,117,2023-11-29,20:38,82,89,7,3,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82103,173,82,196,117,2023-11-29,20:38,82,86,10,3,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82104,173,82,197,117,2023-11-29,20:38,82,97,2,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82105,173,82,198,117,2023-11-29,20:39,83,90,6,2,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82106,173,82,199,117,2023-11-29,20:39,82,91,3,5,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82107,173,82,200,117,2023-11-29,20:40,80,90,8,3,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82108,173,82,201,117,2023-11-29,20:40,81,94,3,3,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82109,173,82,202,117,2023-11-29,20:41,83,84,9,5,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82110,173,82,203,117,2023-11-29,20:41,83,91,5,2,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82111,173,82,204,117,2023-11-29,20:42,82,85,12,2,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82112,173,82,205,117,2023-11-29,20:42,83,89,7,2,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82113,173,82,206,117,2023-11-29,20:43,19,140,18,4,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82114,173,82,207,117,2023-11-29,20:43,66,80,28,7,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82115,173,82,208,117,2023-11-29,20:44,80,77,17,7,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82116,173,82,209,117,2023-11-29,20:44,19,95,57,10,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82117,173,82,210,117,2023-11-29,20:44,22,86,67,6,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82118,173,82,211,117,2023-11-29,20:45,22,85,67,7,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82119,173,82,212,117,2023-11-29,20:45,80,97,3,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82120,173,82,213,117,2023-11-29,20:46,17,93,64,7,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82121,173,82,214,117,2023-11-29,20:46,81,95,5,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82122,173,82,215,117,2023-11-29,20:47,18,97,60,5,180,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82123,173,82,216,117,2023-11-29,20:47,19,95,63,4,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82124,173,82,217,117,2023-11-29,20:48,19,96,62,4,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82125,173,82,218,117,2023-11-29,20:48,78,92,10,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82126,173,82,219,117,2023-11-29,20:49,91,8,75,6,180,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82127,173,82,220,117,2023-11-29,20:50,80,96,5,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82128,173,82,221,117,2023-11-29,20:51,82,91,7,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82129,173,82,222,117,2023-11-29,20:51,84,61,22,14,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82130,173,82,223,117,2023-11-29,20:52,86,59,18,16,179,90,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82131,173,82,224,117,2023-11-29,20:53,82,85,11,3,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82132,173,82,225,117,2023-11-29,20:53,83,92,6,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82133,173,82,226,117,2023-11-29,20:54,83,93,4,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82134,173,82,227,117,2023-11-29,20:54,173,5,3,0,181,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82135,173,82,228,117,2023-11-29,20:55,172,3,6,0,181,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82136,173,82,229,117,2023-11-29,20:55,83,93,4,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82137,173,82,230,117,2023-11-29,20:56,80,93,8,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82138,173,82,231,117,2023-11-29,20:56,83,95,2,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82139,173,82,232,117,2023-11-29,20:56,82,95,3,1,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82140,173,82,233,117,2023-11-29,20:57,174,5,2,0,181,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82141,173,82,234,117,2023-11-29,20:57,81,95,5,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82142,173,82,235,117,2023-11-29,20:58,81,93,7,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82143,173,82,236,117,2023-11-29,20:58,146,9,23,3,181,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82144,173,82,237,117,2023-11-29,20:59,83,91,4,3,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82145,173,82,238,117,2023-11-29,20:59,82,94,5,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82146,173,82,239,117,2023-11-29,21:00,84,91,6,0,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82147,173,82,240,117,2023-11-29,21:01,98,83,0,0,181,91,N,A,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82148,173,82,241,117,2023-11-29,21:01,10,28,113,30,181,91,N,R,Vl.n.z. o státním rozpočtu ČR na rok 2024,,False,False
+82149,173,82,242,118,2023-11-29,21:18,92,64,0,1,157,79,N,A,Střednědobý výhled státního rozpočtu ČR na léta 2025 a 2026,,False,False
+82150,173,82,243,119,2023-11-29,21:35,151,0,7,1,159,80,N,A,Návrh rozpočtu SFPI na rok 2024,,False,False
+82151,173,82,244,119,2023-11-29,21:36,96,63,1,0,160,81,N,A,Návrh rozpočtu SFPI na rok 2024,,False,False
+82152,173,82,245,120,2023-11-29,21:56,90,58,4,2,154,78,N,A,Rozpočet SFDI na rok 2024,,False,False
+82153,173,82,246,121,2023-11-29,22:00,91,33,26,5,155,78,N,A,Rozpočet SFŽP na rok 2024,,False,False
+82154,173,82,247,158,2023-11-29,22:06,144,0,11,0,155,78,N,A,Návrh rozpočtu SZIF na rok 2024,,False,False
+82155,173,82,248,159,2023-11-29,22:10,147,0,11,0,158,80,N,A,Dotační programy zemědělství pro rok 2024,,False,False
