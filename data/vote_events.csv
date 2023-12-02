@@ -4873,3 +4873,58 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82176,173,85,3,1,2023-11-30,17:44,135,0,1,0,136,69,N,A,Novela z. - zákoník práce,,False,False
 82177,173,85,4,1,2023-11-30,17:47,135,0,1,0,136,69,N,A,Novela z. - zákoník práce,,False,False
 82178,173,85,5,1,2023-11-30,17:48,132,0,3,0,135,68,N,A,Novela z. - zákoník práce,,False,False
+82179,173,82,249,0,2023-12-01,09:06,123,0,2,0,125,63,N,A, ,,False,False
+82180,173,82,250,130,2023-12-01,09:17,143,0,0,0,143,72,N,A,Novela z. o výkonu trestu odnětí svobody,,False,False
+82181,173,82,251,131,2023-12-01,09:23,145,0,2,0,147,74,N,A,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
+82182,173,82,252,131,2023-12-01,09:23,3,0,145,0,148,75,N,R,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
+82183,173,82,253,131,2023-12-01,09:24,148,0,2,0,150,76,N,A,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
+82184,173,82,254,131,2023-12-01,09:25,148,0,3,0,151,76,N,A,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
+82185,173,82,255,131,2023-12-01,09:26,151,0,0,0,151,76,N,A,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
+82186,173,82,256,131,2023-12-01,09:26,151,0,0,0,151,76,N,A,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
+82187,173,82,257,132,2023-12-01,09:32,150,0,3,0,153,77,N,A,Vl.n.z. o pojištění odpověd. z provozu vozidla - související - EU,,False,False
+82188,173,82,258,132,2023-12-01,09:33,150,0,3,0,153,77,N,A,Vl.n.z. o pojištění odpověd. z provozu vozidla - související - EU,,False,False
+82189,173,82,259,132,2023-12-01,09:33,152,0,1,0,153,77,N,A,Vl.n.z. o pojištění odpověd. z provozu vozidla - související - EU,,False,False
+82190,173,82,260,132,2023-12-01,09:34,152,0,2,0,154,78,N,A,Vl.n.z. o pojištění odpověd. z provozu vozidla - související - EU,,False,False
+82191,173,82,261,132,2023-12-01,09:35,154,0,0,0,154,78,N,A,Vl.n.z. o pojištění odpověd. z provozu vozidla - související - EU,,False,False
+82192,173,82,262,133,2023-12-01,10:18,13,120,12,5,150,76,N,R,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+82193,173,82,263,133,2023-12-01,10:21,152,0,0,0,152,77,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+82194,173,82,264,133,2023-12-01,10:22,152,0,0,1,153,77,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+82195,173,82,265,133,2023-12-01,10:22,152,0,1,0,153,77,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+82196,173,82,266,133,2023-12-01,10:24,137,13,0,2,152,77,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+82197,173,82,267,133,2023-12-01,10:25,67,47,22,17,153,77,N,R,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+82198,173,82,268,129,2023-12-01,10:58,156,0,7,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82199,173,82,269,129,2023-12-01,10:59,161,0,2,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82200,173,82,270,129,2023-12-01,11:00,161,0,1,1,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82201,173,82,271,129,2023-12-01,11:01,161,0,2,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82202,173,82,272,129,2023-12-01,11:02,162,0,1,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82203,173,82,273,129,2023-12-01,11:03,161,0,2,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82204,173,82,274,129,2023-12-01,11:04,160,0,3,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82205,173,82,275,129,2023-12-01,11:04,162,0,1,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82206,173,82,276,129,2023-12-01,11:05,162,0,1,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82207,173,82,277,129,2023-12-01,11:06,162,0,1,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82208,173,82,278,129,2023-12-01,11:07,162,0,1,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82209,173,82,279,129,2023-12-01,11:08,160,0,3,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82210,173,82,280,129,2023-12-01,11:09,160,0,3,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82211,173,82,281,129,2023-12-01,11:09,158,0,5,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82212,173,82,282,129,2023-12-01,11:10,158,0,5,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82213,173,82,283,129,2023-12-01,11:11,161,0,2,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82214,173,82,284,129,2023-12-01,11:12,160,0,3,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82215,173,82,285,129,2023-12-01,11:12,162,0,1,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82216,173,82,286,129,2023-12-01,11:13,158,0,4,1,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82217,173,82,287,129,2023-12-01,11:14,161,0,2,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82218,173,82,288,129,2023-12-01,11:15,161,0,2,0,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82219,173,82,289,129,2023-12-01,11:16,2,154,4,3,163,82,N,R,Novela z. - energetický zákon - EU,,False,False
+82220,173,82,290,129,2023-12-01,11:17,157,0,3,3,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82221,173,82,291,129,2023-12-01,11:18,15,98,25,25,163,82,N,R,Novela z. - energetický zákon - EU,,False,False
+82222,173,82,292,129,2023-12-01,11:19,159,0,2,2,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82223,173,82,293,129,2023-12-01,11:20,2,145,9,7,163,82,N,R,Novela z. - energetický zákon - EU,,False,False
+82224,173,82,294,129,2023-12-01,11:20,83,29,16,35,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82225,173,82,295,129,2023-12-01,11:22,151,0,10,2,163,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82226,173,82,296,129,2023-12-01,11:23,83,25,17,36,161,81,N,A,Novela z. - energetický zákon - EU,,False,False
+82227,173,82,297,129,2023-12-01,11:24,1,148,10,3,162,82,N,R,Novela z. - energetický zákon - EU,,False,False
+82228,173,82,298,129,2023-12-01,11:25,1,77,72,12,162,82,N,R,Novela z. - energetický zákon - EU,,False,False
+82229,173,82,299,129,2023-12-01,11:26,7,138,6,11,162,82,N,R,Novela z. - energetický zákon - EU,,False,False
+82230,173,82,300,129,2023-12-01,11:27,1,147,9,5,162,82,N,R,Novela z. - energetický zákon - EU,,False,False
+82231,173,82,301,129,2023-12-01,11:28,0,152,4,6,162,82,N,R,Novela z. - energetický zákon - EU,,False,False
+82232,173,82,302,129,2023-12-01,11:29,162,0,0,0,162,82,N,A,Novela z. - energetický zákon - EU,,False,False
+82233,173,82,303,0,2023-12-01,11:30,141,3,14,1,159,80,N,A, ,,False,False
