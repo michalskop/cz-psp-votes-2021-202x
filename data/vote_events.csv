@@ -4876,7 +4876,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82179,173,82,249,0,2023-12-01,09:06,123,0,2,0,125,63,N,A, ,,False,False
 82180,173,82,250,130,2023-12-01,09:17,143,0,0,0,143,72,N,A,Novela z. o výkonu trestu odnětí svobody,,False,False
 82181,173,82,251,131,2023-12-01,09:23,145,0,2,0,147,74,N,A,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
-82182,173,82,252,131,2023-12-01,09:23,3,0,145,0,148,75,N,R,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
+82182,173,82,252,131,2023-12-01,09:23,3,0,145,0,148,75,N,R,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,True,True
 82183,173,82,253,131,2023-12-01,09:24,148,0,2,0,150,76,N,A,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
 82184,173,82,254,131,2023-12-01,09:25,148,0,3,0,151,76,N,A,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
 82185,173,82,255,131,2023-12-01,09:26,151,0,0,0,151,76,N,A,Vl.n.z. o pojištění odpovědnosti z provozu vozidla - EU,,False,False
