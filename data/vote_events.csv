@@ -4950,7 +4950,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82253,173,86,20,0,2023-12-12,16:22,77,77,4,5,163,82,N,R,Pořad schůze,,False,False
 82254,173,86,21,0,2023-12-12,16:22,77,81,5,0,163,82,N,R,Pořad schůze,,False,False
 82255,173,86,22,0,2023-12-12,16:23,77,78,5,3,163,82,N,R,Pořad schůze,,False,False
-82256,173,86,23,0,2023-12-12,16:24,12,8,140,2,162,82,N,R,Pořad schůze,,False,False
+82256,173,86,23,0,2023-12-12,16:24,12,8,140,2,162,82,N,R,Pořad schůze,,True,True
 82257,173,86,24,0,2023-12-12,16:24,86,25,40,9,160,81,N,A,Pořad schůze,,False,False
 82258,173,86,25,6,2023-12-12,18:51,90,0,0,0,90,46,N,A,Vl.n.z. o o trhu s nevýkonnými úvěry - EU,,False,False
 82259,173,86,26,7,2023-12-12,18:54,94,0,4,0,98,50,N,A,Vl.n.z. o trhu s nevýkonnými úvěry - souv. - EU,,False,False
