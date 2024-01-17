@@ -4998,3 +4998,40 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82301,173,86,68,114,2023-12-13,13:47,114,0,42,0,156,79,N,A,Sml. mezi ČR a Kamerunem o zamezení dvojímu zdanění,,False,False
 82302,173,86,69,115,2023-12-13,13:50,108,1,47,0,156,79,N,A,Sml. mezi ČR a Slovensko o státních hranicích,,False,False
 82303,173,86,70,0,2023-12-13,13:53,109,2,40,3,154,78,N,A, ,,False,False
+82304,173,87,1,0,2024-01-16,14:02,171,0,2,0,173,87,N,A, ,,False,False
+82305,173,87,2,0,2024-01-16,14:07,149,0,21,4,174,88,N,A,Pořad schůze,,False,False
+82306,173,87,3,0,2024-01-16,16:55,181,0,3,0,184,93,N,A,Pořad schůze,,False,False
+82307,173,87,4,0,2024-01-16,16:56,181,0,4,0,185,93,N,A,Pořad schůze,,False,False
+82308,173,87,5,0,2024-01-16,16:56,179,0,6,0,185,93,N,A,Pořad schůze,,False,False
+82309,173,87,6,0,2024-01-16,16:57,81,57,23,24,185,93,N,R,Pořad schůze,,False,False
+82310,173,87,7,0,2024-01-16,16:58,80,92,10,3,185,93,N,R,Pořad schůze,,False,False
+82311,173,87,8,0,2024-01-16,16:58,81,84,11,9,185,93,N,R,Pořad schůze,,False,False
+82312,173,87,9,0,2024-01-16,16:59,82,96,5,2,185,93,N,R,Pořad schůze,,False,False
+82313,173,87,10,0,2024-01-16,17:00,65,53,65,1,184,93,N,R,Pořad schůze,,False,False
+82314,173,87,11,0,2024-01-16,17:01,82,94,0,2,178,90,N,R,Pořad schůze,,False,False
+82315,173,87,12,0,2024-01-16,17:02,19,97,58,5,179,90,N,R,Pořad schůze,,False,False
+82316,173,87,13,0,2024-01-16,17:03,82,96,1,1,180,91,N,R,Pořad schůze,,False,False
+82317,173,87,14,0,2024-01-16,17:03,82,97,0,1,180,91,N,R,Pořad schůze,,False,False
+82318,173,87,15,0,2024-01-16,17:04,81,97,2,1,181,91,N,R,Pořad schůze,,False,False
+82319,173,87,16,0,2024-01-16,17:05,80,98,3,0,181,91,N,R,Pořad schůze,,False,False
+82320,173,87,17,0,2024-01-16,17:06,81,93,6,1,181,91,N,R,Pořad schůze,,False,False
+82321,173,87,18,0,2024-01-16,17:06,81,94,6,0,181,91,N,R,Pořad schůze,,False,False
+82322,173,87,19,0,2024-01-16,17:07,82,95,4,0,181,91,N,R,Pořad schůze,,False,False
+82323,173,87,20,0,2024-01-16,17:08,83,96,1,1,181,91,N,R,Pořad schůze,,False,False
+82324,173,87,21,0,2024-01-16,17:09,82,97,2,0,181,91,N,R,Pořad schůze,,False,False
+82325,173,87,22,0,2024-01-16,17:09,82,96,3,0,181,91,N,R,Pořad schůze,,False,False
+82326,173,87,23,0,2024-01-16,17:10,69,60,29,23,181,91,N,R,Pořad schůze,,False,False
+82327,173,87,24,0,2024-01-16,17:11,81,93,5,2,181,91,N,R,Pořad schůze,,False,False
+82328,173,87,25,0,2024-01-16,17:12,80,97,3,0,180,91,N,R,Pořad schůze,,False,False
+82329,173,87,26,0,2024-01-16,17:13,178,1,1,0,180,91,N,A,Pořad schůze,,False,False
+82330,173,87,27,0,2024-01-16,17:13,180,0,0,0,180,91,N,A,Pořad schůze,,False,False
+82331,173,87,28,0,2024-01-16,17:14,81,86,8,5,180,91,N,R,Pořad schůze,,False,False
+82332,173,87,29,0,2024-01-16,17:15,160,0,18,2,180,91,N,A,Pořad schůze,,False,False
+82333,173,87,30,146,2024-01-16,19:04,167,0,2,0,169,85,N,A,Tragédie FF UK,,False,False
+82334,173,87,31,103,2024-01-16,19:15,150,0,18,0,168,85,N,A,Novela z. o podmín. obchod. s povol. na emise skl. plynů,,False,False
+82335,173,87,32,103,2024-01-16,19:16,155,0,15,0,170,86,N,A,Novela z. o podmín. obchod. s povol. na emise skl. plynů,,False,False
+82336,173,87,33,19,2024-01-16,19:25,143,0,3,0,146,74,N,A,Novela z. o účastnících odboje a odporu proti komunismu,,False,False
+82337,173,87,34,19,2024-01-16,19:28,148,0,2,0,150,76,N,A,Novela z. o účastnících odboje a odporu proti komunismu,,False,False
+82338,173,87,35,19,2024-01-16,19:29,150,0,2,0,152,77,N,A,Novela z. o účastnících odboje a odporu proti komunismu,,False,False
+82339,173,87,36,104,2024-01-16,19:45,139,0,15,0,154,78,N,A,Novela z. o sociálních službách,,False,False
+82340,173,87,37,104,2024-01-16,19:46,138,1,16,0,155,78,N,A,Novela z. o sociálních službách,,False,False
