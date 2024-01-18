@@ -5007,7 +5007,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82310,173,87,7,0,2024-01-16,16:58,80,92,10,3,185,93,N,R,Pořad schůze,,False,False
 82311,173,87,8,0,2024-01-16,16:58,81,84,11,9,185,93,N,R,Pořad schůze,,False,False
 82312,173,87,9,0,2024-01-16,16:59,82,96,5,2,185,93,N,R,Pořad schůze,,False,False
-82313,173,87,10,0,2024-01-16,17:00,65,53,65,1,184,93,N,R,Pořad schůze,,False,False
+82313,173,87,10,0,2024-01-16,17:00,65,53,65,1,184,93,N,R,Pořad schůze,,True,True
 82314,173,87,11,0,2024-01-16,17:01,82,94,0,2,178,90,N,R,Pořad schůze,,False,False
 82315,173,87,12,0,2024-01-16,17:02,19,97,58,5,179,90,N,R,Pořad schůze,,False,False
 82316,173,87,13,0,2024-01-16,17:03,82,96,1,1,180,91,N,R,Pořad schůze,,False,False
@@ -5035,3 +5035,10 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82338,173,87,35,19,2024-01-16,19:29,150,0,2,0,152,77,N,A,Novela z. o účastnících odboje a odporu proti komunismu,,False,False
 82339,173,87,36,104,2024-01-16,19:45,139,0,15,0,154,78,N,A,Novela z. o sociálních službách,,False,False
 82340,173,87,37,104,2024-01-16,19:46,138,1,16,0,155,78,N,A,Novela z. o sociálních službách,,False,False
+82341,173,88,1,0,2024-01-17,09:01,138,0,4,0,142,72,N,A, ,,False,False
+82342,173,88,2,0,2024-01-17,09:06,91,67,2,1,161,81,N,A, ,,False,False
+82343,173,88,3,0,2024-01-17,09:08,160,0,4,1,165,83,N,A, ,,False,False
+82344,173,88,4,0,2024-01-17,09:09,94,73,0,1,168,85,N,A, ,,False,False
+82345,173,88,5,0,2024-01-17,16:28,97,77,0,1,175,88,N,A, ,,False,False
+82346,173,88,6,1,2024-01-17,22:04,8,115,13,30,166,84,N,R,Novela z. o správě voleb,,False,False
+82347,173,88,7,1,2024-01-17,22:05,75,93,0,1,169,85,N,R,Novela z. o správě voleb,,False,False
