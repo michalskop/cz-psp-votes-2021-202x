@@ -5084,3 +5084,16 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82387,173,88,43,1,2024-01-24,21:01,32,66,13,18,129,65,N,R,Novela z. o správě voleb,,False,False
 82388,173,88,44,1,2024-01-24,21:03,12,87,9,21,129,65,N,R,Novela z. o správě voleb,,False,False
 82389,173,88,45,1,2024-01-24,21:03,39,70,5,17,131,66,N,R,Novela z. o správě voleb,,False,False
+82390,173,88,46,1,2024-01-25,15:02,80,86,4,4,174,88,N,R,Novela z. o správě voleb,,False,False
+82391,173,88,47,1,2024-01-25,15:03,80,88,2,4,174,88,N,R,Novela z. o správě voleb,,False,False
+82392,173,88,48,1,2024-01-25,15:04,157,16,0,0,173,87,N,A,Novela z. o správě voleb,,False,False
+82393,173,88,49,1,2024-01-25,15:09,64,26,38,46,174,88,N,R,Novela z. o správě voleb,,False,False
+82394,173,88,50,1,2024-01-25,15:09,67,25,41,41,174,88,N,R,Novela z. o správě voleb,,False,False
+82395,173,88,51,1,2024-01-25,15:10,63,54,35,22,174,88,N,R,Novela z. o správě voleb,,False,False
+82396,173,88,52,1,2024-01-25,15:10,154,18,1,1,174,88,N,A,Novela z. o správě voleb,,False,False
+82397,173,88,53,1,2024-01-25,15:11,63,65,27,18,173,87,N,R,Novela z. o správě voleb,,False,False
+82398,173,88,54,1,2024-01-25,15:11,64,65,29,15,173,87,N,R,Novela z. o správě voleb,,False,False
+82399,173,90,1,0,2024-01-25,15:30,142,3,1,0,146,74,N,A, ,,False,False
+82400,173,90,2,0,2024-01-25,16:39,79,88,1,0,168,85,N,R,Pořad schůze,,False,False
+82401,173,91,1,0,2024-01-25,16:46,134,1,2,1,138,70,N,A, ,,False,False
+82402,173,91,2,0,2024-01-25,17:30,73,50,7,28,158,80,N,R,Pořad schůze,,False,False
