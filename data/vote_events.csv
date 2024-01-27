@@ -5097,3 +5097,37 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82400,173,90,2,0,2024-01-25,16:39,79,88,1,0,168,85,N,R,Pořad schůze,,False,False
 82401,173,91,1,0,2024-01-25,16:46,134,1,2,1,138,70,N,A, ,,False,False
 82402,173,91,2,0,2024-01-25,17:30,73,50,7,28,158,80,N,R,Pořad schůze,,False,False
+82403,173,87,40,0,2024-01-26,10:47,157,0,9,0,166,84,N,A,Pořad schůze,,False,False
+82404,173,87,41,0,2024-01-26,10:47,159,0,7,0,166,84,N,A,Pořad schůze,,False,False
+82405,173,87,42,0,2024-01-26,10:48,162,0,4,0,166,84,N,A,Pořad schůze,,False,False
+82406,173,87,43,0,2024-01-26,10:49,162,0,4,0,166,84,N,A,Pořad schůze,,False,False
+82407,173,87,44,0,2024-01-26,10:49,161,0,6,0,167,84,N,A,Pořad schůze,,False,False
+82408,173,87,45,0,2024-01-26,10:56,158,0,8,1,167,84,N,A,Pořad schůze,,False,False
+82409,173,87,46,0,2024-01-26,10:56,163,0,4,0,167,84,N,A,Pořad schůze,,False,False
+82410,173,87,47,0,2024-01-26,10:57,164,0,4,0,168,85,N,A,Pořad schůze,,False,False
+82411,173,87,48,112,2024-01-26,11:09,71,71,20,3,165,83,N,R,Vl.n.z. o munici,,False,False
+82412,173,87,49,112,2024-01-26,11:10,16,129,19,1,165,83,N,R,Vl.n.z. o munici,,False,False
+82413,173,87,50,112,2024-01-26,11:10,16,130,18,3,167,84,N,R,Vl.n.z. o munici,,False,False
+82414,173,87,51,112,2024-01-26,11:11,156,2,0,0,158,80,N,A,Vl.n.z. o munici,,False,False
+82415,173,87,52,113,2024-01-26,12:22,20,138,7,3,168,85,N,R,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82416,173,87,53,113,2024-01-26,12:23,61,88,19,0,168,85,N,R,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82417,173,87,54,113,2024-01-26,12:24,110,31,14,13,168,85,N,A,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82418,173,87,55,113,2024-01-26,12:24,166,0,2,0,168,85,N,A,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82419,173,87,56,113,2024-01-26,12:25,21,88,54,5,168,85,N,R,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82420,173,87,57,113,2024-01-26,12:26,19,87,58,4,168,85,N,R,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82421,173,87,58,113,2024-01-26,12:27,19,88,55,7,169,85,N,R,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82422,173,87,59,113,2024-01-26,12:27,24,88,49,8,169,85,N,R,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82423,173,87,60,113,2024-01-26,12:28,16,91,57,5,169,85,N,R,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82424,173,87,61,113,2024-01-26,12:29,17,90,55,7,169,85,N,R,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82425,173,87,62,113,2024-01-26,12:30,151,0,18,0,169,85,N,A,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82426,173,87,63,113,2024-01-26,12:31,62,36,41,30,169,85,N,R,Vl.n.z. o zbraních a střelivu - EU,,False,False
+82427,173,87,64,109,2024-01-26,12:38,138,1,24,0,163,82,N,A,Novela z. o někt. opatřeních proti leg.výnosů z tr.činnosti - EU,,False,False
+82428,173,87,65,109,2024-01-26,12:39,143,2,1,0,146,74,N,A,Novela z. o někt. opatřeních proti leg.výnosů z tr.činnosti - EU,,False,False
+82429,173,87,66,109,2024-01-26,12:40,144,0,2,0,146,74,N,A,Novela z. o někt. opatřeních proti leg.výnosů z tr.činnosti - EU,,False,False
+82430,173,87,67,109,2024-01-26,12:41,0,93,47,6,146,74,N,R,Novela z. o někt. opatřeních proti leg.výnosů z tr.činnosti - EU,,False,False
+82431,173,87,68,109,2024-01-26,12:42,144,0,3,0,147,74,N,A,Novela z. o někt. opatřeních proti leg.výnosů z tr.činnosti - EU,,False,False
+82432,173,87,69,114,2024-01-26,12:54,131,0,15,0,146,74,N,A,Vl.n.z. o o trhu s nevýkonnými úvěry - EU,,False,False
+82433,173,87,70,114,2024-01-26,12:55,136,0,12,0,148,75,N,A,Vl.n.z. o o trhu s nevýkonnými úvěry - EU,,False,False
+82434,173,87,71,115,2024-01-26,12:57,141,0,15,0,156,79,N,A,Vl.n.z. o trhu s nevýkonnými úvěry - souv. - EU,,False,False
+82435,173,87,72,115,2024-01-26,12:58,143,0,13,0,156,79,N,A,Vl.n.z. o trhu s nevýkonnými úvěry - souv. - EU,,False,False
+82436,173,87,73,0,2024-01-26,12:59,132,3,19,1,155,78,N,A, ,,False,False
