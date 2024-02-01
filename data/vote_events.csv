@@ -5057,7 +5057,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82360,173,88,18,1,2024-01-23,13:36,90,76,0,1,167,84,N,A,Novela z. o správě voleb,,False,False
 82361,173,87,38,0,2024-01-23,14:01,0,0,129,0,129,65,N,R, ,,True,True
 82362,173,87,39,0,2024-01-23,14:01,87,70,0,1,158,80,N,A, ,,False,False
-82363,173,88,19,1,2024-01-23,19:00,3,52,70,14,139,70,N,R,Novela z. o správě voleb,,False,False
+82363,173,88,19,1,2024-01-23,19:00,3,52,70,14,139,70,N,R,Novela z. o správě voleb,,True,True
 82364,173,88,20,1,2024-01-23,19:00,7,101,7,25,140,71,N,R,Novela z. o správě voleb,,False,False
 82365,173,88,21,1,2024-01-23,19:01,2,112,5,23,142,72,N,R,Novela z. o správě voleb,,False,False
 82366,173,88,22,1,2024-01-23,19:01,4,112,4,23,143,72,N,R,Novela z. o správě voleb,,False,False
