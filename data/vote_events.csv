@@ -5131,3 +5131,37 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82434,173,87,71,115,2024-01-26,12:57,141,0,15,0,156,79,N,A,Vl.n.z. o trhu s nevýkonnými úvěry - souv. - EU,,False,False
 82435,173,87,72,115,2024-01-26,12:58,143,0,13,0,156,79,N,A,Vl.n.z. o trhu s nevýkonnými úvěry - souv. - EU,,False,False
 82436,173,87,73,0,2024-01-26,12:59,132,3,19,1,155,78,N,A, ,,False,False
+82437,173,92,1,0,2024-02-06,14:01,114,0,5,0,119,60,N,A, ,,False,False
+82438,173,92,2,0,2024-02-06,17:29,151,0,0,1,152,77,N,A,Pořad schůze,,False,False
+82439,173,92,3,0,2024-02-06,17:30,66,73,10,5,154,78,N,R,Pořad schůze,,False,False
+82440,173,92,4,0,2024-02-06,17:31,66,83,5,0,154,78,N,R,Pořad schůze,,False,False
+82441,173,92,5,0,2024-02-06,17:31,65,83,4,1,153,77,N,R,Pořad schůze,,False,False
+82442,173,92,6,0,2024-02-06,17:32,64,87,2,0,153,77,N,R,Pořad schůze,,False,False
+82443,173,92,7,0,2024-02-06,17:33,62,77,10,5,154,78,N,R,Pořad schůze,,False,False
+82444,173,92,8,0,2024-02-06,17:33,67,87,3,0,157,79,N,R,Pořad schůze,,False,False
+82445,173,92,9,0,2024-02-06,17:34,66,87,4,0,157,79,N,R,Pořad schůze,,False,False
+82446,173,92,10,0,2024-02-06,17:35,68,82,6,1,157,79,N,R,Pořad schůze,,False,False
+82447,173,92,11,0,2024-02-06,17:35,68,82,4,3,157,79,N,R,Pořad schůze,,False,False
+82448,173,92,12,0,2024-02-06,17:36,116,19,11,11,157,79,N,A,Pořad schůze,,False,False
+82449,173,92,13,0,2024-02-06,17:37,69,82,5,2,158,80,N,R,Pořad schůze,,False,False
+82450,173,92,14,0,2024-02-06,17:38,67,52,20,20,159,80,N,R,Pořad schůze,,False,False
+82451,173,92,15,0,2024-02-06,17:39,66,73,18,2,159,80,N,R,Pořad schůze,,False,False
+82452,173,92,16,0,2024-02-06,17:43,68,88,3,0,159,80,N,R,Pořad schůze,,False,False
+82453,173,92,17,0,2024-02-06,17:44,70,83,6,0,159,80,N,R,Pořad schůze,,False,False
+82454,173,92,18,0,2024-02-06,17:44,69,85,5,0,159,80,N,R,Pořad schůze,,False,False
+82455,173,92,19,0,2024-02-06,17:45,69,86,4,0,159,80,N,R,Pořad schůze,,False,False
+82456,173,92,20,0,2024-02-06,17:46,69,85,4,0,158,80,N,R,Pořad schůze,,False,False
+82457,173,92,21,0,2024-02-06,17:46,67,86,6,0,159,80,N,R,Pořad schůze,,False,False
+82458,173,92,22,0,2024-02-06,17:47,68,84,6,1,159,80,N,R,Pořad schůze,,False,False
+82459,173,92,23,0,2024-02-06,17:48,69,85,4,1,159,80,N,R,Pořad schůze,,False,False
+82460,173,92,24,0,2024-02-06,17:48,69,85,5,0,159,80,N,R,Pořad schůze,,False,False
+82461,173,92,25,0,2024-02-06,17:49,128,23,5,3,159,80,N,A,Pořad schůze,,False,False
+82462,173,92,26,1,2024-02-06,18:20,18,85,17,20,140,71,N,R,Vl.n.z. o řízeních souv.s hlubinným úložištěm radioaktiv.odpadu,,False,False
+82463,173,92,27,1,2024-02-06,18:22,134,1,4,2,141,101,N,A,Vl.n.z. o řízeních souv.s hlubinným úložištěm radioaktiv.odpadu,,False,False
+82464,173,92,28,2,2024-02-06,18:29,127,0,0,0,127,64,N,A,Novela z. o požární ochraně,,False,False
+82465,173,92,29,104,2024-02-06,18:41,118,0,13,0,131,66,N,A,Novela z. o pozemních komunikacích,,False,False
+82466,173,92,30,104,2024-02-06,18:42,123,0,8,0,131,66,N,A,Novela z. o pozemních komunikacích,,False,False
+82467,173,92,31,14,2024-02-06,18:47,121,0,14,0,135,68,N,A,Novela z. o státní památkové péči,,False,False
+82468,173,92,32,17,2024-02-06,18:53,116,1,18,1,136,69,N,A,Novela z. o církvích a náboženských společnostech,,False,False
+82469,173,92,33,107,2024-02-06,18:58,124,1,12,1,138,70,N,A,Novela z. o státní památkové péči,,False,False
+82470,173,92,34,107,2024-02-06,19:00,123,0,13,2,138,70,N,A,Novela z. o státní památkové péči,,False,False
