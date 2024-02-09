@@ -5182,3 +5182,5 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82485,173,92,49,15,2024-02-07,13:06,92,0,63,0,155,78,N,A,Novela z. o Generální inspekci bezpečnostních sborů - EU,,False,False
 82486,173,92,50,19,2024-02-07,13:16,95,0,60,0,155,78,N,A,Novela z. o veřejných sbírkách,,False,False
 82487,173,92,51,0,2024-02-07,15:54,96,1,50,2,149,75,N,A, ,,False,False
+82488,173,93,1,0,2024-02-08,09:01,102,0,4,0,106,54,N,A, ,,False,False
+82489,173,93,2,0,2024-02-08,12:35,66,82,0,0,148,75,N,R, ,,False,False
