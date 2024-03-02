@@ -5229,3 +5229,36 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82532,173,94,40,123,2024-02-28,17:18,58,56,59,11,184,93,N,R,Novela z. - občanský zákoník,,False,False
 82533,173,94,41,123,2024-02-28,17:19,118,33,7,13,171,86,N,A,Novela z. - občanský zákoník,,False,False
 82534,173,94,42,123,2024-02-28,17:22,123,36,9,8,176,89,N,A,Novela z. - občanský zákoník,,False,False
+82535,173,94,43,110,2024-02-29,11:07,107,0,30,0,137,69,N,A,Akta Světové poštovní unie,,False,False
+82536,173,94,44,111,2024-02-29,11:12,106,0,35,0,141,71,N,A,Změna Doh. mezi ČR a Dominikánskou rep. o letecké dopravě,,False,False
+82537,173,94,45,112,2024-02-29,11:18,118,0,26,0,144,73,N,A,Prot. mezi ČR a Mexikem o změně Dohody o letecké dopravě,,False,False
+82538,173,94,46,113,2024-02-29,11:22,113,0,30,0,143,72,N,A,Sml. mezi ČR a vl. Rep. Uzbekistán přebírání osob,,False,False
+82539,173,94,47,114,2024-02-29,11:27,105,0,40,0,145,73,N,A,Změna Doh. o Mezinárodní bance pro obnovu a rozvoj (IBRD),,False,False
+82540,173,94,48,115,2024-02-29,11:32,118,0,27,0,145,73,N,A,Sml. mezi ČR a Kamerunem o zamezení dvojímu zdanění,,False,False
+82541,173,94,49,116,2024-02-29,11:37,116,0,32,0,148,75,N,A,Sml. mezi ČR a Slovensko o státních hranicích,,False,False
+82542,173,94,50,119,2024-02-29,11:41,111,0,39,0,150,76,N,A,Změny Doh. o zal. Evropské banky pro obnovu a rozvoj (EBRD),,False,False
+82543,173,94,51,120,2024-02-29,11:47,114,0,36,0,150,76,N,A,Změny přílohy III Rotterdamské úmluvy,,False,False
+82544,173,94,52,120,2024-02-29,11:48,114,0,36,0,150,76,N,A,Změny přílohy III Rotterdamské úmluvy,,False,False
+82545,173,94,53,121,2024-02-29,11:54,109,0,42,0,151,76,N,A,Dohoda mezi ČR a Brazílií o leteckých službách,,False,False
+82546,173,94,54,122,2024-02-29,12:04,116,0,35,2,153,77,N,A,Úmluva MOP č. 191 a Doporučení MOP č. 207 a č. 208,,False,False
+82547,173,94,55,146,2024-02-29,12:53,25,60,8,21,114,58,N,R,Výroční zpráva o činnosti České televize v roce 2020,,False,False
+82548,173,94,56,146,2024-02-29,12:53,84,0,12,18,114,58,N,A,Výroční zpráva o činnosti České televize v roce 2020,,False,False
+82549,173,94,57,139,2024-03-01,09:08,143,0,2,0,145,73,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+82550,173,94,58,139,2024-03-01,09:09,144,0,3,0,147,74,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+82551,173,94,59,142,2024-03-01,09:13,142,2,8,0,152,77,N,A,Návrh na volbu člena Rady Českého rozhlasu,,False,False
+82552,173,94,60,143,2024-03-01,09:15,144,2,8,0,154,78,N,A,Návrh na volbu člena DR SFDI,,False,False
+82553,173,94,61,144,2024-03-01,09:18,146,2,8,0,156,79,N,A,Návrh na volbu členů Rady Státního fondu kinematografie,,False,False
+82554,173,94,62,145,2024-03-01,09:23,141,2,12,0,155,78,N,A,Návrh na volbu členů Rady Státního fondu kultury České republiky,,False,False
+82555,173,94,63,13,2024-03-01,12:12,91,0,65,0,156,79,N,A,Novela z. o ochraně spotřebitele,,False,False
+82556,173,94,64,18,2024-03-01,12:22,90,0,62,0,152,77,N,A,Novela z. o cenách - EU,,False,False
+82557,173,94,65,18,2024-03-01,12:23,55,0,92,5,152,77,N,R,Novela z. o cenách - EU,,False,False
+82558,173,94,66,21,2024-03-01,12:37,107,0,42,0,149,75,N,A,Vl.n.z.o veřejné hydrometeorologické službě - EU,,False,False
+82559,173,94,67,22,2024-03-01,13:16,106,0,44,1,151,76,N,A,Novela z. o základních registrech,,False,False
+82560,173,94,68,22,2024-03-01,13:17,115,0,13,1,129,65,N,A,Novela z. o základních registrech,,False,False
+82561,173,94,69,147,2024-03-01,13:41,55,59,15,2,131,66,N,R,Výroční zpráva o činnosti České televize v roce 2021,,False,False
+82562,173,94,70,147,2024-03-01,13:42,60,1,20,38,119,60,N,A,Výroční zpráva o činnosti České televize v roce 2021,,False,False
+82563,173,94,71,148,2024-03-01,13:47,111,0,9,0,120,61,N,A,Výroční zpráva o činnosti České televize v roce 2022,,False,False
+82564,173,94,72,149,2024-03-01,13:50,100,11,10,0,121,61,N,A,Výroční zpráva o činnosti Českého rozhlasu za rok 2022,,False,False
+82565,173,94,73,150,2024-03-01,13:53,95,0,24,1,120,61,N,A,Výroční zpráva o činnosti a hospodaření ČTK v roce 2022,,False,False
+82566,173,94,74,151,2024-03-01,13:56,113,0,10,0,123,62,N,A,Výroční zpráva o hospodaření České televize v roce 2022,,False,False
+82567,173,94,75,152,2024-03-01,13:58,114,0,9,0,123,62,N,A,Výroční zpráva o hospodaření Českého rozhlasu za rok 2022,,False,False
