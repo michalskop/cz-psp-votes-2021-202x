@@ -5262,3 +5262,9 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82565,173,94,73,150,2024-03-01,13:53,95,0,24,1,120,61,N,A,Výroční zpráva o činnosti a hospodaření ČTK v roce 2022,,False,False
 82566,173,94,74,151,2024-03-01,13:56,113,0,10,0,123,62,N,A,Výroční zpráva o hospodaření České televize v roce 2022,,False,False
 82567,173,94,75,152,2024-03-01,13:58,114,0,9,0,123,62,N,A,Výroční zpráva o hospodaření Českého rozhlasu za rok 2022,,False,False
+82568,173,94,76,0,2024-03-05,18:03,8,0,163,0,171,86,N,R,Pořad schůze,,False,False
+82569,173,94,77,0,2024-03-05,18:04,165,2,1,0,168,85,N,A,Pořad schůze,,False,False
+82570,173,94,78,0,2024-03-05,18:05,107,0,57,4,168,85,N,A,Pořad schůze,,False,False
+82571,173,94,79,0,2024-03-05,18:06,78,14,28,47,167,84,N,R,Pořad schůze,,False,False
+82572,173,94,80,0,2024-03-05,18:07,77,17,30,44,168,85,N,R,Pořad schůze,,False,False
+82573,173,94,81,0,2024-03-05,18:07,76,7,37,48,168,85,N,R,Pořad schůze,,False,False
