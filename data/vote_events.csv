@@ -5268,3 +5268,13 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82571,173,94,79,0,2024-03-05,18:06,78,14,28,47,167,84,N,R,Pořad schůze,,False,False
 82572,173,94,80,0,2024-03-05,18:07,77,17,30,44,168,85,N,R,Pořad schůze,,False,False
 82573,173,94,81,0,2024-03-05,18:07,76,7,37,48,168,85,N,R,Pořad schůze,,False,False
+82574,173,94,82,0,2024-03-06,09:12,140,0,4,0,144,73,N,A,Pořad schůze,,False,False
+82575,173,94,83,136,2024-03-06,09:18,145,0,8,0,153,77,N,A,Novela z. o ochraně spotřebitele,,False,False
+82576,173,94,84,20,2024-03-06,10:56,146,0,21,0,167,84,N,A,Novela z. o volbě prezidenta republiky,,False,False
+82577,173,94,85,20,2024-03-06,10:58,72,6,57,32,167,84,N,R,Novela z. o volbě prezidenta republiky,,False,False
+82578,173,94,86,107,2024-03-06,11:27,127,0,3,0,130,66,N,A,N.z. o mim. odpuštění penále z pojist. na zdrav. pojištění,,False,False
+82579,173,94,87,107,2024-03-06,11:28,134,0,1,1,136,69,N,A,N.z. o mim. odpuštění penále z pojist. na zdrav. pojištění,,False,False
+82580,173,94,88,17,2024-03-06,11:51,53,33,40,28,154,78,N,R,Novela ústav. z. - Ústava ČR,,False,False
+82581,173,94,89,17,2024-03-06,11:52,5,31,89,30,155,78,N,R,Novela ústav. z. - Ústava ČR,,False,False
+82582,173,94,90,17,2024-03-06,11:52,8,29,87,31,155,78,N,R,Novela ústav. z. - Ústava ČR,,False,False
+82583,173,94,91,17,2024-03-06,11:53,57,57,35,7,156,79,N,R,Novela ústav. z. - Ústava ČR,,False,False
