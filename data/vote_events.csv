@@ -5309,3 +5309,8 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82612,173,94,120,17,2024-03-08,13:29,124,0,34,0,158,80,N,A,Novela ústav. z. - Ústava ČR,,False,False
 82613,173,94,121,17,2024-03-08,13:29,139,0,19,0,158,80,N,A,Novela ústav. z. - Ústava ČR,,False,False
 82614,173,94,122,17,2024-03-08,13:30,132,4,18,1,155,78,N,A,Novela ústav. z. - Ústava ČR,,False,False
+82615,173,96,1,0,2024-03-19,14:01,130,0,4,0,134,68,N,A, ,,False,False
+82616,173,96,2,0,2024-03-19,14:08,81,11,56,3,151,76,N,A,Pořad schůze,,False,False
+82617,173,97,1,0,2024-03-19,15:02,128,0,2,0,130,66,N,A, ,,False,False
+82618,173,97,2,0,2024-03-19,15:54,66,7,6,2,81,41,N,A, ,,False,False
+82619,173,97,3,0,2024-03-19,19:07,143,0,10,0,153,77,N,A,Pořad schůze,,False,False
