@@ -5314,3 +5314,8 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82617,173,97,1,0,2024-03-19,15:02,128,0,2,0,130,66,N,A, ,,False,False
 82618,173,97,2,0,2024-03-19,15:54,66,7,6,2,81,41,N,A, ,,False,False
 82619,173,97,3,0,2024-03-19,19:07,143,0,10,0,153,77,N,A,Pořad schůze,,False,False
+82620,173,97,4,1,2024-03-20,17:19,83,8,30,5,126,64,N,A,Bezpečnostní hrozby pro Českou republiku,,False,False
+82621,173,97,5,1,2024-03-20,22:03,19,83,39,3,144,73,N,R,Bezpečnostní hrozby pro Českou republiku,,False,False
+82622,173,97,6,1,2024-03-20,22:05,46,62,22,15,145,73,N,R,Bezpečnostní hrozby pro Českou republiku,,False,False
+82623,173,97,7,1,2024-03-20,22:07,84,17,40,2,143,72,N,A,Bezpečnostní hrozby pro Českou republiku,,False,False
+82624,173,96,3,0,2024-03-20,22:13,1,91,34,5,131,66,N,R,Pořad schůze,,False,False
