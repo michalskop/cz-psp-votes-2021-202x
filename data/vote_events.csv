@@ -5292,7 +5292,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82595,173,94,103,153,2024-03-07,12:50,50,0,75,9,134,68,N,R,Zpráva o dlouhodobé udržitelnosti veřejných fin. (září 2023),,False,False
 82596,173,94,104,153,2024-03-07,12:54,111,1,11,1,124,63,N,A,Zpráva o dlouhodobé udržitelnosti veřejných fin. (září 2023),,False,False
 82597,173,94,105,153,2024-03-07,12:55,65,0,55,4,124,63,N,A,Zpráva o dlouhodobé udržitelnosti veřejných fin. (září 2023),,False,False
-82598,173,94,106,155,2024-03-07,13:03,21,9,94,0,124,63,N,R,Zpráva o plnění státního rozpočtu ČR za 1. pololetí 2023,,False,False
+82598,173,94,106,155,2024-03-07,13:03,21,9,94,0,124,63,N,R,Zpráva o plnění státního rozpočtu ČR za 1. pololetí 2023,,True,True
 82599,173,94,107,155,2024-03-07,13:04,62,14,39,3,118,60,N,A,Zpráva o plnění státního rozpočtu ČR za 1. pololetí 2023,,False,False
 82600,173,94,108,132,2024-03-08,10:46,74,59,8,14,155,78,N,R,Novela z. o Státním fondu podpory investic,,False,False
 82601,173,94,109,132,2024-03-08,10:47,82,2,67,5,156,79,N,A,Novela z. o Státním fondu podpory investic,,False,False
