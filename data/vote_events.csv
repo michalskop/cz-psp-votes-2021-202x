@@ -5222,7 +5222,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82525,173,95,3,0,2024-02-28,16:23,84,95,2,1,182,92,N,R,Pořad schůze,,False,False
 82526,173,94,34,123,2024-02-28,16:56,118,48,14,5,185,93,N,A,Novela z. - občanský zákoník,,False,False
 82527,173,94,35,123,2024-02-28,16:57,184,1,0,0,185,93,N,A,Novela z. - občanský zákoník,,False,False
-82528,173,94,36,123,2024-02-28,16:58,36,23,120,5,184,93,N,R,Novela z. - občanský zákoník,,False,False
+82528,173,94,36,123,2024-02-28,16:58,36,23,120,5,184,93,N,R,Novela z. - občanský zákoník,,True,True
 82529,173,94,37,123,2024-02-28,16:59,66,54,46,18,184,93,N,R,Novela z. - občanský zákoník,,False,False
 82530,173,94,38,123,2024-02-28,17:16,59,53,60,11,183,92,N,R,Novela z. - občanský zákoník,,False,False
 82531,173,94,39,123,2024-02-28,17:17,180,1,3,1,185,93,N,A,Novela z. - občanský zákoník,,False,False
@@ -5262,7 +5262,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82565,173,94,73,150,2024-03-01,13:53,95,0,24,1,120,61,N,A,Výroční zpráva o činnosti a hospodaření ČTK v roce 2022,,False,False
 82566,173,94,74,151,2024-03-01,13:56,113,0,10,0,123,62,N,A,Výroční zpráva o hospodaření České televize v roce 2022,,False,False
 82567,173,94,75,152,2024-03-01,13:58,114,0,9,0,123,62,N,A,Výroční zpráva o hospodaření Českého rozhlasu za rok 2022,,False,False
-82568,173,94,76,0,2024-03-05,18:03,8,0,163,0,171,86,N,R,Pořad schůze,,False,False
+82568,173,94,76,0,2024-03-05,18:03,8,0,163,0,171,86,N,R,Pořad schůze,,True,True
 82569,173,94,77,0,2024-03-05,18:04,165,2,1,0,168,85,N,A,Pořad schůze,,False,False
 82570,173,94,78,0,2024-03-05,18:05,107,0,57,4,168,85,N,A,Pořad schůze,,False,False
 82571,173,94,79,0,2024-03-05,18:06,78,14,28,47,167,84,N,R,Pořad schůze,,False,False
@@ -5306,7 +5306,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82609,173,94,117,17,2024-03-08,13:27,142,1,15,0,158,80,N,A,Novela ústav. z. - Ústava ČR,,False,False
 82610,173,94,118,17,2024-03-08,13:27,141,1,16,0,158,80,N,A,Novela ústav. z. - Ústava ČR,,False,False
 82611,173,94,119,17,2024-03-08,13:28,140,2,16,0,158,80,N,A,Novela ústav. z. - Ústava ČR,,False,False
-82612,173,94,120,17,2024-03-08,13:29,124,0,34,0,158,80,N,A,Novela ústav. z. - Ústava ČR,,False,False
+82612,173,94,120,17,2024-03-08,13:29,124,0,34,0,158,80,N,A,Novela ústav. z. - Ústava ČR,,True,True
 82613,173,94,121,17,2024-03-08,13:29,139,0,19,0,158,80,N,A,Novela ústav. z. - Ústava ČR,,False,False
 82614,173,94,122,17,2024-03-08,13:30,132,4,18,1,155,78,N,A,Novela ústav. z. - Ústava ČR,,False,False
 82615,173,96,1,0,2024-03-19,14:01,130,0,4,0,134,68,N,A, ,,False,False
