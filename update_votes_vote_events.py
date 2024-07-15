@@ -36,9 +36,10 @@ if r.ok:
 mps = pd.read_csv(path + data_path + "mps.csv")
 
 votes = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "h1.unl", sep="|", encoding="cp1250", header=None)
-header = ["mp_id", "vote_event_id", "vote", "dummy"]
+header = ["mp_id", "vote_event_id", "vote", "psp_id", "dummy"]
 votes.columns = header
 del votes["dummy"]
+del votes["psp_id"]
 
 vote_events = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "s.unl", sep="|", encoding="cp1250", header=None)
 header = ['vote_event_id', 'org_id', 'sitting', 'vote_event_number', 'bod', 'date', 'time', 'yes', 'no', 'abstain', 'not_voting', 'voted', 'quorum', 'vote_event_type', 'result', 'name', 'short_name', 'dummy']
