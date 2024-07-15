@@ -32,7 +32,7 @@ confused = []
 try: 
     # check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "z.unl", sep="|", encoding="cp1250")
     # header = ['vote_event_id', 'turn', 'mode', 'id_h2', 'id_h3', 'dummy']
-    check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "x.unl", sep="|", encoding="cp1250")
+    check = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "x.unl", sep="|", encoding="cp1250", header=None)
     header = ['vote_event_id', 'mp_id', 'mode', 'dummy']
     check.columns = header
     confused = check[check['vote_event_id'] >= first_vote_event]

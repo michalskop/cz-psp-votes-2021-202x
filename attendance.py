@@ -29,11 +29,11 @@ if r.ok:
 # read data
 mps = pd.read_csv(path + data_path + "mps.csv")
 
-votes = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "h1.unl", sep="|", encoding="cp1250")
-header = ["mp_id", "vote_event_id", "vote", "dummy"]
+votes = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "h1.unl", sep="|", encoding="cp1250", header=None)
+header = ["mp_id", "vote_event_id", "vote", "psp_id", "dummy"]
 votes.columns = header
 
-vote_events = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "s.unl", sep="|", encoding="cp1250")
+vote_events = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "s.unl", sep="|", encoding="cp1250", header=None)
 header = ['vote_event_id', 'org_id', 'sitting', 'vote_event_number', 'bod', 'date', 'time', 'yes', 'no', 'abstain', 'not_voting', 'voted', 'quorum', 'vote_event_type', 'result', 'name', 'short_name', 'dummy']
 vote_events.columns = header
 vote_events['date'] = vote_events['date'].apply(lambda x: datetime.datetime.strptime(x, "%d.%m.%Y").strftime("%Y-%m-%d"))
