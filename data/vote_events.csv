@@ -5319,3 +5319,977 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 82622,173,97,6,1,2024-03-20,22:05,46,62,22,15,145,73,N,R,Bezpečnostní hrozby pro Českou republiku,,False,False
 82623,173,97,7,1,2024-03-20,22:07,84,17,40,2,143,72,N,A,Bezpečnostní hrozby pro Českou republiku,,False,False
 82624,173,96,3,0,2024-03-20,22:13,1,91,34,5,131,66,N,R,Pořad schůze,,False,False
+82625,173,98,1,0,2024-04-09,14:02,169,0,0,0,169,85,N,A, ,,False,False
+82626,173,98,2,0,2024-04-09,14:14,84,72,3,1,160,81,N,A,Pořad schůze,,False,False
+82627,173,98,3,0,2024-04-09,17:21,169,0,13,0,182,92,N,A,Pořad schůze,,False,False
+82628,173,98,4,0,2024-04-09,17:22,113,0,63,6,182,92,N,A,Pořad schůze,,False,False
+82629,173,98,5,0,2024-04-09,17:23,80,92,10,0,182,92,N,R,Pořad schůze,,False,False
+82630,173,98,6,0,2024-04-09,17:23,81,93,9,0,183,92,N,R,Pořad schůze,,False,False
+82631,173,98,7,0,2024-04-09,17:24,81,90,10,2,183,92,N,R,Pořad schůze,,False,False
+82632,173,98,8,0,2024-04-09,17:24,80,90,12,1,183,92,N,R,Pořad schůze,,False,False
+82633,173,98,9,0,2024-04-09,17:25,81,89,12,1,183,92,N,R,Pořad schůze,,False,False
+82634,173,98,10,0,2024-04-09,17:25,81,89,11,2,183,92,N,R,Pořad schůze,,False,False
+82635,173,98,11,0,2024-04-09,17:26,81,92,10,0,183,92,N,R,Pořad schůze,,False,False
+82636,173,98,12,0,2024-04-09,17:26,80,90,11,2,183,92,N,R,Pořad schůze,,False,False
+82637,173,98,13,0,2024-04-09,17:27,79,94,10,0,183,92,N,R,Pořad schůze,,False,False
+82638,173,98,14,0,2024-04-09,17:28,80,92,10,1,183,92,N,R,Pořad schůze,,False,False
+82639,173,98,15,0,2024-04-09,17:28,80,93,9,1,183,92,N,R,Pořad schůze,,False,False
+82640,173,98,16,0,2024-04-09,17:29,79,94,9,1,183,92,N,R,Pořad schůze,,False,False
+82641,173,98,17,0,2024-04-09,17:30,80,94,9,0,183,92,N,R,Pořad schůze,,False,False
+82642,173,98,18,0,2024-04-09,17:30,78,93,11,1,183,92,N,R,Pořad schůze,,False,False
+82643,173,98,19,0,2024-04-09,17:31,86,82,11,4,183,92,N,R,Pořad schůze,,False,False
+82644,173,98,20,0,2024-04-09,17:31,81,93,9,0,183,92,N,R,Pořad schůze,,False,False
+82645,173,98,21,0,2024-04-09,17:32,81,94,8,0,183,92,N,R,Pořad schůze,,False,False
+82646,173,98,22,0,2024-04-09,17:33,82,91,10,0,183,92,N,R,Pořad schůze,,False,False
+82647,173,98,23,0,2024-04-09,17:33,79,91,13,0,183,92,N,R,Pořad schůze,,False,False
+82648,173,98,24,0,2024-04-09,17:34,81,91,9,2,183,92,N,R,Pořad schůze,,False,False
+82649,173,98,25,0,2024-04-09,17:35,81,89,12,1,183,92,N,R,Pořad schůze,,False,False
+82650,173,98,26,0,2024-04-09,17:35,81,90,11,1,183,92,N,R,Pořad schůze,,False,False
+82651,173,98,27,0,2024-04-09,17:36,82,92,8,1,183,92,N,R,Pořad schůze,,False,False
+82652,173,98,28,0,2024-04-09,17:37,44,94,35,9,182,92,N,R,Pořad schůze,,False,False
+82653,173,98,29,0,2024-04-09,17:38,81,88,13,0,182,92,N,R,Pořad schůze,,False,False
+82654,173,98,30,0,2024-04-09,17:38,79,89,14,1,183,92,N,R,Pořad schůze,,False,False
+82655,173,98,31,0,2024-04-09,17:39,76,90,16,1,183,92,N,R,Pořad schůze,,False,False
+82656,173,98,32,0,2024-04-09,17:40,144,19,10,3,176,89,N,A,Pořad schůze,,False,False
+82657,173,98,33,9,2024-04-09,18:11,85,0,0,0,85,43,N,A,Novela z. - trestní zákoník - EU,,False,False
+82658,173,98,34,6,2024-04-09,20:18,53,0,4,1,58,30,N,R,Novela z. o státní památkové péči,,False,False
+82659,173,98,35,6,2024-04-09,20:20,83,0,2,0,85,43,N,A,Novela z. o státní památkové péči,,False,False
+82660,173,98,36,0,2024-04-10,09:17,74,12,33,44,163,82,N,R,Pořad schůze,,False,False
+82661,173,98,37,0,2024-04-10,09:18,168,0,0,0,168,85,N,A,Pořad schůze,,False,False
+82662,173,98,38,126,2024-04-10,09:24,162,0,10,0,172,87,N,A,Novela z. o vodách (vodní zákon),,False,False
+82663,173,98,39,0,2024-04-10,09:27,107,2,62,2,173,87,N,A, ,,False,False
+82664,173,98,40,0,2024-04-10,09:27,106,4,57,5,172,87,N,A, ,,False,False
+82665,173,98,41,122,2024-04-10,09:39,70,16,26,45,157,79,N,R,Novela z. o ochraně utajovaných informací - EU,,False,False
+82666,173,98,42,122,2024-04-10,10:23,165,0,6,0,171,86,N,A,Novela z. o ochraně utajovaných informací - EU,,False,False
+82667,173,98,43,137,2024-04-10,11:28,168,0,1,0,169,85,N,A,Novela z. - trestní zákoník - EU,,False,False
+82668,173,98,44,120,2024-04-10,11:51,159,0,15,0,174,88,N,A,Novela z. o přeměnách obchodních společností a družstev - EU,,False,False
+82669,173,98,45,120,2024-04-10,11:52,161,0,14,0,175,88,N,A,Novela z. o přeměnách obchodních společností a družstev - EU,,False,False
+82670,173,98,46,120,2024-04-10,11:53,163,0,11,0,174,88,N,A,Novela z. o přeměnách obchodních společností a družstev - EU,,False,False
+82671,173,98,47,120,2024-04-10,11:54,163,0,11,0,174,88,N,A,Novela z. o přeměnách obchodních společností a družstev - EU,,False,False
+82672,173,98,48,123,2024-04-10,12:31,123,2,30,21,176,89,N,A,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82673,173,98,49,123,2024-04-10,12:31,69,4,49,55,177,89,N,R,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82674,173,98,50,123,2024-04-10,12:32,161,0,2,0,163,82,N,A,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82675,173,98,51,123,2024-04-10,12:34,162,1,0,0,163,82,N,A,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82676,173,98,52,123,2024-04-10,12:35,15,79,28,42,164,83,N,R,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82677,173,98,53,123,2024-04-10,12:36,73,26,26,43,168,85,N,R,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82678,173,98,54,123,2024-04-10,12:37,168,1,0,0,169,85,N,A,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82679,173,98,55,123,2024-04-10,12:39,108,35,20,7,170,86,N,A,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82680,173,98,56,123,2024-04-10,12:40,1,142,21,6,170,86,N,R,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82681,173,98,57,123,2024-04-10,12:41,3,142,19,5,169,85,N,R,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82682,173,98,58,123,2024-04-10,12:41,72,64,11,23,170,86,N,R,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82683,173,98,59,123,2024-04-10,12:43,97,57,15,1,170,86,N,A,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82684,173,98,60,123,2024-04-10,12:43,169,0,1,0,170,86,N,A,Vl.n.z. o hromadném občanském řízení soudním - EU,,False,False
+82685,173,98,61,124,2024-04-10,12:56,90,55,23,1,169,85,N,A,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+82686,173,98,62,124,2024-04-10,12:57,162,0,7,0,169,85,N,A,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+82687,173,98,63,124,2024-04-10,12:58,162,0,6,1,169,85,N,A,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+82688,173,98,64,124,2024-04-10,12:59,162,0,7,0,169,85,N,A,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+82689,173,98,65,124,2024-04-10,13:00,75,6,37,51,169,85,N,R,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+82690,173,98,66,124,2024-04-10,13:01,7,89,66,7,169,85,N,R,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+82691,173,98,67,124,2024-04-10,13:02,161,0,7,0,168,85,N,A,Vl.n.z. o hromadném občanském řízení soudním - související - EU,,False,False
+82692,173,98,68,125,2024-04-10,13:15,145,0,21,0,166,84,N,A,Novela z. o soudnictví ve věcech mládeže - EU,,False,False
+82693,173,98,69,125,2024-04-10,13:16,145,0,21,0,166,84,N,A,Novela z. o soudnictví ve věcech mládeže - EU, ,False,False
+82694,173,98,70,156,2024-04-10,13:50,127,0,2,0,129,65,N,A,Novela z. o vodách (vodní zákon),,False,False
+82695,173,99,1,0,2024-04-11,09:05,113,0,3,0,116,59,N,A, ,,False,False
+82696,173,99,2,0,2024-04-11,13:29,67,79,1,0,147,74,N,R,Pořad schůze,,False,False
+82697,173,98,71,128,2024-04-12,11:44,68,72,1,0,141,71,N,R,Novela z. o sociálních službách,,False,False
+82698,173,98,72,128,2024-04-12,11:48,142,0,0,0,142,72,N,A,Novela z. o sociálních službách,,False,False
+82699,173,98,73,128,2024-04-12,11:49,141,0,1,0,142,72,N,A,Novela z. o sociálních službách,,False,False
+82700,173,98,74,128,2024-04-12,11:50,68,25,26,23,142,72,N,R,Novela z. o sociálních službách,,False,False
+82701,173,98,75,128,2024-04-12,11:51,67,31,28,16,142,72,N,R,Novela z. o sociálních službách,,False,False
+82702,173,98,76,128,2024-04-12,11:52,67,53,11,11,142,72,N,R,Novela z. o sociálních službách,,False,False
+82703,173,98,77,128,2024-04-12,11:53,67,64,6,5,142,72,N,R,Novela z. o sociálních službách,,False,False
+82704,173,98,78,128,2024-04-12,11:54,67,33,25,17,142,72,N,R,Novela z. o sociálních službách,,False,False
+82705,173,98,79,128,2024-04-12,11:55,67,32,25,18,142,72,N,R,Novela z. o sociálních službách,,False,False
+82706,173,98,80,128,2024-04-12,11:56,67,33,24,18,142,72,N,R,Novela z. o sociálních službách,,False,False
+82707,173,98,81,128,2024-04-12,11:58,141,1,0,0,142,72,N,A,Novela z. o sociálních službách,,False,False
+82708,173,98,82,128,2024-04-12,11:59,67,46,16,13,142,72,N,R,Novela z. o sociálních službách,,False,False
+82709,173,98,83,128,2024-04-12,12:00,66,67,4,5,142,72,N,R,Novela z. o sociálních službách,,False,False
+82710,173,98,84,128,2024-04-12,12:01,66,45,17,14,142,72,N,R,Novela z. o sociálních službách,,False,False
+82711,173,98,85,128,2024-04-12,12:01,141,0,1,0,142,72,N,A,Novela z. o sociálních službách,,False,False
+82712,173,98,86,128,2024-04-12,12:02,139,0,3,0,142,72,N,A,Novela z. o sociálních službách,,False,False
+82713,173,98,87,128,2024-04-12,12:03,139,0,3,0,142,72,N,A,Novela z. o sociálních službách,,False,False
+82714,173,98,88,128,2024-04-12,12:04,66,34,27,15,142,72,N,R,Novela z. o sociálních službách,,False,False
+82715,173,98,89,128,2024-04-12,12:05,141,0,1,0,142,72,N,A,Novela z. o sociálních službách,,False,False
+82716,173,98,90,128,2024-04-12,12:06,110,3,13,16,142,72,N,A,Novela z. o sociálních službách,,False,False
+82717,173,98,91,128,2024-04-12,12:06,135,2,2,2,141,71,N,A,Novela z. o sociálních službách,,False,False
+82718,173,98,92,128,2024-04-12,12:07,67,64,7,4,142,72,N,R,Novela z. o sociálních službách,,False,False
+82719,173,98,93,128,2024-04-12,12:09,67,27,26,21,141,71,N,R,Novela z. o sociálních službách,,False,False
+82720,173,98,94,128,2024-04-12,12:09,139,0,3,0,142,72,N,A,Novela z. o sociálních službách,,False,False
+82721,173,98,95,128,2024-04-12,12:10,140,0,2,0,142,72,N,A,Novela z. o sociálních službách,,False,False
+82722,173,98,96,0,2024-04-16,14:14,77,69,3,1,150,76,N,A,Pořad schůze,,False,False
+82723,173,98,97,0,2024-04-16,16:10,155,0,10,0,165,83,N,A,Pořad schůze,,False,False
+82724,173,98,98,0,2024-04-16,16:11,140,16,1,1,158,80,N,A,Pořad schůze,,False,False
+82725,173,98,99,0,2024-04-16,16:12,157,0,1,1,159,80,N,A,Pořad schůze,,False,False
+82726,173,98,100,0,2024-04-16,16:13,101,1,53,4,159,80,N,A,Pořad schůze,,False,False
+82727,173,98,101,0,2024-04-16,16:14,156,0,3,0,159,80,N,A,Pořad schůze,,False,False
+82728,173,98,102,0,2024-04-16,16:15,155,0,4,0,159,80,N,A,Pořad schůze,,False,False
+82729,173,98,103,0,2024-04-16,16:15,75,56,5,23,159,80,N,R,Pořad schůze,,False,False
+82730,173,98,104,0,2024-04-16,16:16,75,81,2,2,160,81,N,R,Pořad schůze,,False,False
+82731,173,98,105,0,2024-04-16,16:17,72,80,5,3,160,81,N,R,Pořad schůze,,False,False
+82732,173,98,106,0,2024-04-16,16:17,73,81,4,2,160,81,N,R,Pořad schůze,,False,False
+82733,173,98,107,0,2024-04-16,16:18,18,81,54,7,160,81,N,R,Pořad schůze,,False,False
+82734,173,98,108,0,2024-04-16,16:19,67,82,9,2,160,81,N,R,Pořad schůze,,False,False
+82735,173,98,109,0,2024-04-16,16:19,57,80,20,3,160,81,N,R,Pořad schůze,,False,False
+82736,173,98,110,0,2024-04-16,16:20,74,73,6,7,160,81,N,R,Pořad schůze,,False,False
+82737,173,98,111,0,2024-04-16,16:20,75,78,4,4,161,81,N,R,Pořad schůze,,False,False
+82738,173,98,112,0,2024-04-16,16:21,72,66,13,11,162,82,N,R,Pořad schůze,,False,False
+82739,173,98,113,0,2024-04-16,16:22,75,72,7,8,162,82,N,R,Pořad schůze,,False,False
+82740,173,98,114,0,2024-04-16,16:23,75,80,2,5,162,82,N,R,Pořad schůze,,False,False
+82741,173,98,115,0,2024-04-16,16:23,75,76,6,5,162,82,N,R,Pořad schůze,,False,False
+82742,173,98,116,0,2024-04-16,16:24,75,68,9,10,162,82,N,R,Pořad schůze,,False,False
+82743,173,98,117,0,2024-04-16,16:25,75,67,11,9,162,82,N,R,Pořad schůze,,False,False
+82744,173,98,118,0,2024-04-16,16:25,74,82,4,2,162,82,N,R,Pořad schůze,,False,False
+82745,173,98,119,0,2024-04-16,16:26,74,73,8,6,161,81,N,R,Pořad schůze,,False,False
+82746,173,98,120,0,2024-04-16,16:27,74,81,3,3,161,81,N,R,Pořad schůze,,False,False
+82747,173,98,121,0,2024-04-16,16:27,74,74,8,5,161,81,N,R,Pořad schůze,,False,False
+82748,173,98,122,12,2024-04-16,19:55,12,77,40,4,133,67,N,R,Novela z. o návykových látkách,,False,False
+82749,173,98,123,12,2024-04-16,19:56,79,3,48,4,134,68,N,A,Novela z. o návykových látkách,,False,False
+82750,173,98,124,12,2024-04-16,20:05,73,56,1,1,131,66,N,A,Novela z. o návykových látkách,,False,False
+82751,173,98,125,110,2024-04-16,21:32,92,0,39,2,133,67,N,A,Novela z. o získávání způsob. k výkonu zdrav. povolání,,False,False
+82752,173,98,126,110,2024-04-16,21:34,98,0,12,1,111,56,N,A,Novela z. o získávání způsob. k výkonu zdrav. povolání,,False,False
+82753,173,98,127,17,2024-04-16,21:49,47,63,3,0,113,57,N,R,Novela z. o základních registrech,,False,False
+82754,173,98,128,17,2024-04-16,21:50,114,0,0,0,114,58,N,A,Novela z. o základních registrech,,False,False
+82755,173,98,129,24,2024-04-16,22:09,105,0,16,0,121,61,N,A,Novela z. o vysokých školách,,False,False
+82756,173,98,130,0,2024-04-17,09:09,132,0,13,2,147,74,N,A,Pořad schůze,,False,False
+82757,173,98,131,0,2024-04-17,09:10,133,14,2,0,149,75,N,A,Pořad schůze,,False,False
+82758,173,98,132,0,2024-04-17,09:11,149,0,3,0,152,77,N,A,Pořad schůze,,False,False
+82759,173,98,133,0,2024-04-17,09:11,56,72,22,2,152,77,N,R,Pořad schůze,,False,False
+82760,173,98,134,0,2024-04-17,09:12,54,71,25,2,152,77,N,R,Pořad schůze,,False,False
+82761,173,98,135,127,2024-04-17,09:24,151,0,9,0,160,81,N,A,Novela z. o investičních společnostech - EU,,False,False
+82762,173,98,136,127,2024-04-17,09:26,152,0,9,0,161,81,N,A,Novela z. o investičních společnostech - EU,,False,False
+82763,173,98,137,127,2024-04-17,09:26,138,0,22,1,161,81,N,A,Novela z. o investičních společnostech - EU,,False,False
+82764,173,98,138,127,2024-04-17,09:27,133,0,28,0,161,81,N,A,Novela z. o investičních společnostech - EU,,False,False
+82765,173,98,139,127,2024-04-17,09:28,137,0,24,1,162,82,N,A,Novela z. o investičních společnostech - EU,,False,False
+82766,173,98,140,134,2024-04-17,09:35,141,0,20,0,161,81,N,A,Novela z. o státní památkové péči,,False,False
+82767,173,98,141,21,2024-04-17,13:36,115,3,2,0,120,61,N,A,Vl.n.z. o veřejných kulturních institucích,,False,False
+82768,173,98,142,16,2024-04-17,13:43,119,13,16,2,150,76,N,A,Novela z. o státních svátcích,,False,False
+82769,173,98,143,0,2024-04-17,13:46,155,2,2,1,160,81,N,A, ,,False,False
+82770,173,98,144,0,2024-04-17,13:47,124,17,17,5,163,82,N,A, ,,False,False
+82771,173,98,145,16,2024-04-17,13:49,23,120,19,6,168,85,N,R,Novela z. o státních svátcích,,False,False
+82772,173,98,146,16,2024-04-17,13:50,122,22,21,3,168,85,N,A,Novela z. o státních svátcích,,False,False
+82773,173,98,147,157,2024-04-17,13:55,167,1,3,0,171,86,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+82774,173,98,148,157,2024-04-17,13:56,168,0,3,0,171,86,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+82775,173,98,149,157,2024-04-17,13:57,81,55,8,26,170,86,N,R,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+82776,173,98,150,157,2024-04-17,13:58,163,0,7,1,171,86,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+82777,173,98,151,142,2024-04-17,14:03,151,3,14,3,171,86,N,A,Návrh na volbu člena Nejvyššího kontrolního úřadu,,False,False
+82778,173,98,152,143,2024-04-17,14:05,147,3,19,3,172,87,N,A,Náv. na jmenov. člena kontrolní rady Technologické agentury České rep.,,False,False
+82779,173,98,153,144,2024-04-17,14:07,142,3,22,3,170,86,N,A,Návrh na jmenování člena kontrolní rady Grantové agentury ČR,,False,False
+82780,173,98,154,145,2024-04-17,14:12,87,0,68,8,163,82,N,A,Náv.na odvolání člena dozorčí rady Stát.fondu dopravní infrastruktury,,False,False
+82781,173,98,155,154,2024-04-18,09:44,28,42,2,2,74,38,N,R,Písemná interpelace M. Nováka na V. Válka ve věci zákazu kratomu,,False,False
+82782,173,100,1,0,2024-04-18,11:01,101,0,3,0,104,53,N,A, ,,False,False
+82783,173,98,156,0,2024-04-19,10:11,67,72,2,2,143,72,N,R,Pořad schůze,,False,False
+82784,173,98,157,0,2024-04-19,11:07,81,3,69,6,159,80,N,A,Pořad schůze,,False,False
+82785,173,98,158,0,2024-04-19,11:07,159,0,0,0,159,80,N,A,Pořad schůze,,False,False
+82786,173,98,159,0,2024-04-19,11:08,159,0,0,0,159,80,N,A,Pořad schůze,,False,False
+82787,173,98,160,0,2024-04-19,11:09,159,0,0,0,159,80,N,A,Pořad schůze,,False,False
+82788,173,98,161,0,2024-04-19,11:10,80,52,16,11,159,80,N,A,Pořad schůze,,False,False
+82789,173,98,162,0,2024-04-19,11:11,151,2,5,1,159,80,N,A,Pořad schůze,,False,False
+82790,173,98,163,0,2024-04-19,11:11,78,54,10,17,159,80,N,R,Pořad schůze,,False,False
+82791,173,98,164,0,2024-04-19,11:12,78,81,0,0,159,80,N,R,Pořad schůze,,False,False
+82792,173,98,165,0,2024-04-19,11:13,78,76,2,3,159,80,N,R,Pořad schůze,,False,False
+82793,173,98,166,22,2024-04-19,12:00,128,0,24,0,152,77,N,A,Novela z. - energetický zákon - EU,,False,False
+82794,173,98,167,22,2024-04-19,12:01,134,0,19,0,153,77,N,A,Novela z. - energetický zákon - EU,,False,False
+82795,173,98,168,21,2024-04-19,13:20,62,78,15,0,155,78,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+82796,173,98,169,21,2024-04-19,13:21,139,0,16,0,155,78,N,A,Vl.n.z. o veřejných kulturních institucích,,False,False
+82797,173,98,170,21,2024-04-19,13:23,61,36,11,30,138,70,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+82798,173,98,171,21,2024-04-19,13:23,78,60,1,0,139,70,N,A,Vl.n.z. o veřejných kulturních institucích,,False,False
+82799,173,98,172,23,2024-04-19,13:27,113,0,26,0,139,70,N,A,Novela z. o některých opatřeních proti leg.výnosů z tr.činn. - EU,,False,False
+82800,173,98,173,23,2024-04-19,13:42,126,0,13,0,139,70,N,A,Novela z. o některých opatřeních proti leg.výnosů z tr.činn. - EU,,False,False
+82801,173,98,174,23,2024-04-19,13:43,132,0,7,0,139,70,N,A,Novela z. o některých opatřeních proti leg.výnosů z tr.činn. - EU,,False,False
+82802,173,98,175,15,2024-04-19,13:57,95,2,1,0,98,50,N,A,"Novela z.o řízení ve věcech soudců, st.zástupců a soud.exek.",,False,False
+82803,173,98,176,15,2024-04-19,13:58,87,6,4,0,97,49,N,A,"Novela z.o řízení ve věcech soudců, st.zástupců a soud.exek.",,False,False
+82804,173,101,1,0,2024-05-02,15:02,138,0,4,0,142,72,N,A, ,,False,False
+82805,173,101,2,0,2024-05-02,15:09,77,67,6,1,151,76,N,A,Pořad schůze,,False,False
+82806,173,101,3,0,2024-05-02,16:56,84,6,57,5,152,77,N,A,Pořad schůze,,False,False
+82807,173,101,4,1,2024-05-02,18:50,64,78,3,0,145,73,N,R,Novela z. - zákoník práce - EU,,False,False
+82808,173,101,5,1,2024-05-02,18:51,145,0,0,0,145,73,N,A,Novela z. - zákoník práce - EU,,False,False
+82809,173,101,6,1,2024-05-02,18:52,67,30,17,31,145,73,N,R,Novela z. - zákoník práce - EU,,False,False
+82810,173,101,7,1,2024-05-02,18:54,69,14,24,38,145,73,N,R,Novela z. - zákoník práce - EU,,False,False
+82811,173,101,8,1,2024-05-02,18:54,78,66,1,0,145,73,N,A,Novela z. - zákoník práce - EU,,False,False
+82812,173,101,9,2,2024-05-02,19:04,104,0,40,0,144,73,N,A,Novela z. o veřejném zdravotním pojištění - EU,,False,False
+82813,173,101,10,2,2024-05-02,19:05,61,1,49,3,114,58,N,A,Novela z. o veřejném zdravotním pojištění - EU,,False,False
+82814,173,101,11,3,2024-05-02,19:41,101,0,26,1,128,65,N,A,"Novela z.o řízení ve věcech soudců, st.zástupců a soud.exek.",,False,False
+82815,173,101,12,4,2024-05-02,20:13,113,0,29,0,142,72,N,A,Vl. n. z. o regulaci lobbování,,False,False
+82816,173,101,13,4,2024-05-02,20:14,56,27,14,29,126,64,N,R,Vl. n. z. o regulaci lobbování,,False,False
+82817,173,101,14,5,2024-05-02,20:18,124,0,8,0,132,67,N,A,"Vl.n.z.,kt. se m.někt. z.v souv. s přij.z.o regul.lobbování",,False,False
+82818,173,101,15,6,2024-05-02,20:24,121,0,13,1,135,68,N,A,Novela z. o Kanceláři prezidenta republiky,,False,False
+82819,173,101,16,7,2024-05-02,20:38,120,0,16,0,136,69,N,A,Vl. n. z. o integračním sociálním podniku - EU,,False,False
+82820,173,101,17,7,2024-05-02,20:39,62,5,31,38,136,69,N,R,Vl. n. z. o integračním sociálním podniku - EU,,False,False
+82821,173,101,18,8,2024-05-02,20:43,127,0,13,0,140,71,N,A,"Vl.n.z.,kt.se m.někt. z.v souv. s přij.z.o integ.soc.podniku - EU",,False,False
+82822,173,101,19,9,2024-05-02,20:56,116,0,22,2,140,71,N,A,Novela z. o státních svátcích,,False,False
+82823,173,101,20,9,2024-05-02,20:57,77,9,38,8,132,67,N,A,Novela z. o státních svátcích,,False,False
+82824,173,101,21,10,2024-05-03,09:19,146,0,3,0,149,75,N,A,Novela z. o archivnictví a spisové službě,,False,False
+82825,173,101,22,10,2024-05-03,09:20,145,0,5,0,150,76,N,A,Novela z. o archivnictví a spisové službě,,False,False
+82826,173,101,23,10,2024-05-03,09:21,79,68,4,1,152,77,N,A,Novela z. o archivnictví a spisové službě,,False,False
+82827,173,101,24,10,2024-05-03,09:21,151,0,2,0,153,77,N,A,Novela z. o archivnictví a spisové službě,,False,False
+82828,173,101,25,10,2024-05-03,09:22,150,0,3,0,153,77,N,A,Novela z. o archivnictví a spisové službě,,False,False
+82829,173,101,26,10,2024-05-03,09:23,152,0,2,0,154,78,N,A,Novela z. o archivnictví a spisové službě,,False,False
+82830,173,101,27,10,2024-05-03,09:24,151,0,3,0,154,78,N,A,Novela z. o archivnictví a spisové službě,,False,False
+82831,173,101,28,10,2024-05-03,09:24,153,0,1,0,154,78,N,A,Novela z. o archivnictví a spisové službě,,False,False
+82832,173,101,29,10,2024-05-03,09:25,154,0,2,0,156,79,N,A,Novela z. o archivnictví a spisové službě,,False,False
+82833,173,101,30,10,2024-05-03,09:26,154,0,2,0,156,79,N,A,Novela z. o archivnictví a spisové službě,,False,False
+82834,173,101,31,10,2024-05-03,09:27,156,0,0,0,156,79,N,A,Novela z. o archivnictví a spisové službě,,False,False
+82835,173,101,32,11,2024-05-03,09:47,138,0,17,2,157,79,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82836,173,101,33,11,2024-05-03,09:48,156,0,2,0,158,80,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82837,173,101,34,11,2024-05-03,09:49,157,0,1,0,158,80,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82838,173,101,35,11,2024-05-03,09:50,156,0,1,1,158,80,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82839,173,101,36,11,2024-05-03,09:51,152,0,4,2,158,80,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82840,173,101,37,11,2024-05-03,09:52,20,76,54,8,158,80,N,R,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82841,173,101,38,11,2024-05-03,09:53,99,0,32,27,158,80,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82842,173,101,39,11,2024-05-03,09:53,153,0,5,0,158,80,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82843,173,101,40,11,2024-05-03,09:54,73,79,4,1,157,79,N,R,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82844,173,101,41,11,2024-05-03,09:55,145,0,10,2,157,79,N,A,Novela z. o ochraně zemědělského půdního fondu,,True,True
+82845,173,101,42,11,2024-05-03,09:56,153,0,2,3,158,80,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82846,173,101,43,11,2024-05-03,09:56,133,17,4,4,158,80,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82847,173,101,44,11,2024-05-03,09:57,139,0,17,2,158,80,N,A,Novela z. o ochraně zemědělského půdního fondu,,False,False
+82848,173,101,45,12,2024-05-03,10:23,135,19,4,0,158,80,N,A,Novela z. o vodách (vodní zákon),,False,False
+82849,173,101,46,12,2024-05-03,10:24,150,0,5,3,158,80,N,A,Novela z. o vodách (vodní zákon),,False,False
+82850,173,101,47,12,2024-05-03,10:25,151,0,4,3,158,80,N,A,Novela z. o vodách (vodní zákon),,False,False
+82851,173,101,48,12,2024-05-03,10:26,155,0,3,0,158,80,N,A,Novela z. o vodách (vodní zákon),,False,False
+82852,173,101,49,12,2024-05-03,10:27,84,19,51,4,158,80,N,A,Novela z. o vodách (vodní zákon),,False,False
+82853,173,101,50,12,2024-05-03,10:28,157,0,3,0,160,81,N,A,Novela z. o vodách (vodní zákon),,False,False
+82854,173,101,51,12,2024-05-03,10:29,140,0,18,2,160,81,N,A,Novela z. o vodách (vodní zákon),,False,False
+82855,173,101,52,13,2024-05-03,13:17,68,70,5,2,145,73,N,R,Novela z. o návykových látkách,,False,False
+82856,173,101,53,13,2024-05-03,13:19,152,0,0,0,152,77,N,A,Novela z. o návykových látkách,,False,False
+82857,173,101,54,13,2024-05-03,13:20,81,65,2,1,149,75,N,A,Novela z. o návykových látkách,,False,False
+82858,173,101,55,13,2024-05-03,13:21,152,0,1,0,153,77,N,A,Novela z. o návykových látkách,,False,False
+82859,173,101,56,13,2024-05-03,13:24,153,0,0,0,153,77,N,A,Novela z. o návykových látkách,,False,False
+82860,173,101,57,13,2024-05-03,13:25,154,0,0,0,154,78,N,A,Novela z. o návykových látkách,,False,False
+82861,173,101,58,13,2024-05-03,13:26,18,81,24,31,154,78,N,R,Novela z. o návykových látkách,,False,False
+82862,173,101,59,13,2024-05-03,13:26,9,122,8,15,154,78,N,R,Novela z. o návykových látkách,,False,False
+82863,173,101,60,13,2024-05-03,13:27,71,78,3,2,154,78,N,R,Novela z. o návykových látkách,,False,False
+82864,173,101,61,13,2024-05-03,13:28,14,92,16,32,154,78,N,R,Novela z. o návykových látkách,,False,False
+82865,173,101,62,13,2024-05-03,13:29,81,4,63,6,154,78,N,A,Novela z. o návykových látkách,,False,False
+82866,173,101,63,13,2024-05-03,13:32,93,3,25,33,154,78,N,A,Novela z. o návykových látkách,,False,False
+82867,173,101,64,0,2024-05-03,13:34,141,2,9,1,153,77,N,A, ,,False,False
+82868,173,102,1,0,2024-05-09,11:00,105,0,5,1,111,56,N,A, ,,True,True
+82869,173,102,2,0,2024-05-09,11:07,139,0,3,0,142,72,N,A, ,,False,False
+82870,173,102,3,0,2024-05-09,11:09,78,61,5,0,144,73,N,A,Pořad schůze,,False,False
+82871,173,102,4,0,2024-05-09,17:39,85,68,0,0,153,77,N,A,Pořad schůze,,False,False
+82872,173,102,5,1,2024-05-09,18:52,6,100,12,16,134,68,N,R,Novela z. o správě voleb,,False,False
+82873,173,102,6,1,2024-05-09,18:52,7,107,15,12,141,71,N,R,Novela z. o správě voleb,,False,False
+82874,173,102,7,1,2024-05-09,18:53,10,99,17,16,142,72,N,R,Novela z. o správě voleb,,False,False
+82875,173,102,8,1,2024-05-09,18:53,6,109,13,16,144,73,N,R,Novela z. o správě voleb,,False,False
+82876,173,102,9,1,2024-05-09,18:54,67,73,2,2,144,73,N,R,Novela z. o správě voleb,,False,False
+82877,173,102,10,1,2024-05-09,20:30,49,71,3,3,126,64,N,R,Novela z. o správě voleb,,False,False
+82878,173,102,11,1,2024-05-09,20:30,13,101,6,9,129,65,N,R,Novela z. o správě voleb,,False,False
+82879,173,102,12,1,2024-05-09,20:31,10,110,13,6,139,70,N,R,Novela z. o správě voleb,,False,False
+82880,173,102,13,1,2024-05-09,20:31,5,120,9,7,141,71,N,R,Novela z. o správě voleb,,False,False
+82881,173,102,14,1,2024-05-09,20:32,10,118,10,5,143,72,N,R,Novela z. o správě voleb,,False,False
+82882,173,102,15,1,2024-05-09,20:32,66,72,3,2,143,72,N,R,Novela z. o správě voleb,,False,False
+82883,173,102,16,1,2024-05-09,21:14,61,66,3,1,131,66,N,R,Novela z. o správě voleb,,False,False
+82884,173,102,17,1,2024-05-09,21:15,17,105,7,4,133,67,N,R,Novela z. o správě voleb,,False,False
+82885,173,102,18,1,2024-05-09,21:16,5,121,5,6,137,69,N,R,Novela z. o správě voleb,,False,False
+82886,173,102,19,1,2024-05-09,21:16,4,121,10,2,137,69,N,R,Novela z. o správě voleb,,False,False
+82887,173,102,20,1,2024-05-09,21:17,4,120,10,4,138,70,N,R,Novela z. o správě voleb,,False,False
+82888,173,102,21,1,2024-05-09,21:17,64,68,5,2,139,70,N,R,Novela z. o správě voleb,,False,False
+82889,173,102,22,1,2024-05-09,22:19,7,75,54,5,141,71,N,R,Novela z. o správě voleb,,False,False
+82890,173,102,23,1,2024-05-09,22:20,61,65,5,3,134,68,N,R,Novela z. o správě voleb,,False,False
+82891,173,102,24,1,2024-05-09,22:20,8,108,8,10,134,68,N,R,Novela z. o správě voleb,,False,False
+82892,173,102,25,1,2024-05-09,22:21,8,110,10,6,134,68,N,R,Novela z. o správě voleb,,False,False
+82893,173,102,26,1,2024-05-09,22:21,40,78,10,6,134,68,N,R,Novela z. o správě voleb,,False,False
+82894,173,102,27,1,2024-05-09,22:22,4,114,9,7,134,68,N,R,Novela z. o správě voleb,,False,False
+82895,173,102,28,1,2024-05-09,22:22,14,105,12,3,134,68,N,R,Novela z. o správě voleb,,False,False
+82896,173,102,29,1,2024-05-09,22:23,59,71,4,0,134,68,N,R,Novela z. o správě voleb,,False,False
+82897,173,102,30,1,2024-05-09,22:36,43,74,11,6,134,68,N,R,Novela z. o správě voleb,,False,False
+82898,173,102,31,1,2024-05-09,22:36,7,116,6,5,134,68,N,R,Novela z. o správě voleb,,False,False
+82899,173,102,32,1,2024-05-09,22:37,11,112,8,4,135,68,N,R,Novela z. o správě voleb,,False,False
+82900,173,102,33,1,2024-05-09,22:37,8,114,8,5,135,68,N,R,Novela z. o správě voleb,,False,False
+82901,173,102,34,1,2024-05-09,22:38,10,110,10,5,135,68,N,R,Novela z. o správě voleb,,False,False
+82902,173,102,35,1,2024-05-09,22:39,63,67,5,1,136,69,N,R,Novela z. o správě voleb,,False,False
+82903,173,102,36,1,2024-05-09,22:49,7,122,6,8,143,72,N,R,Novela z. o správě voleb,,False,False
+82904,173,102,37,1,2024-05-09,22:50,66,64,8,5,143,72,N,R,Novela z. o správě voleb,,False,False
+82905,173,102,38,1,2024-05-09,22:51,5,119,12,8,144,73,N,R,Novela z. o správě voleb,,False,False
+82906,173,102,39,1,2024-05-09,22:51,9,120,10,5,144,73,N,R,Novela z. o správě voleb,,False,False
+82907,173,102,40,1,2024-05-09,22:52,9,114,14,7,144,73,N,R,Novela z. o správě voleb,,False,False
+82908,173,102,41,1,2024-05-09,22:52,66,69,9,2,146,74,N,R,Novela z. o správě voleb,,False,False
+82909,173,102,42,1,2024-05-09,23:12,4,123,7,11,145,73,N,R,Novela z. o správě voleb,,False,False
+82910,173,102,43,1,2024-05-09,23:12,65,72,5,3,145,73,N,R,Novela z. o správě voleb,,False,False
+82911,173,102,44,1,2024-05-09,23:13,8,123,4,10,145,73,N,R,Novela z. o správě voleb,,False,False
+82912,173,102,45,1,2024-05-09,23:14,9,117,10,9,145,73,N,R,Novela z. o správě voleb,,False,False
+82913,173,102,46,1,2024-05-09,23:14,6,116,15,8,145,73,N,R,Novela z. o správě voleb,,False,False
+82914,173,102,47,1,2024-05-09,23:15,7,121,11,6,145,73,N,R,Novela z. o správě voleb,,False,False
+82915,173,102,48,1,2024-05-09,23:15,2,119,16,8,145,73,N,R,Novela z. o správě voleb,,False,False
+82916,173,102,49,1,2024-05-09,23:16,63,71,7,4,145,73,N,R,Novela z. o správě voleb,,False,False
+82917,173,102,50,1,2024-05-10,00:26,46,69,7,13,135,68,N,R,Novela z. o správě voleb,,False,False
+82918,173,102,51,1,2024-05-10,00:27,56,68,4,7,135,68,N,R,Novela z. o správě voleb,,False,False
+82919,173,102,52,1,2024-05-10,09:11,4,109,7,7,127,64,N,R,Novela z. o správě voleb,,False,False
+82920,173,102,53,1,2024-05-10,09:12,5,109,9,7,130,66,N,R,Novela z. o správě voleb,,False,False
+82921,173,102,54,1,2024-05-10,09:12,5,109,8,8,130,66,N,R,Novela z. o správě voleb,,False,False
+82922,173,102,55,1,2024-05-10,09:13,53,69,5,4,131,66,N,R,Novela z. o správě voleb,,False,False
+82923,173,102,56,1,2024-05-10,09:37,66,13,19,11,109,55,N,A,Novela z. o správě voleb,,False,False
+82924,173,102,57,1,2024-05-10,09:38,66,67,0,0,133,67,N,R,Novela z. o správě voleb,,False,False
+82925,173,102,58,1,2024-05-10,11:52,52,71,4,1,128,65,N,R,Novela z. o správě voleb,,False,False
+82926,173,102,59,1,2024-05-10,11:53,4,67,50,7,128,65,N,R,Novela z. o správě voleb,,True,True
+82927,173,102,60,1,2024-05-10,11:54,21,95,6,8,130,66,N,R,Novela z. o správě voleb,,False,False
+82928,173,102,61,1,2024-05-10,11:54,3,112,7,8,130,66,N,R,Novela z. o správě voleb,,False,False
+82929,173,102,62,1,2024-05-10,11:55,3,116,7,4,130,66,N,R,Novela z. o správě voleb,,False,False
+82930,173,102,63,1,2024-05-10,11:55,1,117,6,6,130,66,N,R,Novela z. o správě voleb,,False,False
+82931,173,102,64,1,2024-05-10,11:56,3,113,9,5,130,66,N,R,Novela z. o správě voleb,,False,False
+82932,173,102,65,1,2024-05-10,11:56,55,68,5,2,130,66,N,R,Novela z. o správě voleb,,False,False
+82933,173,102,66,1,2024-05-10,12:22,3,119,12,7,141,71,N,R,Novela z. o správě voleb,,False,False
+82934,173,102,67,1,2024-05-10,12:22,9,110,16,6,141,71,N,R,Novela z. o správě voleb,,False,False
+82935,173,102,68,1,2024-05-10,12:23,4,112,19,7,142,72,N,R,Novela z. o správě voleb,,False,False
+82936,173,102,69,1,2024-05-10,12:23,5,117,13,7,142,72,N,R,Novela z. o správě voleb,,False,False
+82937,173,102,70,1,2024-05-10,12:24,6,108,21,8,143,72,N,R,Novela z. o správě voleb,,False,False
+82938,173,102,71,1,2024-05-10,12:24,60,68,12,3,143,72,N,R,Novela z. o správě voleb,,False,False
+82939,173,102,72,1,2024-05-10,12:30,18,43,83,1,145,73,N,R,Novela z. o správě voleb,,True,True
+82940,173,102,73,1,2024-05-10,12:31,62,80,2,0,144,73,N,R,Novela z. o správě voleb,,False,False
+82941,173,102,74,1,2024-05-10,12:32,79,66,1,0,146,74,N,A,Novela z. o správě voleb,,False,False
+82942,173,102,75,1,2024-05-10,12:33,80,65,0,0,145,73,N,A,Novela z. o správě voleb,,False,False
+82943,173,102,76,1,2024-05-10,14:22,125,1,10,2,138,70,N,A,Novela z. o správě voleb,,False,False
+82944,173,103,1,0,2024-05-21,14:01,133,0,4,0,137,69,N,A, ,,False,False
+82945,173,103,2,0,2024-05-21,14:18,82,70,6,1,159,80,N,A,Pořad schůze,,False,False
+82946,173,103,3,0,2024-05-21,16:11,157,0,1,0,158,80,N,A,Pořad schůze,,False,False
+82947,173,103,4,0,2024-05-21,16:12,101,56,2,0,159,80,N,A,Pořad schůze,,False,False
+82948,173,103,5,0,2024-05-21,16:13,102,1,51,5,159,80,N,A,Pořad schůze,,False,False
+82949,173,103,6,0,2024-05-21,16:13,142,16,2,0,160,81,N,A,Pořad schůze,,False,False
+82950,173,103,7,0,2024-05-21,16:14,145,16,1,0,162,82,N,A,Pořad schůze,,False,False
+82951,173,103,8,0,2024-05-21,16:15,143,17,2,0,162,82,N,A,Pořad schůze,,False,False
+82952,173,103,9,0,2024-05-21,16:15,162,0,0,0,162,82,N,A,Pořad schůze,,False,False
+82953,173,103,10,0,2024-05-21,16:17,79,79,4,0,162,82,N,R,Pořad schůze,,False,False
+82954,173,103,11,0,2024-05-21,16:17,73,8,40,41,162,82,N,R,Pořad schůze,,False,False
+82955,173,103,12,0,2024-05-21,16:18,75,58,9,20,162,82,N,R,Pořad schůze,,False,False
+82956,173,103,13,0,2024-05-21,16:19,75,81,5,1,162,82,N,R,Pořad schůze,,False,False
+82957,173,103,14,0,2024-05-21,16:19,75,82,4,1,162,82,N,R,Pořad schůze,,False,False
+82958,173,103,15,0,2024-05-21,16:20,75,82,4,1,162,82,N,R,Pořad schůze,,False,False
+82959,173,103,16,0,2024-05-21,16:20,75,82,3,2,162,82,N,R,Pořad schůze,,False,False
+82960,173,103,17,0,2024-05-21,16:21,18,124,19,1,162,82,N,R,Pořad schůze,,False,False
+82961,173,103,18,0,2024-05-21,16:22,30,80,40,10,160,81,N,R,Pořad schůze,,False,False
+82962,173,103,19,0,2024-05-21,16:22,21,80,53,8,162,82,N,R,Pořad schůze,,False,False
+82963,173,103,20,0,2024-05-21,16:23,74,61,15,12,162,82,N,R,Pořad schůze,,False,False
+82964,173,103,21,0,2024-05-21,16:23,18,80,57,7,162,82,N,R,Pořad schůze,,False,False
+82965,173,103,22,0,2024-05-21,16:24,75,74,8,5,162,82,N,R,Pořad schůze,,False,False
+82966,173,103,23,0,2024-05-21,16:25,76,54,12,20,162,82,N,R,Pořad schůze,,False,False
+82967,173,103,24,0,2024-05-21,16:25,77,81,4,0,162,82,N,R,Pořad schůze,,False,False
+82968,173,103,25,0,2024-05-21,16:26,76,64,10,11,161,81,N,R,Pořad schůze,,False,False
+82969,173,103,26,0,2024-05-21,16:27,76,77,5,4,162,82,N,R,Pořad schůze,,False,False
+82970,173,103,27,0,2024-05-21,16:28,76,72,9,5,162,82,N,R,Pořad schůze,,False,False
+82971,173,103,28,0,2024-05-21,16:28,127,22,13,0,162,82,N,A,Pořad schůze,,False,False
+82972,173,103,29,1,2024-05-21,17:32,74,30,28,21,153,77,N,R,N.z. o mim. odpuštění penále z pojist. na zdrav. pojištění,,False,False
+82973,173,103,30,1,2024-05-21,17:33,130,9,6,11,156,101,N,A,N.z. o mim. odpuštění penále z pojist. na zdrav. pojištění,,False,False
+82974,173,103,31,6,2024-05-21,18:42,119,0,2,0,121,61,N,A,Vl.n.z.o veřejné hydrometeorologické službě - EU,,False,False
+82975,173,103,32,25,2024-05-21,19:50,34,71,47,0,152,77,N,R,Novela z. o sociálních službách - EU,,True,True
+82976,173,103,33,25,2024-05-21,19:51,67,81,1,0,149,75,N,R,Novela z. o sociálních službách - EU,,False,False
+82977,173,103,34,25,2024-05-21,19:52,145,1,3,0,149,75,N,A,Novela z. o sociálních službách - EU,,False,False
+82978,173,103,35,25,2024-05-21,19:53,137,1,8,4,150,76,N,A,Novela z. o sociálních službách - EU,,False,False
+82979,173,103,36,25,2024-05-21,19:53,81,67,2,0,150,76,N,A,Novela z. o sociálních službách - EU,,False,False
+82980,173,101,65,14,2024-05-22,10:55,90,61,16,2,169,85,N,A,Novela z. - insolvenční zákon - EU,,False,False
+82981,173,101,66,14,2024-05-22,10:56,172,0,1,0,173,87,N,A,Novela z. - insolvenční zákon - EU,,False,False
+82982,173,101,67,14,2024-05-22,10:57,173,1,0,0,174,88,N,A,Novela z. - insolvenční zákon - EU,,False,False
+82983,173,101,68,14,2024-05-22,10:58,69,64,16,25,174,88,N,R,Novela z. - insolvenční zákon - EU,,False,False
+82984,173,101,69,14,2024-05-22,10:59,69,59,19,27,174,88,N,R,Novela z. - insolvenční zákon - EU,,False,False
+82985,173,101,70,14,2024-05-22,11:00,174,0,0,0,174,88,N,A,Novela z. - insolvenční zákon - EU,,False,False
+82986,173,101,71,14,2024-05-22,11:01,82,85,4,3,174,88,N,R,Novela z. - insolvenční zákon - EU,,False,False
+82987,173,101,72,14,2024-05-22,11:02,172,1,1,0,174,88,N,A,Novela z. - insolvenční zákon - EU,,False,False
+82988,173,101,73,14,2024-05-22,11:03,80,16,32,46,174,88,N,R,Novela z. - insolvenční zákon - EU,,False,False
+82989,173,101,74,14,2024-05-22,11:04,172,0,2,0,174,88,N,A,Novela z. - insolvenční zákon - EU,,False,False
+82990,173,101,75,14,2024-05-22,11:05,173,0,1,0,174,88,N,A,Novela z. - insolvenční zákon - EU,,False,False
+82991,173,101,76,14,2024-05-22,11:05,79,45,15,35,174,88,N,R,Novela z. - insolvenční zákon - EU,,False,False
+82992,173,101,77,14,2024-05-22,11:07,107,0,58,8,173,87,N,A,Novela z. - insolvenční zákon - EU,,False,False
+82993,173,103,37,129,2024-05-22,11:20,138,0,1,0,139,70,N,A,Novela z. o ochraně utajovaných informací - EU,,False,False
+82994,173,103,38,0,2024-05-22,11:22,137,1,5,2,145,73,N,A, ,,False,False
+82995,173,103,39,0,2024-05-22,11:23,142,0,2,2,146,74,N,A, ,,False,False
+82996,173,103,40,0,2024-05-22,11:23,138,1,5,2,146,74,N,A, ,,False,False
+82997,173,103,41,126,2024-05-22,13:07,165,0,1,1,167,84,N,A,"N.z., kterým se mění zk. o zdr. prostředcích a zk.o léčivech - EU",,False,False
+82998,173,103,42,128,2024-05-22,13:27,74,38,13,36,161,81,N,R,Novela z. o zdravotních službách - EU,,False,False
+82999,173,103,43,128,2024-05-22,13:28,87,71,3,2,163,82,N,A,Novela z. o zdravotních službách - EU,,False,False
+83000,173,103,44,128,2024-05-22,13:29,89,74,0,0,163,82,N,A,Novela z. o zdravotních službách - EU,,False,False
+83001,173,103,45,128,2024-05-22,13:30,162,0,1,0,163,82,N,A,Novela z. o zdravotních službách - EU,,False,False
+83002,173,103,46,128,2024-05-22,13:31,163,0,0,0,163,82,N,A,Novela z. o zdravotních službách - EU,,False,False
+83003,173,103,47,128,2024-05-22,13:31,161,1,1,0,163,82,N,A,Novela z. o zdravotních službách - EU,,False,False
+83004,173,103,48,128,2024-05-22,13:32,146,0,15,2,163,82,N,A,Novela z. o zdravotních službách - EU,,False,False
+83005,173,103,49,142,2024-05-22,14:03,148,0,2,0,150,76,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+83006,173,103,50,142,2024-05-22,14:03,149,0,1,0,150,76,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+83007,173,103,51,159,2024-05-23,09:16,57,0,26,0,83,42,N,A,Písemná interpelace A. Schillerové na P. Fialu ve věci hospodářské sta,,False,False
+83008,173,103,52,159,2024-05-23,09:17,74,0,14,0,88,45,N,A,Písemná interpelace A. Schillerové na P. Fialu ve věci rušení daně z n,,False,False
+83009,173,103,53,159,2024-05-23,09:18,78,0,13,0,91,46,N,A,Písemná interpelace A. Schillerové na P. Fialu ve věci inkasa daně z n,,False,False
+83010,173,103,54,159,2024-05-23,09:20,78,0,14,0,92,47,N,A,Písemná interpelace B. Peštové na P. Fialu ve věci dezinformace europo,,False,False
+83011,173,103,55,0,2024-05-23,11:08,115,0,2,1,118,60,N,A,Pořad schůze,,False,False
+83012,173,103,56,0,2024-05-23,11:09,118,0,1,1,120,61,N,A,Pořad schůze,,False,False
+83013,173,103,57,0,2024-05-23,11:10,120,0,1,0,121,61,N,A,Pořad schůze,,False,False
+83014,173,103,58,0,2024-05-23,11:10,51,9,21,41,122,62,N,R,Pořad schůze,,False,False
+83015,173,103,59,114,2024-05-23,11:33,100,6,1,1,108,55,N,A,Doh.mezi ČR a SRN o údržbě vnitrozem. Labské vodní cesty,,False,False
+83016,173,103,60,115,2024-05-23,11:40,111,0,8,0,119,60,N,A,Změny Doh. o zal. Evropské banky pro obnovu a rozvoj (EBRD),,False,False
+83017,173,103,61,116,2024-05-23,11:44,101,0,19,0,120,61,N,A,Dohoda mezi ČR a Brazílií o leteckých službách,,False,False
+83018,173,103,62,118,2024-05-23,11:48,108,0,15,0,123,62,N,A,Změny Přílohy I Mezinárodní úml. proti dopingu ve sportu,,False,False
+83019,173,103,63,118,2024-05-23,11:49,107,0,18,0,125,63,N,A,Změny Přílohy I Mezinárodní úml. proti dopingu ve sportu,,False,False
+83020,173,103,64,119,2024-05-23,11:54,109,0,14,2,125,63,N,A,Změny přílohy A Minamatské úmluvy o rtuti,,False,False
+83021,173,103,65,119,2024-05-23,11:55,106,0,20,0,126,64,N,A,Změny přílohy A Minamatské úmluvy o rtuti,,False,False
+83022,173,103,66,120,2024-05-23,12:01,110,1,17,0,128,65,N,A,Sml. mezi ČR a Černou Horou o zamezení dvojímu zdanění,,False,False
+83023,173,103,67,121,2024-05-23,12:07,101,0,30,0,131,66,N,A,Dohoda mezi ČR a Japonskem o leteckých službách,,False,False
+83024,173,103,68,125,2024-05-23,12:32,102,0,29,0,131,66,N,A,Pokročilá rámcová dohoda mezi EU a Chilskou republikou,,False,False
+83025,173,103,69,0,2024-05-24,09:11,158,0,0,0,158,80,N,A,Pořad schůze,,False,False
+83026,173,103,70,0,2024-05-24,09:12,73,53,13,21,160,81,N,R,Pořad schůze,,False,False
+83027,173,103,71,0,2024-05-24,09:12,160,1,1,0,162,82,N,A,Pořad schůze,,False,False
+83028,173,103,72,130,2024-05-24,09:54,2,0,163,0,165,83,N,R,Novela z. o úřednících územních samospráv. celků - EU,,True,True
+83029,173,103,73,130,2024-05-24,09:54,163,0,3,0,166,84,N,A,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83030,173,103,74,130,2024-05-24,09:55,163,0,3,0,166,84,N,A,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83031,173,103,75,130,2024-05-24,09:55,164,0,2,0,166,84,N,A,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83032,173,103,76,130,2024-05-24,09:56,165,0,2,0,167,84,N,A,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83033,173,103,77,130,2024-05-24,09:57,165,0,2,0,167,84,N,A,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83034,173,103,78,130,2024-05-24,09:58,78,86,3,1,168,85,N,R,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83035,173,103,79,130,2024-05-24,09:59,77,87,3,1,168,85,N,R,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83036,173,103,80,130,2024-05-24,10:00,77,86,4,1,168,85,N,R,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83037,173,103,81,130,2024-05-24,10:01,77,88,3,0,168,85,N,R,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83038,173,103,82,130,2024-05-24,10:02,77,87,4,0,168,85,N,R,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83039,173,103,83,130,2024-05-24,10:03,77,85,4,2,168,85,N,R,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83040,173,103,84,130,2024-05-24,10:04,0,1,167,0,168,85,N,R,Novela z. o úřednících územních samospráv. celků - EU,,True,True
+83041,173,103,85,130,2024-05-24,10:04,88,0,72,8,168,85,N,A,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83042,173,103,86,130,2024-05-24,10:05,89,0,74,5,168,85,N,A,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83043,173,103,87,130,2024-05-24,10:06,88,0,75,5,168,85,N,A,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83044,173,103,88,130,2024-05-24,10:06,89,0,74,5,168,85,N,A,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83045,173,103,89,130,2024-05-24,10:07,90,0,73,5,168,85,N,A,Novela z. o úřednících územních samospráv. celků - EU,,False,False
+83046,173,103,90,132,2024-05-24,10:13,139,0,24,0,163,82,N,A,Novela z. o Generální inspekci bezpečnostních sborů - EU,,False,False
+83047,173,103,91,132,2024-05-24,10:15,147,0,18,0,165,83,N,A,Novela z. o Generální inspekci bezpečnostních sborů - EU,,False,False
+83048,173,103,92,132,2024-05-24,10:15,150,0,15,0,165,83,N,A,Novela z. o Generální inspekci bezpečnostních sborů - EU,,False,False
+83049,173,103,93,132,2024-05-24,10:16,151,0,14,0,165,83,N,A,Novela z. o Generální inspekci bezpečnostních sborů - EU,,False,False
+83050,173,103,94,133,2024-05-24,10:32,150,0,4,0,154,78,N,A,Novela z. o církvích a náboženských společnostech,,False,False
+83051,173,103,95,133,2024-05-24,10:33,155,1,1,0,157,79,N,A,Novela z. o církvích a náboženských společnostech,,False,False
+83052,173,103,96,133,2024-05-24,10:34,72,81,6,0,159,80,N,R,Novela z. o církvích a náboženských společnostech,,False,False
+83053,173,103,97,133,2024-05-24,10:34,71,83,5,0,159,80,N,R,Novela z. o církvích a náboženských společnostech,,False,False
+83054,173,103,98,133,2024-05-24,10:35,152,0,8,0,160,81,N,A,Novela z. o církvích a náboženských společnostech,,False,False
+83055,173,103,99,134,2024-05-24,10:40,151,0,9,0,160,81,N,A,Novela z. o veřejných sbírkách,,False,False
+83056,173,103,100,134,2024-05-24,10:41,154,0,7,0,161,81,N,A,Novela z. o veřejných sbírkách,,False,False
+83057,173,103,101,9,2024-05-24,12:36,0,0,159,0,159,80,N,R,Novela z. o státní službě - EU,,True,True
+83058,173,103,102,9,2024-05-24,12:37,70,85,1,0,156,79,N,R,Novela z. o státní službě - EU,,False,False
+83059,173,103,103,9,2024-05-24,12:38,153,1,2,0,156,79,N,A,Novela z. o státní službě - EU,,False,False
+83060,173,103,104,9,2024-05-24,12:39,151,2,2,1,156,79,N,A,Novela z. o státní službě - EU,,False,False
+83061,173,103,105,10,2024-05-24,12:55,121,0,28,0,149,75,N,A,Novela z. o zahraniční službě - EU,,False,False
+83062,173,103,106,10,2024-05-24,12:56,7,3,138,0,148,75,N,R,Novela z. o zahraniční službě - EU,,True,True
+83063,173,103,107,10,2024-05-24,12:57,66,52,7,0,125,63,N,A,Novela z. o zahraniční službě - EU,,False,False
+83064,173,103,108,12,2024-05-24,13:32,142,0,1,0,143,72,N,A,Novela z. o Veřejném ochránci práv - EU,,False,False
+83065,173,103,109,12,2024-05-24,13:34,124,1,12,7,144,73,N,A,Novela z. o Veřejném ochránci práv - EU,,False,False
+83066,173,103,110,12,2024-05-24,13:34,91,3,18,32,144,73,N,A,Novela z. o Veřejném ochránci práv - EU,,False,False
+83067,173,103,111,0,2024-05-24,13:37,79,55,10,0,144,73,N,A, ,,False,False
+83068,173,104,1,0,2024-05-28,13:01,131,0,5,1,137,69,N,A, ,,False,False
+83069,173,104,2,0,2024-05-28,13:05,84,64,2,0,150,76,N,A, ,,False,False
+83070,173,104,3,0,2024-05-28,13:06,85,63,3,0,151,76,N,A,Pořad schůze,,False,False
+83071,173,104,4,1,2024-05-28,19:51,4,89,55,25,173,87,N,R,Novela z. o důchodovém pojištění,,False,False
+83072,173,104,5,1,2024-05-28,19:52,70,78,2,1,151,76,N,R,Novela z. o důchodovém pojištění,,False,False
+83073,173,104,6,1,2024-05-29,11:39,81,56,0,1,138,70,N,A,Novela z. o důchodovém pojištění,,False,False
+83074,173,104,7,1,2024-05-29,15:06,5,69,17,23,114,58,N,R,Novela z. o důchodovém pojištění,,False,False
+83075,173,104,8,1,2024-05-29,15:07,17,56,21,26,120,61,N,R,Novela z. o důchodovém pojištění,,False,False
+83076,173,104,9,1,2024-05-29,15:08,7,80,9,26,122,62,N,R,Novela z. o důchodovém pojištění,,False,False
+83077,173,104,10,1,2024-05-29,15:08,2,89,16,18,125,63,N,R,Novela z. o důchodovém pojištění,,False,False
+83078,173,104,11,1,2024-05-29,15:10,47,73,2,4,126,64,N,R,Novela z. o důchodovém pojištění,,False,False
+83079,173,104,12,1,2024-05-29,16:48,2,102,3,26,133,67,N,R,Novela z. o důchodovém pojištění,,False,False
+83080,173,104,13,1,2024-05-29,16:48,2,104,7,24,137,69,N,R,Novela z. o důchodovém pojištění,,False,False
+83081,173,104,14,1,2024-05-29,16:49,3,100,22,14,139,70,N,R,Novela z. o důchodovém pojištění,,True,True
+83082,173,104,15,1,2024-05-29,16:50,63,56,2,18,139,70,N,R,Novela z. o důchodovém pojištění,,False,False
+83083,173,104,16,1,2024-05-30,10:53,90,76,0,0,166,84,N,A,Novela z. o důchodovém pojištění,,False,False
+83084,173,104,17,1,2024-05-30,18:01,85,80,5,1,171,86,N,R,Novela z. o důchodovém pojištění,,False,False
+83085,173,104,18,1,2024-05-30,18:02,168,1,1,1,171,86,N,A,Novela z. o důchodovém pojištění,,False,False
+83086,173,104,19,1,2024-05-30,18:03,90,80,1,0,171,86,N,A,Novela z. o důchodovém pojištění,,False,False
+83087,173,104,20,1,2024-05-30,18:04,81,89,1,0,171,86,N,R,Novela z. o důchodovém pojištění,,False,False
+83088,173,104,21,1,2024-05-30,18:05,81,90,0,0,171,86,N,R,Novela z. o důchodovém pojištění,,False,False
+83089,173,104,22,1,2024-05-30,18:06,170,1,0,0,171,86,N,A,Novela z. o důchodovém pojištění,,False,False
+83090,173,104,23,1,2024-05-30,18:08,79,10,49,33,171,86,N,R,Novela z. o důchodovém pojištění,,False,False
+83091,173,104,24,1,2024-05-30,18:09,82,9,38,42,171,86,N,R,Novela z. o důchodovém pojištění,,False,False
+83092,173,104,25,1,2024-05-30,18:09,81,16,36,38,171,86,N,R,Novela z. o důchodovém pojištění,,False,False
+83093,173,104,26,1,2024-05-30,18:10,79,13,38,41,171,86,N,R,Novela z. o důchodovém pojištění,,False,False
+83094,173,103,112,0,2024-05-31,10:28,165,0,0,0,165,83,N,A,Pořad schůze,,False,False
+83095,173,103,113,0,2024-05-31,10:29,79,48,14,24,165,83,N,R,Pořad schůze,,False,False
+83096,173,103,114,0,2024-05-31,10:29,79,62,6,18,165,83,N,R,Pořad schůze,,False,False
+83097,173,103,115,0,2024-05-31,10:30,80,57,12,16,165,83,N,R,Pořad schůze,,False,False
+83098,173,103,116,0,2024-05-31,10:31,83,42,8,31,164,83,N,A,Pořad schůze,,False,False
+83099,173,103,117,0,2024-05-31,10:32,157,2,5,1,165,83,N,A,Pořad schůze,,False,False
+83100,173,103,118,0,2024-05-31,10:33,80,60,8,16,164,83,N,R,Pořad schůze,,False,False
+83101,173,103,119,0,2024-05-31,10:34,80,74,5,6,165,83,N,R,Pořad schůze,,False,False
+83102,173,103,120,0,2024-05-31,10:34,162,1,2,0,165,83,N,A,Pořad schůze,,False,False
+83103,173,103,121,126,2024-05-31,12:10,77,43,18,23,161,81,N,R,"N.z., kterým se mění zk. o zdr. prostředcích a zk.o léčivech - EU",,False,False
+83104,173,103,122,126,2024-05-31,12:12,163,0,0,0,163,82,N,A,"N.z., kterým se mění zk. o zdr. prostředcích a zk.o léčivech - EU",,False,False
+83105,173,103,123,126,2024-05-31,12:13,140,0,15,10,165,83,N,A,"N.z., kterým se mění zk. o zdr. prostředcích a zk.o léčivech - EU",,False,False
+83106,173,103,124,126,2024-05-31,12:14,165,0,0,0,165,83,N,A,"N.z., kterým se mění zk. o zdr. prostředcích a zk.o léčivech - EU",,False,False
+83107,173,103,125,126,2024-05-31,12:15,33,40,63,29,165,83,N,R,"N.z., kterým se mění zk. o zdr. prostředcích a zk.o léčivech - EU",,False,False
+83108,173,103,126,126,2024-05-31,12:16,80,34,26,22,162,82,N,R,"N.z., kterým se mění zk. o zdr. prostředcích a zk.o léčivech - EU",,False,False
+83109,173,103,127,126,2024-05-31,12:23,84,1,74,4,163,82,N,A,"N.z., kterým se mění zk. o zdr. prostředcích a zk.o léčivech - EU",,False,False
+83110,173,103,128,131,2024-05-31,13:18,152,0,0,0,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83111,173,103,129,131,2024-05-31,13:19,81,68,1,2,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83112,173,103,130,131,2024-05-31,13:20,151,1,0,0,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83113,173,103,131,131,2024-05-31,13:21,78,72,1,1,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83114,173,103,132,131,2024-05-31,13:22,150,1,0,1,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83115,173,103,133,131,2024-05-31,13:22,152,0,0,0,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83116,173,103,134,131,2024-05-31,13:23,153,0,0,0,153,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83117,173,103,135,131,2024-05-31,13:25,139,0,14,0,153,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83118,173,103,136,131,2024-05-31,13:26,152,0,0,0,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83119,173,103,137,131,2024-05-31,13:27,153,0,0,0,153,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83120,173,103,138,131,2024-05-31,13:27,152,0,1,0,153,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83121,173,103,139,131,2024-05-31,13:28,150,0,3,0,153,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83122,173,103,140,131,2024-05-31,13:29,151,0,1,0,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83123,173,103,141,131,2024-05-31,13:30,151,0,1,0,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83124,173,103,142,131,2024-05-31,13:30,152,0,0,0,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83125,173,103,143,131,2024-05-31,13:31,152,0,0,0,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83126,173,103,144,131,2024-05-31,13:32,139,0,13,0,152,77,N,A,Novela z. o sociálně-právní ochraně dětí - EU,,False,False
+83127,173,103,145,162,2024-05-31,13:58,120,0,1,0,121,61,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+83128,173,103,146,162,2024-05-31,13:58,120,0,1,0,121,61,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+83129,173,103,147,0,2024-05-31,13:59,113,4,6,0,123,62,N,A, ,,False,False
+83130,173,105,1,0,2024-06-11,14:01,101,0,4,0,105,53,N,A, ,,False,False
+83131,173,105,2,0,2024-06-11,14:12,76,61,2,0,139,70,N,A,Pořad schůze,,False,False
+83132,173,105,3,0,2024-06-11,15:14,149,0,8,0,157,79,N,A,Pořad schůze,,False,False
+83133,173,105,4,0,2024-06-11,15:15,141,10,6,0,157,79,N,A,Pořad schůze,,False,False
+83134,173,105,5,0,2024-06-11,15:16,140,11,6,0,157,79,N,A,Pořad schůze,,False,False
+83135,173,105,6,0,2024-06-11,15:16,141,11,5,0,157,79,N,A,Pořad schůze,,False,False
+83136,173,105,7,0,2024-06-11,15:17,85,1,63,8,157,79,N,A,Pořad schůze,,False,False
+83137,173,105,8,0,2024-06-11,15:18,69,70,8,6,153,77,N,R,Pořad schůze,,False,False
+83138,173,105,9,0,2024-06-11,15:19,69,71,6,7,153,77,N,R,Pořad schůze,,False,False
+83139,173,105,10,0,2024-06-11,15:19,11,126,11,5,153,77,N,R,Pořad schůze,,False,False
+83140,173,105,11,0,2024-06-11,15:20,11,73,59,9,152,77,N,R,Pořad schůze,,False,False
+83141,173,105,12,0,2024-06-11,15:21,66,81,5,1,153,77,N,R,Pořad schůze,,False,False
+83142,173,105,13,0,2024-06-11,15:21,67,77,7,2,153,77,N,R,Pořad schůze,,False,False
+83143,173,105,14,0,2024-06-11,15:22,68,69,12,4,153,77,N,R,Pořad schůze,,False,False
+83144,173,105,15,0,2024-06-11,15:22,67,31,30,25,153,77,N,R,Pořad schůze,,False,False
+83145,173,105,16,0,2024-06-11,15:23,68,71,8,6,153,77,N,R,Pořad schůze,,False,False
+83146,173,105,17,0,2024-06-11,15:23,69,68,11,5,153,77,N,R,Pořad schůze,,False,False
+83147,173,105,18,0,2024-06-11,15:24,68,72,9,4,153,77,N,R,Pořad schůze,,False,False
+83148,173,105,19,0,2024-06-11,15:25,68,61,11,11,151,76,N,R,Pořad schůze,,False,False
+83149,173,105,20,0,2024-06-11,15:25,70,66,10,7,153,77,N,R,Pořad schůze,,False,False
+83150,173,105,21,0,2024-06-11,15:26,68,69,9,7,153,77,N,R,Pořad schůze,,False,False
+83151,173,105,22,0,2024-06-11,15:27,84,16,46,7,153,77,N,A,Pořad schůze,,False,False
+83152,173,105,23,7,2024-06-11,17:17,130,0,0,0,130,66,N,A,Novela z.o posuz.shody stan.výrobků při jejich dodáv.na trh,,False,False
+83153,173,105,24,7,2024-06-11,17:18,138,1,0,0,139,70,N,A,Novela z.o posuz.shody stan.výrobků při jejich dodáv.na trh,,False,False
+83154,173,105,25,8,2024-06-11,20:15,58,75,1,1,135,68,N,R,Novela z. o střelných zbraních - EU,,False,False
+83155,173,105,26,8,2024-06-11,20:16,133,0,1,0,134,68,N,A,Novela z. o střelných zbraních - EU,,False,False
+83156,173,105,27,8,2024-06-11,20:17,60,7,32,35,134,68,N,R,Novela z. o střelných zbraních - EU,,False,False
+83157,173,107,1,0,2024-06-12,09:01,104,0,0,0,104,53,N,A, ,,False,False
+83158,173,107,2,0,2024-06-12,09:55,69,66,1,0,136,69,N,A,Pořad schůze,,False,False
+83159,173,107,3,1,2024-06-12,11:59,54,66,1,1,122,62,N,R,Novela z. o správě voleb,,False,False
+83160,173,107,4,1,2024-06-12,12:06,53,67,1,0,121,61,N,R,Novela z. o správě voleb,,False,False
+83161,173,105,28,153,2024-06-13,09:42,57,5,33,4,99,50,N,A,Písemná interpelace A. Schillerové na P. Fialu ve věci hospodářské sta,,False,False
+83162,173,105,29,153,2024-06-13,09:45,72,1,27,1,101,51,N,A,Písemná interpelace I. Štefanové na P. Blažka ve věci postupu samosoud,,False,False
+83163,173,105,30,153,2024-06-13,09:47,73,1,26,2,102,52,N,A,Písemná interpelace M. Kolovratníka na M. Kupku ve věci Politická traf,,False,False
+83164,173,105,31,143,2024-06-13,11:19,55,1,63,4,123,62,N,R,Návrh změny rozpočtu SFPI na rok 2024,,False,False
+83165,173,105,32,143,2024-06-13,11:22,111,0,2,0,113,57,N,A,Návrh změny rozpočtu SFPI na rok 2024,,False,False
+83166,173,105,33,143,2024-06-13,11:22,58,1,49,5,113,57,N,A,Návrh změny rozpočtu SFPI na rok 2024,,False,False
+83167,173,105,34,145,2024-06-13,11:33,99,1,13,1,114,58,N,A,Náv.čas.harmonogramu projednávání vl.náv.státního závěr.účtu za r.2023,,False,False
+83168,173,105,35,142,2024-06-13,11:59,76,1,38,4,119,60,N,A,Zdravotně pojistné plány zdravotních pojišťoven na rok 2024,,False,False
+83169,173,105,36,146,2024-06-13,12:05,105,1,11,0,117,59,N,A,Návrh na stanovení výše odměn členům kontrolní rady Technologické agen,,False,False
+83170,173,105,37,9,2024-06-13,12:44,57,58,5,2,122,62,N,R,Novela z. o některých druzích podpory kultury,,False,False
+83171,173,105,38,9,2024-06-13,12:45,56,61,1,0,118,60,N,R,Novela z. o některých druzích podpory kultury,,False,False
+83172,173,105,39,9,2024-06-13,12:46,115,1,3,0,119,60,N,A,Novela z. o některých druzích podpory kultury,,False,False
+83173,173,105,40,9,2024-06-13,12:48,56,37,12,14,119,60,N,R,Novela z. o některých druzích podpory kultury,,False,False
+83174,173,105,41,9,2024-06-13,12:48,56,30,15,18,119,60,N,R,Novela z. o některých druzích podpory kultury,,False,False
+83175,173,105,42,10,2024-06-13,12:52,102,0,17,0,119,60,N,A,Vl.n.z. - zákon o digitalizaci finančího trhu - EU,,False,False
+83176,173,105,43,10,2024-06-13,13:02,98,0,22,0,120,61,N,A,Vl.n.z. - zákon o digitalizaci finančího trhu - EU,,False,False
+83177,173,105,44,11,2024-06-13,13:04,98,0,21,0,119,60,N,A,"Vl.n.z.,kt.se m.někt.zk.v souv.s impl.př.EU v obl.dig.f.trhu - EU",,False,False
+83178,173,105,45,0,2024-06-13,13:05,92,3,22,1,118,60,N,A, ,,False,False
+83179,173,107,5,1,2024-06-14,12:56,62,72,0,0,134,68,N,R,Novela z. o správě voleb,,False,False
+83180,173,107,6,1,2024-06-14,12:57,62,72,0,0,134,68,N,R,Novela z. o správě voleb,,False,False
+83181,173,107,7,1,2024-06-14,12:58,73,61,0,0,134,68,N,A,Novela z. o správě voleb,,False,False
+83182,173,107,8,1,2024-06-21,13:02,91,76,0,0,167,84,N,A,Novela z. o správě voleb,,False,False
+83183,173,107,9,1,2024-06-21,13:09,75,91,1,0,167,84,N,R,Novela z. o správě voleb,,False,False
+83184,173,107,10,1,2024-06-21,13:11,162,3,2,0,167,84,N,A,Novela z. o správě voleb,,False,False
+83185,173,107,11,1,2024-06-21,13:12,5,6,156,0,167,84,N,R,Novela z. o správě voleb,,True,True
+83186,173,107,12,1,2024-06-21,13:12,77,89,1,0,167,84,N,R,Novela z. o správě voleb,,False,False
+83187,173,107,13,1,2024-06-21,13:13,76,91,0,0,167,84,N,R,Novela z. o správě voleb,,False,False
+83188,173,107,14,1,2024-06-21,13:18,164,0,3,0,167,84,N,A,Novela z. o správě voleb,,False,False
+83189,173,107,15,1,2024-06-21,13:19,75,84,3,5,167,84,N,R,Novela z. o správě voleb,,False,False
+83190,173,107,16,1,2024-06-21,13:20,76,89,1,1,167,84,N,R,Novela z. o správě voleb,,False,False
+83191,173,107,17,1,2024-06-21,13:21,60,88,15,4,167,84,N,R,Novela z. o správě voleb,,False,False
+83192,173,107,18,1,2024-06-21,13:22,75,89,2,1,167,84,N,R,Novela z. o správě voleb,,False,False
+83193,173,107,19,1,2024-06-21,13:23,75,35,18,39,167,84,N,R,Novela z. o správě voleb,,False,False
+83194,173,107,20,1,2024-06-21,13:24,76,25,23,44,168,85,N,R,Novela z. o správě voleb,,False,False
+83195,173,107,21,1,2024-06-21,13:25,76,90,1,1,168,85,N,R,Novela z. o správě voleb,,False,False
+83196,173,107,22,1,2024-06-21,13:26,78,1,34,54,167,84,N,R,Novela z. o správě voleb,,False,False
+83197,173,107,23,1,2024-06-21,13:27,153,15,0,0,168,85,N,A,Novela z. o správě voleb,,False,False
+83198,173,107,24,1,2024-06-21,13:28,150,0,17,1,168,85,N,A,Novela z. o správě voleb,,False,False
+83199,173,107,25,1,2024-06-21,13:28,122,26,17,2,167,84,N,A,Novela z. o správě voleb,,False,False
+83200,173,107,26,1,2024-06-21,13:29,168,0,0,0,168,85,N,A,Novela z. o správě voleb,,False,False
+83201,173,107,27,1,2024-06-21,13:30,168,0,0,0,168,85,N,A,Novela z. o správě voleb,,False,False
+83202,173,107,28,1,2024-06-21,13:31,167,0,1,0,168,85,N,A,Novela z. o správě voleb,,False,False
+83203,173,107,29,1,2024-06-21,13:32,92,75,1,0,168,85,N,A,Novela z. o správě voleb,,False,False
+83204,173,108,1,0,2024-06-25,14:01,112,2,3,0,117,59,N,A, ,,False,False
+83205,173,108,2,0,2024-06-25,14:14,77,73,2,0,152,77,N,A,Pořad schůze,,False,False
+83206,173,108,3,0,2024-06-25,17:13,160,0,2,0,162,82,N,A,Pořad schůze,,False,False
+83207,173,108,4,0,2024-06-25,17:14,86,76,0,0,162,82,N,A,Pořad schůze,,False,False
+83208,173,108,5,0,2024-06-25,17:14,86,75,1,0,162,82,N,A,Pořad schůze,,False,False
+83209,173,108,6,0,2024-06-25,17:15,102,62,0,0,164,83,N,A,Pořad schůze,,False,False
+83210,173,108,7,0,2024-06-25,17:16,87,77,0,0,164,83,N,A,Pořad schůze,,False,False
+83211,173,108,8,0,2024-06-25,17:16,87,77,1,0,165,83,N,A,Pořad schůze,,False,False
+83212,173,108,9,0,2024-06-25,17:17,88,77,0,0,165,83,N,A,Pořad schůze,,False,False
+83213,173,108,10,0,2024-06-25,17:18,86,76,3,0,165,83,N,A,Pořad schůze,,False,False
+83214,173,108,11,0,2024-06-25,17:18,77,34,14,39,164,83,N,R,Pořad schůze,,False,False
+83215,173,108,12,0,2024-06-25,17:19,77,59,15,14,165,83,N,R,Pořad schůze,,False,False
+83216,173,108,13,0,2024-06-25,17:20,76,62,18,9,165,83,N,R,Pořad schůze,,False,False
+83217,173,108,14,0,2024-06-25,17:20,17,76,63,9,165,83,N,R,Pořad schůze,,False,False
+83218,173,108,15,0,2024-06-25,17:21,16,78,65,6,165,83,N,R,Pořad schůze,,False,False
+83219,173,108,16,0,2024-06-25,17:21,75,81,5,4,165,83,N,R,Pořad schůze,,False,False
+83220,173,108,17,0,2024-06-25,17:22,77,78,6,4,165,83,N,R,Pořad schůze,,False,False
+83221,173,108,18,0,2024-06-25,17:22,76,71,10,8,165,83,N,R,Pořad schůze,,False,False
+83222,173,108,19,0,2024-06-25,17:23,87,77,1,0,165,83,N,A,Pořad schůze,,False,False
+83223,173,108,20,0,2024-06-25,17:25,162,1,2,0,165,83,N,A,Pořad schůze,,False,False
+83224,173,108,21,0,2024-06-25,17:25,87,77,0,1,165,83,N,A,Pořad schůze,,False,False
+83225,173,108,22,0,2024-06-25,17:26,156,2,7,0,165,83,N,A,Pořad schůze,,False,False
+83226,173,108,23,0,2024-06-25,17:27,84,78,2,1,165,83,N,A,Pořad schůze,,False,False
+83227,173,108,24,0,2024-06-25,17:28,76,71,14,4,165,83,N,R,Pořad schůze,,False,False
+83228,173,108,25,0,2024-06-25,17:29,76,29,35,25,165,83,N,R,Pořad schůze,,False,False
+83229,173,108,26,0,2024-06-25,17:29,75,30,34,26,165,83,N,R,Pořad schůze,,False,False
+83230,173,108,27,0,2024-06-25,17:30,77,14,33,41,165,83,N,R,Pořad schůze,,False,False
+83231,173,108,28,0,2024-06-25,17:31,76,60,16,13,165,83,N,R,Pořad schůze,,False,False
+83232,173,108,29,0,2024-06-25,17:31,76,47,23,20,166,84,N,R,Pořad schůze,,False,False
+83233,173,108,30,0,2024-06-25,17:32,75,77,9,5,166,84,N,R,Pořad schůze,,False,False
+83234,173,108,31,0,2024-06-25,17:32,74,76,12,4,166,84,N,R,Pořad schůze,,False,False
+83235,173,108,32,0,2024-06-25,17:33,76,65,17,8,166,84,N,R,Pořad schůze,,False,False
+83236,173,108,33,0,2024-06-25,17:34,75,72,15,4,166,84,N,R,Pořad schůze,,False,False
+83237,173,108,34,0,2024-06-25,17:34,72,61,26,7,166,84,N,R,Pořad schůze,,False,False
+83238,173,108,35,0,2024-06-25,17:35,76,68,13,8,165,83,N,R,Pořad schůze,,False,False
+83239,173,108,36,0,2024-06-25,17:35,76,60,14,16,166,84,N,R,Pořad schůze,,False,False
+83240,173,108,37,0,2024-06-25,17:37,76,68,6,10,160,81,N,R,Pořad schůze,,False,False
+83241,173,108,38,0,2024-06-25,17:37,75,77,5,3,160,81,N,R,Pořad schůze,,False,False
+83242,173,108,39,0,2024-06-25,17:38,77,71,6,6,160,81,N,R,Pořad schůze,,False,False
+83243,173,108,40,0,2024-06-25,17:39,75,72,8,6,161,81,N,R,Pořad schůze,,False,False
+83244,173,108,41,0,2024-06-25,17:39,82,32,41,6,161,81,N,A,Pořad schůze,,False,False
+83245,173,108,42,2,2024-06-25,17:49,49,14,38,4,105,53,N,R,Novela z. o základních registrech,,False,False
+83246,173,108,43,7,2024-06-25,17:56,103,0,26,0,129,65,N,A,Novela z. o majetku České republiky,,False,False
+83247,173,108,44,25,2024-06-25,20:12,68,79,0,0,147,74,N,R,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+83248,173,108,45,25,2024-06-25,20:13,66,81,0,0,147,74,N,R,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+83249,173,108,46,25,2024-06-25,20:13,147,0,0,0,147,74,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+83250,173,108,47,25,2024-06-25,20:15,76,3,27,41,147,74,N,A,Novela z. o někt.opatř. v souv. s ozbroj.konf. - Ukrajina - EU,,False,False
+83251,173,108,48,9,2024-06-25,21:09,56,75,0,2,133,67,N,R,Novela z. o podmín. obchod. s povol. na emise skl. plynů - EU,,False,False
+83252,173,108,49,9,2024-06-25,21:10,131,1,1,0,133,67,N,A,Novela z. o podmín. obchod. s povol. na emise skl. plynů - EU,,False,False
+83253,173,108,50,9,2024-06-25,21:11,127,1,2,3,133,67,N,A,Novela z. o podmín. obchod. s povol. na emise skl. plynů - EU,,False,False
+83254,173,108,51,10,2024-06-25,21:46,0,0,124,0,124,63,N,R,Vl.n.z. o Národní rozvojové bance - EU,,True,True
+83255,173,108,52,10,2024-06-25,21:46,112,0,2,0,114,58,N,A,Vl.n.z. o Národní rozvojové bance - EU,,False,False
+83256,173,108,53,11,2024-06-25,21:48,111,0,1,0,112,57,N,A,"Vl.n.z.,kt.se m.někt.z.v souv.s přij.z.o Národní rozv. bance - EU",,False,False
+83257,173,108,54,0,2024-06-26,09:07,125,0,1,0,126,64,N,A,Pořad schůze,,False,False
+83258,173,108,55,0,2024-06-26,09:07,126,0,1,0,127,64,N,A,Pořad schůze,,False,False
+83259,173,108,56,134,2024-06-26,09:15,135,0,7,0,142,72,N,A,Novela z. o veřejném zdravotním pojištění - EU,,False,False
+83260,173,108,57,134,2024-06-26,09:16,141,1,5,0,147,74,N,A,Novela z. o veřejném zdravotním pojištění - EU,,False,False
+83261,173,108,58,126,2024-06-26,09:27,149,0,5,0,154,78,N,A,Novela z. o ochraně utajovaných informací - EU,,False,False
+83262,173,108,59,126,2024-06-26,09:28,149,0,5,0,154,78,N,A,Novela z. o ochraně utajovaných informací - EU,,False,False
+83263,173,108,60,126,2024-06-26,09:29,153,0,2,0,155,78,N,A,Novela z. o ochraně utajovaných informací - EU,,False,False
+83264,173,108,61,126,2024-06-26,09:29,151,0,4,0,155,78,N,A,Novela z. o ochraně utajovaných informací - EU,,False,False
+83265,173,108,62,126,2024-06-26,09:30,154,0,2,0,156,79,N,A,Novela z. o ochraně utajovaných informací - EU,,False,False
+83266,173,108,63,127,2024-06-26,11:35,75,83,1,0,159,80,N,R,Novela z. o soudech a soudcích - EU,,False,False
+83267,173,108,64,127,2024-06-26,11:36,131,2,14,12,159,80,N,A,Novela z. o soudech a soudcích - EU,,False,False
+83268,173,108,65,127,2024-06-26,11:37,74,85,0,0,159,80,N,R,Novela z. o soudech a soudcích - EU,,False,False
+83269,173,108,66,127,2024-06-26,11:38,74,85,0,0,159,80,N,R,Novela z. o soudech a soudcích - EU,,False,False
+83270,173,108,67,127,2024-06-26,11:39,74,85,0,0,159,80,N,R,Novela z. o soudech a soudcích - EU,,False,False
+83271,173,108,68,127,2024-06-26,11:40,158,0,1,0,159,80,N,A,Novela z. o soudech a soudcích - EU,,False,False
+83272,173,108,69,127,2024-06-26,11:40,158,0,1,0,159,80,N,A,Novela z. o soudech a soudcích - EU,,False,False
+83273,173,108,70,127,2024-06-26,11:41,159,0,0,0,159,80,N,A,Novela z. o soudech a soudcích - EU,,False,False
+83274,173,108,71,127,2024-06-26,11:42,86,73,0,0,159,80,N,A,Novela z. o soudech a soudcích - EU,,False,False
+83275,173,108,72,127,2024-06-26,11:44,155,1,3,0,159,80,N,A,Novela z. o soudech a soudcích - EU,,False,False
+83276,173,108,73,127,2024-06-26,11:45,86,74,0,0,160,81,N,A,Novela z. o soudech a soudcích - EU,,False,False
+83277,173,108,74,128,2024-06-26,11:54,127,0,30,0,157,79,N,A,Novela z. o cenách - EU,,False,False
+83278,173,108,75,128,2024-06-26,11:55,140,0,19,0,159,80,N,A,Novela z. o cenách - EU,,False,False
+83279,173,108,76,128,2024-06-26,11:56,141,0,17,0,158,80,N,A,Novela z. o cenách - EU,,False,False
+83280,173,108,77,129,2024-06-26,12:00,119,1,36,0,156,79,N,A,Novela z. o volbě prezidenta republiky,,False,False
+83281,173,108,78,130,2024-06-26,12:05,135,0,22,0,157,79,N,A,Vl.n.z.o veřejné hydrometeorologické službě - EU,,False,False
+83282,173,108,79,130,2024-06-26,12:06,139,0,21,0,160,81,N,A,Vl.n.z.o veřejné hydrometeorologické službě - EU,,False,False
+83283,173,108,80,130,2024-06-26,12:07,140,0,20,0,160,81,N,A,Vl.n.z.o veřejné hydrometeorologické službě - EU,,False,False
+83284,173,108,81,132,2024-06-26,12:10,138,0,21,0,159,80,N,A,Novela z. o některých opatřeních proti leg.výnosů z tr.činn. - EU,,False,False
+83285,173,108,82,132,2024-06-26,12:11,121,1,18,22,162,82,N,A,Novela z. o některých opatřeních proti leg.výnosů z tr.činn. - EU,,False,False
+83286,173,108,83,132,2024-06-26,12:12,145,0,17,0,162,82,N,A,Novela z. o některých opatřeních proti leg.výnosů z tr.činn. - EU,,False,False
+83287,173,108,84,132,2024-06-26,12:14,149,0,1,0,150,76,N,A,Novela z. o některých opatřeních proti leg.výnosů z tr.činn. - EU,,False,False
+83288,173,108,85,162,2024-06-26,13:47,145,0,18,0,163,82,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+83289,173,108,86,162,2024-06-26,13:48,149,0,15,0,164,83,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+83290,173,108,87,141,2024-06-26,13:52,154,3,8,1,166,84,N,A,Náv.na volbu členů Orgánu nezávislé kontroly zpravodajských služeb ČR,,False,False
+83291,173,108,88,142,2024-06-26,13:53,154,3,9,0,166,84,N,A,Návrh na volbu kandidátů na členy Rady ÚSTR,,False,False
+83292,173,108,89,143,2024-06-26,13:55,154,3,10,0,167,84,N,A,Návrh na volbu člena DR SFDI,,False,False
+83293,173,108,90,144,2024-06-26,13:56,155,3,9,0,167,84,N,A,Návrh na volbu člena Rady Českého rozhlasu,,False,False
+83294,173,108,91,145,2024-06-26,13:57,151,4,12,0,167,84,N,A,Návrh na volbu člena Rady České televize, ,False,False
+83295,173,108,92,146,2024-06-26,13:59,137,3,26,0,166,84,N,A,Návrh na volbu člena Nejvyššího kontrolního úřadu,,False,False
+83296,173,109,1,0,2024-06-26,15:01,104,0,1,0,105,53,N,A, ,,False,False
+83297,173,109,2,0,2024-06-26,15:03,115,1,1,0,117,59,N,A,Pořad schůze,,False,False
+83298,173,109,3,1,2024-06-26,15:27,132,0,4,5,141,71,N,A,Náv.na zřízení vyšetřov.komise PS ke střelbě na Filozof.fakultě UK,,False,False
+83299,173,108,93,152,2024-06-27,12:36,146,1,25,1,173,87,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83300,173,108,94,152,2024-06-27,12:36,173,0,1,0,174,88,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83301,173,108,95,152,2024-06-27,12:37,166,0,3,5,174,88,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83302,173,108,96,152,2024-06-27,12:37,125,1,27,20,173,87,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83303,173,108,97,152,2024-06-27,12:37,142,8,14,9,173,87,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83304,173,108,98,152,2024-06-27,12:38,155,0,20,2,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83305,173,108,99,152,2024-06-27,12:38,173,0,3,1,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83306,173,108,100,152,2024-06-27,12:38,175,0,2,0,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83307,173,108,101,152,2024-06-27,12:39,173,0,3,1,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83308,173,108,102,152,2024-06-27,12:39,176,0,1,0,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83309,173,108,103,152,2024-06-27,12:39,175,0,2,0,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83310,173,108,104,152,2024-06-27,12:39,126,2,20,25,173,87,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83311,173,108,105,152,2024-06-27,12:40,86,2,56,33,177,89,N,R,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83312,173,108,106,152,2024-06-27,12:40,87,52,12,24,175,88,N,R,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83313,173,108,107,152,2024-06-27,12:40,170,0,4,3,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83314,173,108,108,152,2024-06-27,12:41,138,0,29,9,176,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83315,173,108,109,152,2024-06-27,12:41,103,20,25,28,176,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83316,173,108,110,152,2024-06-27,12:41,102,2,46,27,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83317,173,108,111,152,2024-06-27,12:41,162,0,12,3,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83318,173,108,112,152,2024-06-27,12:42,164,0,11,2,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83319,173,108,113,152,2024-06-27,12:42,171,0,6,0,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83320,173,108,114,152,2024-06-27,12:42,170,0,5,2,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83321,173,108,115,152,2024-06-27,12:42,171,1,2,3,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83322,173,108,116,152,2024-06-27,12:43,167,0,5,1,173,87,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83323,173,108,117,152,2024-06-27,12:43,163,0,14,0,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83324,173,108,118,152,2024-06-27,12:43,173,0,3,1,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83325,173,108,119,152,2024-06-27,12:44,175,0,2,0,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83326,173,108,120,152,2024-06-27,12:44,171,0,5,1,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83327,173,108,121,152,2024-06-27,12:44,173,0,4,0,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83328,173,108,122,152,2024-06-27,12:45,140,1,31,5,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83329,173,108,123,152,2024-06-27,12:45,168,0,7,2,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83330,173,108,124,152,2024-06-27,12:45,166,0,11,0,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83331,173,108,125,152,2024-06-27,12:45,164,0,11,2,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83332,173,108,126,152,2024-06-27,12:46,113,21,37,6,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83333,173,108,127,152,2024-06-27,12:46,174,0,3,0,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83334,173,108,128,152,2024-06-27,12:46,171,0,6,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83335,173,108,129,152,2024-06-27,12:47,170,0,8,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83336,173,108,130,152,2024-06-27,12:47,176,0,3,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83337,173,108,131,152,2024-06-27,12:47,168,0,9,2,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83338,173,108,132,152,2024-06-27,12:47,173,0,5,1,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83339,173,108,133,152,2024-06-27,12:48,175,0,4,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83340,173,108,134,152,2024-06-27,12:48,171,0,8,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83341,173,108,135,152,2024-06-27,12:48,173,0,2,4,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83342,173,108,136,152,2024-06-27,12:48,173,0,6,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83343,173,108,137,152,2024-06-27,12:49,173,0,6,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83344,173,108,138,152,2024-06-27,12:49,176,0,3,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83345,173,108,139,152,2024-06-27,12:49,176,0,3,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83346,173,108,140,152,2024-06-27,12:49,173,0,5,1,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83347,173,108,141,152,2024-06-27,12:50,149,0,27,3,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83348,173,108,142,152,2024-06-27,12:50,175,0,4,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83349,173,108,143,152,2024-06-27,12:50,52,73,32,19,176,89,N,R,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83350,173,108,144,152,2024-06-27,12:51,53,75,28,21,177,89,N,R,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83351,173,108,145,152,2024-06-27,12:51,170,0,9,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83352,173,108,146,152,2024-06-27,12:51,175,0,3,1,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83353,173,108,147,152,2024-06-27,12:51,172,0,5,2,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83354,173,108,148,152,2024-06-27,12:52,174,0,5,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83355,173,108,149,152,2024-06-27,12:52,176,0,3,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83356,173,108,150,152,2024-06-27,12:52,175,0,3,1,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83357,173,108,151,152,2024-06-27,12:52,177,0,2,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83358,173,108,152,152,2024-06-27,12:53,172,0,7,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83359,173,108,153,152,2024-06-27,12:53,173,0,6,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83360,173,108,154,152,2024-06-27,12:53,171,0,6,2,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83361,173,108,155,152,2024-06-27,12:54,169,0,10,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83362,173,108,156,152,2024-06-27,12:54,175,0,4,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83363,173,108,157,152,2024-06-27,12:54,160,0,15,4,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83364,173,108,158,152,2024-06-27,12:54,171,0,8,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83365,173,108,159,152,2024-06-27,12:55,174,0,5,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83366,173,108,160,152,2024-06-27,12:55,173,0,5,1,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83367,173,108,161,152,2024-06-27,12:55,70,20,66,23,179,90,N,R,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83368,173,108,162,152,2024-06-27,12:56,168,1,8,2,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83369,173,108,163,152,2024-06-27,12:56,168,0,9,2,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83370,173,108,164,152,2024-06-27,12:56,165,0,11,3,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83371,173,108,165,152,2024-06-27,12:57,170,0,6,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83372,173,108,166,152,2024-06-27,12:57,153,0,21,4,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83373,173,108,167,152,2024-06-27,12:57,96,18,53,11,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83374,173,108,168,152,2024-06-27,12:57,143,1,9,25,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83375,173,108,169,152,2024-06-27,12:58,160,0,15,3,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83376,173,108,170,152,2024-06-27,12:58,163,0,13,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83377,173,108,171,152,2024-06-27,12:58,139,0,36,3,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83378,173,108,172,152,2024-06-27,12:59,147,0,20,8,175,88,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83379,173,108,173,152,2024-06-27,12:59,145,1,25,4,175,88,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83380,173,108,174,152,2024-06-27,12:59,156,1,18,4,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83381,173,108,175,152,2024-06-27,12:59,147,0,28,4,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83382,173,108,176,152,2024-06-27,13:00,141,1,22,13,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83383,173,108,177,152,2024-06-27,13:00,160,1,18,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83384,173,108,178,152,2024-06-27,13:00,94,2,64,18,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83385,173,108,179,152,2024-06-27,13:01,172,0,6,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83386,173,108,180,152,2024-06-27,13:01,127,21,22,7,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83387,173,108,181,152,2024-06-27,13:02,170,0,6,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83388,173,108,182,152,2024-06-27,13:02,167,0,9,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83389,173,108,183,152,2024-06-27,13:02,165,0,10,3,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83390,173,108,184,152,2024-06-27,13:02,166,0,10,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83391,173,108,185,152,2024-06-27,13:03,166,1,10,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83392,173,108,186,152,2024-06-27,13:03,135,0,25,18,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83393,173,108,187,152,2024-06-27,13:03,113,2,53,10,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83394,173,108,188,152,2024-06-27,13:04,168,0,10,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83395,173,108,189,152,2024-06-27,13:04,169,0,7,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83396,173,108,190,152,2024-06-27,13:04,151,0,26,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83397,173,108,191,152,2024-06-27,13:04,92,7,42,37,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83398,173,108,192,152,2024-06-27,13:05,154,0,24,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83399,173,108,193,152,2024-06-27,13:05,163,0,11,4,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83400,173,108,194,152,2024-06-27,13:05,164,0,14,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83401,173,108,195,152,2024-06-27,13:05,164,1,12,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83402,173,108,196,152,2024-06-27,13:06,168,0,10,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83403,173,108,197,152,2024-06-27,13:06,165,0,10,3,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83404,173,108,198,152,2024-06-27,13:06,53,43,55,27,178,90,N,R,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83405,173,108,199,152,2024-06-27,13:06,53,12,90,22,177,89,N,R,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83406,173,108,200,152,2024-06-27,13:07,85,2,83,8,178,90,N,R,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83407,173,108,201,152,2024-06-27,13:07,86,5,81,6,178,90,N,R,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83408,173,108,202,152,2024-06-27,13:08,152,2,23,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83409,173,108,203,152,2024-06-27,13:08,159,1,18,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83410,173,108,204,152,2024-06-27,13:08,137,3,35,3,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83411,173,108,205,152,2024-06-27,13:09,166,1,10,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83412,173,108,206,152,2024-06-27,13:09,158,1,18,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83413,173,108,207,152,2024-06-27,13:09,157,0,19,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83414,173,108,208,152,2024-06-27,13:09,152,2,24,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83415,173,108,209,152,2024-06-27,13:10,138,3,16,21,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83416,173,108,210,152,2024-06-27,13:10,161,0,15,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83417,173,108,211,152,2024-06-27,13:10,167,0,10,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83418,173,108,212,152,2024-06-27,13:10,160,1,14,3,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83419,173,108,213,152,2024-06-27,13:11,110,2,60,6,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83420,173,108,214,152,2024-06-27,13:11,164,0,12,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83421,173,108,215,152,2024-06-27,13:11,160,0,18,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83422,173,108,216,152,2024-06-27,13:12,139,0,37,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83423,173,108,217,152,2024-06-27,13:12,168,0,9,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83424,173,108,218,152,2024-06-27,13:12,151,0,25,1,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83425,173,108,219,152,2024-06-27,13:12,169,0,6,3,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83426,173,108,220,152,2024-06-27,13:13,156,0,17,5,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83427,173,108,221,152,2024-06-27,13:13,167,0,11,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83428,173,108,222,152,2024-06-27,13:13,156,0,20,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83429,173,108,223,152,2024-06-27,13:13,154,1,21,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83430,173,108,224,152,2024-06-27,13:14,152,0,22,4,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83431,173,108,225,152,2024-06-27,13:14,140,0,27,11,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83432,173,108,226,152,2024-06-27,13:14,157,0,14,7,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83433,173,108,227,152,2024-06-27,13:14,154,0,20,3,177,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83434,173,108,228,152,2024-06-27,13:15,152,1,21,4,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83435,173,108,229,152,2024-06-27,13:15,153,0,24,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83436,173,108,230,152,2024-06-27,13:15,140,1,27,10,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83437,173,108,231,152,2024-06-27,13:16,164,0,14,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83438,173,108,232,152,2024-06-27,13:16,142,1,29,6,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83439,173,108,233,152,2024-06-27,13:16,162,0,14,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83440,173,108,234,152,2024-06-27,13:16,160,1,17,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83441,173,108,235,152,2024-06-27,13:17,156,0,22,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83442,173,108,236,152,2024-06-27,13:17,142,1,29,6,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83443,173,108,237,152,2024-06-27,13:17,130,14,26,6,176,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83444,173,108,238,152,2024-06-27,13:17,162,0,12,4,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83445,173,108,239,152,2024-06-27,13:18,154,1,22,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83446,173,108,240,152,2024-06-27,13:18,159,2,8,9,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83447,173,108,241,152,2024-06-27,13:18,162,0,16,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83448,173,108,242,152,2024-06-27,13:18,157,0,20,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83449,173,108,243,152,2024-06-27,13:19,130,1,31,16,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83450,173,108,244,152,2024-06-27,13:19,154,1,19,4,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83451,173,108,245,152,2024-06-27,13:19,133,0,40,5,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83452,173,108,246,152,2024-06-27,13:19,160,0,16,2,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83453,173,108,247,152,2024-06-27,13:20,156,0,18,4,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83454,173,108,248,152,2024-06-27,13:20,155,0,20,3,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83455,173,108,249,152,2024-06-27,13:20,152,0,20,6,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83456,173,108,250,152,2024-06-27,13:21,77,2,75,24,178,90,N,R,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83457,173,108,251,152,2024-06-27,13:21,166,0,12,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83458,173,108,252,152,2024-06-27,13:21,164,0,13,1,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83459,173,108,253,152,2024-06-27,13:21,161,1,16,0,178,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83460,173,108,254,152,2024-06-27,13:23,146,0,30,0,176,89,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83461,173,108,255,0,2024-06-28,09:09,129,0,3,1,133,67,N,A,Pořad schůze,,False,False
+83462,173,108,256,0,2024-06-28,09:10,133,0,4,0,137,69,N,A,Pořad schůze,,False,False
+83463,173,108,257,0,2024-06-28,09:11,134,1,2,0,137,69,N,A,Pořad schůze,,False,False
+83464,173,108,258,0,2024-06-28,09:12,135,0,2,0,137,69,N,A,Pořad schůze,,False,False
+83465,173,108,259,0,2024-06-28,09:13,118,1,18,0,137,69,N,A,Pořad schůze,,False,False
+83466,173,108,260,133,2024-06-28,10:11,147,0,2,0,149,75,N,A,Novela z. - zákoník práce - EU,,False,False
+83467,173,108,261,133,2024-06-28,10:11,147,0,2,0,149,75,N,A,Novela z. - zákoník práce - EU,,False,False
+83468,173,108,262,133,2024-06-28,10:12,129,0,20,0,149,75,N,A,Novela z. - zákoník práce - EU,,False,False
+83469,173,108,263,133,2024-06-28,10:13,145,0,4,0,149,75,N,A,Novela z. - zákoník práce - EU,,False,False
+83470,173,108,264,133,2024-06-28,10:15,129,0,17,0,146,74,N,A,Novela z. - zákoník práce - EU,,False,False
+83471,173,108,265,133,2024-06-28,10:16,146,0,1,0,147,74,N,A,Novela z. - zákoník práce - EU,,False,False
+83472,173,108,266,133,2024-06-28,10:17,72,20,18,37,147,74,N,R,Novela z. - zákoník práce - EU,,False,False
+83473,173,108,267,133,2024-06-28,10:17,24,68,44,11,147,74,N,R,Novela z. - zákoník práce - EU,,False,False
+83474,173,108,268,133,2024-06-28,10:19,49,85,9,3,146,74,N,R,Novela z. - zákoník práce - EU,,False,False
+83475,173,108,269,133,2024-06-28,10:19,145,0,2,0,147,74,N,A,Novela z. - zákoník práce - EU,,False,False
+83476,173,108,270,133,2024-06-28,10:21,146,0,1,0,147,74,N,A,Novela z. - zákoník práce - EU,,False,False
+83477,173,108,271,133,2024-06-28,10:22,147,0,0,0,147,74,N,A,Novela z. - zákoník práce - EU,,False,False
+83478,173,108,272,133,2024-06-28,10:23,125,17,4,1,147,74,N,A,Novela z. - zákoník práce - EU,,False,False
+83479,173,108,273,131,2024-06-28,10:38,131,0,4,0,135,68,N,A,Vl.n.z. o veřejných kulturních institucích,,False,False
+83480,173,108,274,131,2024-06-28,10:39,136,0,0,0,136,69,N,A,Vl.n.z. o veřejných kulturních institucích,,False,False
+83481,173,108,275,131,2024-06-28,10:40,62,72,3,0,137,69,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83482,173,108,276,131,2024-06-28,10:41,62,72,3,0,137,69,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83483,173,108,277,131,2024-06-28,10:42,64,68,5,0,137,69,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83484,173,108,278,131,2024-06-28,10:42,64,59,8,8,139,70,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83485,173,108,279,131,2024-06-28,10:43,64,73,2,0,139,70,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83486,173,108,280,131,2024-06-28,10:44,65,73,2,0,140,71,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83487,173,108,281,131,2024-06-28,10:45,66,65,4,5,140,71,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83488,173,108,282,131,2024-06-28,10:46,139,0,1,0,140,71,N,A,Vl.n.z. o veřejných kulturních institucích,,False,False
+83489,173,108,283,131,2024-06-28,10:46,66,72,3,0,141,71,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83490,173,108,284,131,2024-06-28,10:47,66,73,2,0,141,71,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83491,173,108,285,131,2024-06-28,10:48,66,70,5,1,142,72,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83492,173,108,286,131,2024-06-28,10:49,66,73,3,0,142,72,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83493,173,108,287,131,2024-06-28,10:49,66,71,4,1,142,72,N,R,Vl.n.z. o veřejných kulturních institucích,,False,False
+83494,173,108,288,131,2024-06-28,10:50,140,1,1,0,142,72,N,A,Vl.n.z. o veřejných kulturních institucích,,False,False
+83495,173,108,289,131,2024-06-28,10:51,142,0,0,0,142,72,N,A,Vl.n.z. o veřejných kulturních institucích,,False,False
+83496,173,108,290,135,2024-06-28,10:57,120,0,13,0,133,67,N,A,Novela z. o státních svátcích,,False,False
+83497,173,108,291,135,2024-06-28,10:58,115,1,6,15,137,69,N,A,Novela z. o státních svátcích,,False,False
+83498,173,108,292,135,2024-06-28,10:59,68,7,44,19,138,70,N,R,Novela z. o státních svátcích,,False,False
+83499,173,108,293,135,2024-06-28,11:00,129,1,7,1,138,70,N,A,Novela z. o státních svátcích,,False,False
+83500,173,108,294,23,2024-06-28,11:05,85,0,7,0,92,47,N,A,Novela z. o distribuci pojištění a zajištění - EU,,False,False
+83501,173,108,295,23,2024-06-28,11:10,108,0,5,0,113,57,N,A,Novela z. o distribuci pojištění a zajištění - EU,,False,False
+83502,173,108,296,24,2024-06-28,11:15,94,0,22,0,116,59,N,A,Novela z. o dani z přidané hodnoty - EU,,False,False
+83503,173,108,297,24,2024-06-28,11:28,105,0,20,0,125,63,N,A,Novela z. o dani z přidané hodnoty - EU,,False,False
+83504,173,108,298,24,2024-06-28,11:29,101,1,21,2,125,63,N,A,Novela z. o dani z přidané hodnoty - EU,,False,False
+83505,173,108,299,13,2024-06-28,11:38,100,0,24,0,124,63,N,A,Novela z. - atomový zákon - EU,,False,False
+83506,173,108,300,14,2024-06-28,11:43,95,0,27,0,122,62,N,A,Novela z. o akciové společnosti České dráhy - EU,,False,False
+83507,173,108,301,14,2024-06-28,11:51,107,0,22,0,129,65,N,A,Novela z. o akciové společnosti České dráhy - EU,,False,False
+83508,173,108,302,15,2024-06-28,12:00,105,0,23,0,128,65,N,A,Novela z. o nemocenském pojištění - EU,,False,False
+83509,173,108,303,16,2024-06-28,12:32,94,0,36,0,130,66,N,A,Novela z. - veterinární zákon - EU,,False,False
+83510,173,108,304,17,2024-06-28,12:42,105,0,0,0,105,53,N,A,Vl. n. z. o vnitrostátních orgánech v oblasti polovodičů - EU,,False,False
+83511,173,108,305,17,2024-06-28,12:43,105,0,1,0,106,54,N,A,Vl. n. z. o vnitrostátních orgánech v oblasti polovodičů - EU,,False,False
+83512,173,108,306,18,2024-06-28,13:08,93,0,22,0,115,58,N,A,Novela z. o ochraně ovzduší - EU,,False,False
+83513,173,108,307,19,2024-06-28,13:38,97,0,28,0,125,63,N,A,Novela z. o poskytování služby péče o dítě v dět. skup.,,False,False
+83514,173,108,308,19,2024-06-28,13:40,60,3,39,24,126,64,N,R,Novela z. o poskytování služby péče o dítě v dět. skup.,,False,False
+83515,173,108,309,19,2024-06-28,13:40,77,0,33,16,126,64,N,A,Novela z. o poskytování služby péče o dítě v dět. skup.,,False,False
+83516,173,108,310,0,2024-07-09,14:14,91,75,5,0,171,86,N,A,Pořad schůze,,False,False
+83517,173,108,311,0,2024-07-09,17:27,180,0,1,0,181,91,N,A,Pořad schůze,,False,False
+83518,173,108,312,0,2024-07-09,17:28,94,85,1,1,181,91,N,A,Pořad schůze,,False,False
+83519,173,108,313,0,2024-07-09,17:28,94,86,0,1,181,91,N,A,Pořad schůze,,False,False
+83520,173,108,314,0,2024-07-09,17:29,96,84,1,0,181,91,N,A,Pořad schůze,,False,False
+83521,173,108,315,0,2024-07-09,17:29,111,66,4,0,181,91,N,A,Pořad schůze,,False,False
+83522,173,108,316,0,2024-07-09,17:30,90,87,2,2,181,91,N,R,Pořad schůze,,False,False
+83523,173,108,317,0,2024-07-09,17:32,175,2,5,0,182,92,N,A,Pořad schůze,,False,False
+83524,173,108,318,0,2024-07-09,17:33,93,87,1,1,182,92,N,A,Pořad schůze,,False,False
+83525,173,108,319,0,2024-07-09,17:34,96,85,0,1,182,92,N,A,Pořad schůze,,False,False
+83526,173,108,320,0,2024-07-09,17:35,178,1,4,0,183,92,N,A,Pořad schůze,,False,False
+83527,173,108,321,0,2024-07-09,17:35,96,86,0,1,183,92,N,A,Pořad schůze,,False,False
+83528,173,108,322,0,2024-07-09,17:36,177,2,3,2,184,93,N,A,Pořad schůze,,False,False
+83529,173,108,323,0,2024-07-09,17:37,94,87,2,1,184,93,N,A,Pořad schůze,,False,False
+83530,173,108,324,0,2024-07-09,17:38,86,19,36,43,184,93,N,R,Pořad schůze,,False,False
+83531,173,108,325,0,2024-07-09,17:39,87,80,11,6,184,93,N,R,Pořad schůze,,False,False
+83532,173,108,326,0,2024-07-09,17:39,87,80,10,7,184,93,N,R,Pořad schůze,,False,False
+83533,173,108,327,0,2024-07-09,17:40,87,82,8,7,184,93,N,R,Pořad schůze,,False,False
+83534,173,108,328,0,2024-07-09,17:40,35,47,88,14,184,93,N,R,Pořad schůze,,False,False
+83535,173,108,329,164,2024-07-09,17:43,180,1,2,0,183,92,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+83536,173,108,330,164,2024-07-09,17:44,183,0,1,0,184,93,N,A,Návrh na změny ve složení orgánů Poslanecké sněmovny,,False,False
+83537,173,108,331,165,2024-07-09,17:47,183,0,2,0,185,93,N,A,vol.čl.VK FF UK,,False,False
+83538,173,108,332,8,2024-07-09,18:33,166,0,2,0,168,85,N,A,"Vl.n.z.,kt.se m.někt.z.v souv.s přij.z.o zbraních a střelivu",,False,False
+83539,173,108,333,20,2024-07-09,18:43,141,0,1,0,142,72,N,A,Novela z. o účastnících odboje a odporu proti komunismu,,False,False
+83540,173,108,334,20,2024-07-09,18:44,145,0,0,0,145,73,N,A,Novela z. o účastnících odboje a odporu proti komunismu,,False,False
+83541,173,108,335,21,2024-07-09,19:14,126,0,1,0,127,64,N,A,Novela z. - občanský zákoník,,False,False
+83542,173,108,336,21,2024-07-09,19:15,72,3,23,31,129,65,N,A,Novela z. - občanský zákoník,,False,False
+83543,173,108,337,22,2024-07-09,19:24,125,0,20,0,145,73,N,A,Novela z.o úpravě některých vztahů v oblasti veřejné podpory - EU,,False,False
+83544,173,108,338,26,2024-07-09,20:51,157,1,0,0,158,80,N,A,Novela z. - občanský zákoník - EU,,False,False
+83545,173,108,339,26,2024-07-09,20:52,83,9,25,44,161,81,N,A,Novela z. - občanský zákoník - EU,,False,False
+83546,173,108,340,26,2024-07-09,20:53,63,0,98,0,161,81,N,R,Novela z. - občanský zákoník - EU,,False,False
+83547,173,108,341,26,2024-07-09,20:54,156,0,4,1,161,81,N,A,Novela z. - občanský zákoník - EU,,False,False
+83548,173,108,342,26,2024-07-09,20:54,76,2,32,51,161,81,N,R,Novela z. - občanský zákoník - EU,,False,False
+83549,173,108,343,27,2024-07-09,21:21,87,1,1,0,89,45,N,A,Vl.n.z. o podpoře bydlení - EU,,False,False
+83550,173,108,344,0,2024-07-09,22:35,0,0,85,0,85,43,N,R, ,,False,False
+83551,173,108,344,27,2024-07-10,10:48,78,45,19,31,173,87,N,R,Vl.n.z. o podpoře bydlení - EU,,False,False
+83552,173,108,345,27,2024-07-10,10:49,83,33,24,37,177,89,N,R,Vl.n.z. o podpoře bydlení - EU,,False,False
+83553,173,108,346,27,2024-07-10,10:50,180,0,0,0,180,91,N,A,Vl.n.z. o podpoře bydlení - EU,,False,False
+83554,173,108,347,27,2024-07-10,10:52,137,2,24,18,181,91,N,A,Vl.n.z. o podpoře bydlení - EU,,False,False
+83555,173,108,348,27,2024-07-10,10:52,128,7,27,19,181,91,N,A,Vl.n.z. o podpoře bydlení - EU,,False,False
+83556,173,108,349,27,2024-07-10,10:52,85,56,16,24,181,91,N,R,Vl.n.z. o podpoře bydlení - EU,,False,False
+83557,173,108,350,27,2024-07-10,10:53,91,33,27,30,181,91,N,A,Vl.n.z. o podpoře bydlení - EU,,False,False
+83558,173,108,351,27,2024-07-10,10:53,96,34,28,23,181,91,N,A,Vl.n.z. o podpoře bydlení - EU,,False,False
+83559,173,108,352,28,2024-07-10,10:54,85,63,12,24,184,93,N,R,Novela z. o podpoře bydlení,,False,False
+83560,173,108,353,28,2024-07-10,10:55,86,48,24,27,185,93,N,R,Novela z. o podpoře bydlení,,False,False
+83561,173,108,354,28,2024-07-10,10:55,183,0,2,0,185,93,N,A,Novela z. o podpoře bydlení,,False,False
+83562,173,108,355,28,2024-07-10,10:56,130,6,26,24,186,94,N,A,Novela z. o podpoře bydlení,,False,False
+83563,173,108,356,28,2024-07-10,10:57,156,1,15,14,186,94,N,A,Novela z. o podpoře bydlení,,False,False
+83564,173,108,357,28,2024-07-10,10:57,112,28,20,27,187,94,N,A,Novela z. o podpoře bydlení,,False,False
+83565,173,108,358,29,2024-07-10,11:03,159,2,21,1,183,92,N,A,Novela z. o podnikání na kapitálovém trhu - EU,,False,False
+83566,173,108,359,29,2024-07-10,11:04,153,4,18,9,184,93,N,A,Novela z. o podnikání na kapitálovém trhu - EU,,False,False
+83567,173,108,360,115,2024-07-10,11:23,168,0,16,0,184,93,N,A,Novela z. o pojistném na sociální zabezpečení,,False,False
+83568,173,108,361,115,2024-07-10,11:23,128,0,19,38,185,93,N,A,Novela z. o pojistném na sociální zabezpečení,,False,False
+83569,173,110,1,0,2024-07-10,13:01,107,0,3,0,110,56,N,A, ,,False,False
+83570,173,110,2,0,2024-07-10,13:03,137,0,3,0,140,71,N,A,Pořad schůze,,False,False
+83571,173,110,3,1,2024-07-10,13:57,148,0,3,0,151,76,N,A,Novela z. o audioviz. dílech a podpoře kinematografie - EU,,False,False
+83572,173,110,4,1,2024-07-10,13:58,150,0,1,0,151,76,N,A,Novela z. o audioviz. dílech a podpoře kinematografie - EU,,False,False
+83573,173,110,5,2,2024-07-10,14:18,146,0,10,0,156,79,N,A,Novela z. o spotřebních daních - EU,,False,False
+83574,173,111,1,0,2024-07-11,09:02,127,0,5,0,132,67,N,A, ,,False,False
+83575,173,111,2,0,2024-07-11,09:07,78,62,2,0,142,72,N,A, ,,False,False
+83576,173,111,3,0,2024-07-11,09:08,80,62,1,0,143,72,N,A,Pořad schůze,,False,False
+83577,173,108,362,0,2024-07-12,09:06,148,0,4,0,152,77,N,A,Pořad schůze,,False,False
+83578,173,108,363,0,2024-07-12,09:08,156,0,1,0,157,79,N,A,Pořad schůze,,False,False
+83579,173,108,364,137,2024-07-12,09:16,161,0,4,0,165,83,N,A,Novela z. o základních registrech,,False,False
+83580,173,108,365,137,2024-07-12,09:17,26,0,141,0,167,84,N,R,Novela z. o základních registrech,,False,False
+83581,173,108,366,137,2024-07-12,09:17,165,0,3,0,168,85,N,A,Novela z. o základních registrech,,False,False
+83582,173,108,367,137,2024-07-12,09:18,167,0,1,0,168,85,N,A,Novela z. o základních registrech,,False,False
+83583,173,108,368,137,2024-07-12,09:19,95,1,61,11,168,85,N,A,Novela z. o základních registrech,,False,False
+83584,173,108,369,168,2024-07-12,09:22,140,1,16,10,167,84,N,A,Návrh na potvrzení předsedů výborů Poslanecké sněmovny,,False,False
+83585,173,108,370,168,2024-07-12,09:23,152,13,3,0,168,85,N,A,Návrh na potvrzení předsedů výborů Poslanecké sněmovny,,False,False
+83586,173,108,371,168,2024-07-12,09:24,155,2,5,6,168,85,N,A,Návrh na potvrzení předsedů výborů Poslanecké sněmovny,,False,False
+83587,173,108,372,167,2024-07-12,09:28,158,0,8,2,168,85,N,A,zas.pořádek,,False,False
+83588,173,108,373,0,2024-07-12,10:04,152,4,15,0,171,86,N,A, ,,False,False
+83589,173,111,4,1,2024-07-12,10:14,5,12,130,0,147,74,N,R,Novela z. o České televizi a o Českém rozhlasu,,False,False
+83590,173,111,5,1,2024-07-12,10:15,94,72,0,0,166,84,N,A,Novela z. o České televizi a o Českém rozhlasu,,False,False
+83591,173,111,6,1,2024-07-12,13:00,93,70,8,1,172,87,N,A,Novela z. o České televizi a o Českém rozhlasu,,False,False
+83592,173,111,7,1,2024-07-12,13:02,70,94,0,3,167,84,N,R,Novela z. o České televizi a o Českém rozhlasu,,False,False
+83593,173,111,8,1,2024-07-12,13:03,164,1,2,0,167,84,N,A,Novela z. o České televizi a o Českém rozhlasu,,False,False
+83594,173,111,9,1,2024-07-12,13:04,71,93,0,3,167,84,N,R,Novela z. o České televizi a o Českém rozhlasu,,False,False
+83595,173,111,10,1,2024-07-12,13:04,71,90,3,3,167,84,N,R,Novela z. o České televizi a o Českém rozhlasu,,False,False
+83596,173,111,11,1,2024-07-12,13:05,165,0,2,0,167,84,N,A,Novela z. o České televizi a o Českém rozhlasu,,False,False
+83597,173,111,12,1,2024-07-12,13:07,74,59,18,16,167,84,N,R,Novela z. o České televizi a o Českém rozhlasu,,False,False
+83598,173,111,13,1,2024-07-12,13:08,71,3,37,56,167,84,N,R,Novela z. o České televizi a o Českém rozhlasu,,False,False
