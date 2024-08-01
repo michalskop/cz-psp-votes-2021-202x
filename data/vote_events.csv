@@ -6040,7 +6040,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 83343,173,108,137,152,2024-06-27,12:49,173,0,6,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
 83344,173,108,138,152,2024-06-27,12:49,176,0,3,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
 83345,173,108,139,152,2024-06-27,12:49,176,0,3,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
-83346,173,108,140,152,2024-06-27,12:49,173,0,5,1,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
+83346,173,108,140,152,2024-06-27,12:49,173,0,5,1,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,True,True
 83347,173,108,141,152,2024-06-27,12:50,149,0,27,3,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
 83348,173,108,142,152,2024-06-27,12:50,175,0,4,0,179,90,N,A,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
 83349,173,108,143,152,2024-06-27,12:50,52,73,32,19,176,89,N,R,Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname,,False,False
@@ -6274,7 +6274,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 83577,173,108,362,0,2024-07-12,09:06,148,0,4,0,152,77,N,A,Pořad schůze,,False,False
 83578,173,108,363,0,2024-07-12,09:08,156,0,1,0,157,79,N,A,Pořad schůze,,False,False
 83579,173,108,364,137,2024-07-12,09:16,161,0,4,0,165,83,N,A,Novela z. o základních registrech,,False,False
-83580,173,108,365,137,2024-07-12,09:17,26,0,141,0,167,84,N,R,Novela z. o základních registrech,,False,False
+83580,173,108,365,137,2024-07-12,09:17,26,0,141,0,167,84,N,R,Novela z. o základních registrech,,True,True
 83581,173,108,366,137,2024-07-12,09:17,165,0,3,0,168,85,N,A,Novela z. o základních registrech,,False,False
 83582,173,108,367,137,2024-07-12,09:18,167,0,1,0,168,85,N,A,Novela z. o základních registrech,,False,False
 83583,173,108,368,137,2024-07-12,09:19,95,1,61,11,168,85,N,A,Novela z. o základních registrech,,False,False
@@ -6283,7 +6283,7 @@ vote_event_id,org_id,sitting,vote_event_number,bod,date,time,yes,no,abstain,not_
 83586,173,108,371,168,2024-07-12,09:24,155,2,5,6,168,85,N,A,Návrh na potvrzení předsedů výborů Poslanecké sněmovny,,False,False
 83587,173,108,372,167,2024-07-12,09:28,158,0,8,2,168,85,N,A,zas.pořádek,,False,False
 83588,173,108,373,0,2024-07-12,10:04,152,4,15,0,171,86,N,A, ,,False,False
-83589,173,111,4,1,2024-07-12,10:14,5,12,130,0,147,74,N,R,Novela z. o České televizi a o Českém rozhlasu,,False,False
+83589,173,111,4,1,2024-07-12,10:14,5,12,130,0,147,74,N,R,Novela z. o České televizi a o Českém rozhlasu,,True,True
 83590,173,111,5,1,2024-07-12,10:15,94,72,0,0,166,84,N,A,Novela z. o České televizi a o Českém rozhlasu,,False,False
 83591,173,111,6,1,2024-07-12,13:00,93,70,8,1,172,87,N,A,Novela z. o České televizi a o Českém rozhlasu,,False,False
 83592,173,111,7,1,2024-07-12,13:02,70,94,0,3,167,84,N,R,Novela z. o České televizi a o Českém rozhlasu,,False,False
