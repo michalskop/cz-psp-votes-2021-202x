@@ -72,12 +72,17 @@ selected_voters = pw[pw > lo_limit].index.tolist()
 X0c = X0    # for use with time intervals
 
 # I matrix
-I = X.notna().astype(int).loc[:, selected_voters]
-Iw = I.fillna(0).mul(w1, axis=0).mul(w2, axis=0)
+# I = X.notna().astype(int).loc[:, selected_voters] # for direct use
+I = X.notna().astype(int) # for use with time intervals
+Iw = I.fillna(0).mul(w1, axis=0).mul(w2, axis=0) 
+
 
 # “X’X” MATRIX
 # weighted X’X matrix with missing values substituted and excluded persons; persons x persons
 # C=t(X0c)%*%X0c * 1/(t(Iwc)%*%Iwc) * (sum(w1*w1*w2*w2))
+# Check shapes
+print("X0c shape:", X0c.shape)
+print("Iw shape:", Iw.shape)
 C = (X0c.T.dot(X0c) * (1 / (Iw.T.dot(Iw))) * (w1 * w1 * w2 * w2).sum()).fillna(0)
 
 # DECOMPOSITION
