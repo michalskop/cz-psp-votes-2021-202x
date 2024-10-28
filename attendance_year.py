@@ -17,12 +17,12 @@ path = "./"
 source_path = "source/"
 data_path = "data/"
 
-year = 2023
+year = 2024
 
 current_hlasovani = 2021
 
 # download fresh data
-url = "http://www.psp.cz/eknih/cdrom/opendata/hl-" + str(current_hlasovani) + "ps.zip"
+url = "https://www.psp.cz/eknih/cdrom/opendata/hl-" + str(current_hlasovani) + "ps.zip"
 r = requests.get(url, verify=True)
 if r.ok:
     z = zipfile.ZipFile(io.BytesIO(r.content))

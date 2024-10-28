@@ -20,7 +20,7 @@ current_hlasovani = 2021
 current_term = 'PSP9'
 
 # download fresh data
-url = "http://www.psp.cz/eknih/cdrom/opendata/hl-" + str(current_hlasovani) + "ps.zip"
+url = "https://www.psp.cz/eknih/cdrom/opendata/hl-" + str(current_hlasovani) + "ps.zip"
 r = requests.get(url, verify=True)
 if r.ok:
   z = zipfile.ZipFile(io.BytesIO(r.content))
@@ -36,7 +36,7 @@ if r.ok:
 mps = pd.read_csv(path + data_path + "mps.csv")
 
 votes = pd.read_csv(path + source_path + "hl" + str(current_hlasovani) + "h1.unl", sep="|", encoding="cp1250", header=None)
-header = ["mp_id", "vote_event_id", "vote", "psp_id", "dummy"]
+header = ["psp_id", "mp_id", "vote_event_id", "vote", "dummy"]
 votes.columns = header
 del votes["dummy"]
 del votes["psp_id"]
