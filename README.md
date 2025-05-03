@@ -1,5 +1,7 @@
 # Analyses of votes in Lower Chamber in Czech Parliament 2021-202x
 
+- There is a new version: v2
+
 ## Articles
 2021-202x: https://www.seznamzpravy.cz/clanek/fakta-poslanecka-snemovna-hlasovani-dochazka-poslancu-219329
 
